@@ -1,0 +1,221 @@
+,name1,name2,id1,id2,similarity_score
+0,ahmed al‐rawi,ahmed al-rawi,A5050245548,A5093769593,92
+1,vinícius c azevedo,vinicius c azevedo,A5112368463,A5103260690,94
+2,joshua d alampi,josh alampi,A5005530879,A5064096264,85
+3,sean c anderson,aspen anderson,A5081686405,A5019882570,83
+4,ivan v bajić,lvan v bajic,A5012187461,A5093208285,83
+5,mark a brockman,ma brockman,A5021397351,A5062945775,85
+6,andrew p blaber,andrew phillip blaber,A5111618673,A5113110122,83
+7,christopher beh,christopher buse,A5012256170,A5118970217,90
+8,tom c brown,tom brown,A5112796676,A5078745916,90
+9,andreǐ a bulatov,andreĭ a bulatov,A5103266587,A5108247017,94
+10,megan barker,megan k barker,A5056468452,A5054202306,92
+11,tim u h baumeister,tim baumeister,A5019595229,A5058323325,88
+12,andreea bratu,andreea barbu,A5064542404,A5098667658,85
+13,jil a busmann,jil busmann,A5072224327,A5074527350,92
+14,scott e bernstein,scott bernstein,A5057881599,A5002125273,94
+15,alishba bibal,alishba bilal,A5115512232,A5112957369,92
+16,ignacio calderon de la barca,igacio calderon de la barca,A5017248675,A5050733708,98
+17,z brumme,zl brumme,A5075252668,A5084001641,94
+18,mirzafaisal beg,mirza faisal beg,A5104015115,A5000972836,97
+19,john j clague,j j clague,A5090873433,A5000296592,87
+20,jennifer a chan,jennifer c y chan,A5067228740,A5029500670,88
+21,caroline colijn,caroline coljin,A5091754800,A5019122524,93
+22,caroline colijn,caroline colijin,A5091754800,A5092252314,97
+23,yuxi chen,xi chen,A5100764265,A5100690182,88
+24,brian e conway,brian conway,A5109163734,A5101537673,92
+25,david c clarke,dave c clarke,A5062270975,A5112840346,89
+26,teresa cheung,tessa cheng,A5077739432,A5051697024,83
+27,teresa cheung,teresa p cheung,A5077739432,A5079537793,93
+28,anita t coté,anita coté,A5072214202,A5066224186,91
+29,stephen choi,stephen collis,A5046677225,A5015481958,85
+30,daniel chang,dave chang,A5044668950,A5011390842,82
+31,daniel chang,daniel chiang,A5044668950,A5006979877,96
+32,si chen,xi chen,A5100366176,A5100690182,86
+33,kristin chong,christine chuong,A5104109440,A5083724661,83
+34,qimin chen,imin chen,A5069419461,A5024124555,95
+35,maude comtois‐cabana,maude comtois cabana,A5071955961,A5007654876,95
+36,a carr,a carter,A5081082111,A5004107679,86
+37,stephanie j cooper,stephanie cooper,A5103638663,A5111618796,94
+38,dave clarke,dave c clarke,A5075735110,A5112840346,92
+39,caroline coljin,caroline colijin,A5019122524,A5092252314,97
+40,hugo cardoso,hugo fv cardoso,A5102492080,A5078265907,89
+41,sam m doesburg,sam doesburg,A5081393957,A5022796523,92
+42,garth w p davies,garth davies,A5061377171,A5104079126,86
+43,nilgun donmez,anil donmez,A5053611147,A5027106147,83
+44,andréanne doyon,andré doyon,A5020845547,A5066893131,85
+45,andréanne doyon,andreanne doyon,A5020845547,A5106389029,93
+46,thomas donaldson,tom donaldson,A5002800300,A5046128130,90
+47,clara vada etter,clara v etter,A5077611536,A5068946645,90
+48,richard g frank,richard frank,A5018486913,A5030367930,93
+49,faranak farzan,farnak farzan,A5015821361,A5016330282,96
+50,andrei v frolov,andrei v frolovand,A5036300411,A5047401072,91
+51,henry a finn,henry finn,A5029860397,A5080374417,91
+52,ron ferguson,arron ferguson,A5113563751,A5037222281,92
+53,sina fatolahzadeh,s fatolahzadeh,A5028619456,A5106384340,90
+54,reza farzam,r farzam,A5061603743,A5092972281,84
+55,susanne w fietz,w susanne fietz,A5093010858,A5052771299,87
+56,biruté m f galdikas,birute mary f galdikas,A5110301419,A5110389729,88
+57,alissa greer,alissa m greer,A5037509232,A5102942084,92
+58,daniel r y gan,daniel ry gan,A5075926575,A5091261371,96
+59,thomas gunton,tom gunton,A5059560375,A5113412320,87
+60,shreemouna gurung,sheemouna gurung,A5088826260,A5114125674,97
+61,bhargav gadhvi,bhargav gadhavi,A5024718097,A5067698309,97
+62,h dan gibson,h daniel gibson,A5062475859,A5022558865,89
+63,david j green,d j green,A5027361434,A5022328570,82
+64,emma griggs,e griggs,A5048222452,A5096227643,84
+65,wanhaoyi geng,wanhayoi geng,A5069750402,A5058844042,92
+66,fh garcia,f h garcia,A5085198235,A5006750915,95
+67,andrew b harris,andrew harries,A5011644095,A5002454592,90
+68,b heinrich,brett heinrich,A5062467718,A5113965832,83
+69,laura k hilton,l k hilton,A5013858831,A5088639771,83
+70,michael d hathaway,michael j hathaway,A5035254678,A5006660476,94
+71,x joan hu,joan hu,A5045961414,A5111259476,88
+72,yang he,yuliang he,A5101932345,A5075080679,82
+73,richard e hohn,ric e hohn,A5046358294,A5110946665,83
+74,carlos a sierra hernandez,carlos sierra hernandez,A5019781908,A5002843048,96
+75,k hudson,kh hudson,A5006846901,A5035794293,94
+76,kassia hayek,kassia hyek,A5009358287,A5086460354,96
+77,jonathan han,jonathan hartt,A5081367616,A5093496417,85
+78,ric hohn,ric e hohn,A5082680867,A5110946665,89
+79,roumi ilieva,roumiana ilieva,A5059056746,A5107019523,89
+80,valentin jaumouillé,valentin jamouille,A5001004675,A5108922685,92
+81,ng jensen,g jensen,A5086281143,A5003321247,94
+82,worawee janpongsri,worawee japongsori,A5062405993,A5001455481,94
+83,g jensen,gaby jensen,A5003321247,A5020431334,84
+84,dominic j jaworski,dominic jaworiski,A5085766291,A5119544262,91
+85,mohammad mahdi jahanara,mohammadmahdi jahanara,A5069061274,A5089156226,98
+86,nitish kumar,hitesh kumar,A5039262439,A5110959612,83
+87,katrina koehn,katerina kwon,A5013903764,A5113195379,85
+88,suyoung kim,hoyoung kim,A5081300303,A5053435865,82
+89,joshua kanaganayagam,josh kanaganayagam,A5039370835,A5034727559,95
+90,raminder kaur,raminderjeet kaur,A5114211742,A5028102520,87
+91,jacob kemp,jacob m kemp,A5103256265,A5087289082,91
+92,nn kinloch,n kinloch,A5055547267,A5071349214,95
+93,kauʻi keliipio,m kaui keliipio,A5059859936,A5045101026,90
+94,charles krieger,charles kriel,A5064602809,A5098723401,86
+95,angela kaida,angela kaidaon,A5091089188,A5095333481,92
+96,b liu,b lu,A5114378471,A5067826387,89
+97,b liu,b x liu,A5114378471,A5114290805,83
+98,cheng li,cheng lit,A5100354297,A5094001550,94
+99,kelley lee,kelsey lee,A5019363540,A5047999240,90
+100,amy lee,amy hy lee,A5100686477,A5102626370,82
+101,amy lee,a lee,A5100686477,A5079846513,83
+102,richard lockhart,richard loat,A5035238514,A5052159696,86
+103,qi lin,zi lin,A5102608112,A5110229964,83
+104,angelica lim,angelica lee,A5054803584,A5064843057,83
+105,alexandra lysova,alexandra v lysova,A5088763872,A5096742315,94
+106,sabrina s m lee,sabrina sm lee,A5080857003,A5079701172,97
+107,linyi li,li yi lim,A5101915882,A5108281017,82
+108,tingan li,qingcan li,A5034308738,A5014078397,84
+109,chelsey lee,kelsey lee,A5037459113,A5047999240,86
+110,n lehmann,k lehmann,A5107889357,A5105764596,89
+111,luyao lin,leyao lin,A5062615947,A5025114845,89
+112,elfituri s lahemer,elfituri lahamer,A5032341373,A5055198520,88
+113,ryan d morin,r d morin,A5081644676,A5027417971,86
+114,john j mcdonald,john a macdonald,A5077824553,A5103468821,90
+115,paul meyer,p meyer,A5019323500,A5109005649,82
+116,gordon mctaggart-cowan,gp mctaggart-cowan,A5040189249,A5108717311,85
+117,daniel d marshall,dan marshall,A5112642773,A5112003754,83
+118,john a macdonald,ja macdonald,A5103468821,A5000418425,86
+119,zarah monfaredi,aryan monfared,A5082693605,A5079493724,83
+120,mark mahadeo,mark n mahadeo,A5012970291,A5086131135,92
+121,klinsmann j coelho silva meneses,klinsmann j coelho silva menes,A5062290806,A5093260777,97
+122,finlay c macnab,finlay macnab,A5067609189,A5054475200,93
+123,fiona margaret mackellar,fiona m mackellar,A5001691873,A5045703529,83
+124,masahiro niikura,masa niikura,A5089335621,A5108740660,86
+125,anne‐marie nicol,anne marie nicol,A5110840814,A5113313391,94
+126,anne‐marie nicol,anne-marie nicole,A5110840814,A5113360973,91
+127,anne marie nicol,anne-marie nicole,A5113313391,A5113360973,91
+128,william odom,will odom,A5073024818,A5056121536,86
+129,marlena ornowska,ms marlena ornowska,A5064059636,A5109595986,91
+130,katherine o’donnell,katherine a o’donnell,A5066229322,A5103744218,95
+131,jf ogilvie,j f ogilvie,A5006142451,A5023738667,95
+132,d c o’neil,dc oneil,A5103713192,A5045650275,89
+133,david j price,david price,A5057027392,A5102969601,92
+134,david j price,david j prime,A5057027392,A5103543042,92
+135,david j price,david prime,A5057027392,A5009690588,83
+136,david price,david j prime,A5102969601,A5103543042,83
+137,david price,david prime,A5102969601,A5009690588,91
+138,s panchapakesan,sathish panchapakesan,A5043684828,A5103910853,83
+139,edward j park,edward park,A5027049699,A5111270872,92
+140,david j prime,david prime,A5103543042,A5009690588,92
+141,mn prentice,m prentice,A5114055326,A5112929889,95
+142,da patterson,david a patterson,A5110248522,A5077202069,83
+143,michael p richards,michael richards,A5005684483,A5019215400,94
+144,bernhard e riecke,bernhard rieke,A5016706227,A5108830512,90
+145,stephen n robinovitch,stephen n robinovich,A5017663407,A5007182790,98
+146,steven reynolds,steve reynolds,A5009546214,A5109852452,97
+147,sarah robinson,sarah j robinson,A5086557273,A5034966587,93
+148,richard routledge,rick routledge,A5027424447,A5110179990,84
+149,steve reynolds,s reynolds,A5109852452,A5060207717,83
+150,eline a de rooij,eline de rooij,A5021349143,A5053298356,93
+151,stephanie l rayner,stephanie l renkers,A5028857421,A5106797872,86
+152,chase l radford,chase radford,A5007555900,A5035799498,93
+153,ramani ramaseshan,ramani remaseshan,A5103840556,A5092835365,94
+154,lauren faulkner rossi,lauren n faulkner rossi,A5023044639,A5072640534,95
+155,patrick morgan ritchie,patrick m ritchie,A5040169002,A5086371059,87
+156,javairia rahim,javaria f rahim,A5006521692,A5055183771,90
+157,z john shen,john shen,A5013766145,A5063633720,90
+158,wolfgang stuerzlinger,wolfgang stürzlinger,A5085460170,A5106113183,93
+159,nadine schuurman,nadine schuurmann,A5071764220,A5014876465,97
+160,doug stead,d stead,A5004942062,A5110425840,82
+161,xiangyu sun,bingyun sun,A5060002954,A5030344959,82
+162,hasina samji,hasina shamji,A5032853894,A5003602094,96
+163,michèle schmidt,michelle schmidt,A5091617213,A5039633290,90
+164,debbie sheehan,debbie sheenan,A5109036918,A5055687264,93
+165,vahideh shirmohammadli,a h shirmohammadi,A5009499082,A5074222454,82
+166,thushani de silva,gl thushani de silva,A5068060581,A5013022283,92
+167,jeffrey van santen,jeffrey a van santen,A5058603439,A5071037562,95
+168,akhmedkhan shabanov,akhmedkhan ahan shabanov,A5108762255,A5108988979,88
+169,k a salters,kate salters,A5109249088,A5080431297,87
+170,stephanie c stelmaschuk,stephanie c stelmachuk,A5020197736,A5075274634,98
+171,andrew j sixsmith,andrew sixsmith,A5109634693,A5062744892,94
+172,victor ht soares,victor soares,A5113007020,A5113114976,90
+173,david c thomas,david c thompson,A5101577676,A5083128208,87
+174,paul tupper,p tupper,A5078121912,A5025327252,84
+175,michael j trimble,michael trimble,A5059892142,A5114186388,94
+176,paige tuttösí,paige tuttosi,A5064388924,A5020759758,85
+177,daniel tay,daniel tarnu,A5019604712,A5011155609,82
+178,sara taghipour,parnian taghipour,A5089099162,A5092503488,84
+179,omnia taha,omnia m taha,A5089318544,A5055623045,91
+180,kamala todd,par kamala todd,A5093134137,A5111063660,85
+181,deniz ugur,deniz g ural,A5077892929,A5117273249,82
+182,jennifer s wong,jennifer wang,A5018101953,A5023442198,86
+183,qi wang,yi wang,A5100341251,A5071864494,86
+184,qi wang,ruiqi wang,A5100341251,A5047012415,82
+185,david g t whitehurst,david gt whitehirst,A5045933977,A5113131774,92
+186,bixia wang,bi-xia wang,A5052919764,A5113040768,95
+187,zhengqing wang,mengqin wang,A5005632299,A5109697714,85
+188,amanda wallace,alannah wallace,A5083012202,A5055356925,83
+189,lucas wu,lucas y wu,A5000594667,A5052301741,89
+190,j wang,r wang,A5064909746,A5045307948,83
+191,j wang,g wang,A5064909746,A5061444400,83
+192,j wang,h wang,A5064909746,A5009973876,83
+193,j wang,c wang,A5064909746,A5030973280,83
+194,a woinoski,tim woinoski,A5031293841,A5112857475,82
+195,r wang,g wang,A5045307948,A5061444400,83
+196,r wang,h wang,A5045307948,A5009973876,83
+197,r wang,c wang,A5045307948,A5030973280,83
+198,g wang,h wang,A5061444400,A5009973876,83
+199,g wang,c wang,A5061444400,A5030973280,83
+200,timothy woinoski,tim woinoski,A5112497827,A5112857475,86
+201,h wang,c wang,A5009973876,A5030973280,83
+202,tianbi wu,tianbu wu,A5077851516,A5113986242,89
+203,calvert woodruff,cal woodruff,A5007490784,A5058077634,86
+204,hui xie,h xie,A5035823220,A5057652444,83
+205,minghao yin,ming yin,A5023555343,A5101273683,84
+206,ronald c ydenberg,ron ydenberg,A5060793104,A5109944350,83
+207,xing-dong yang,xingdong yang,A5084933066,A5111939848,96
+208,sen yang,wen yang,A5101842208,A5100592332,88
+209,andy yoon,andy yan,A5036756377,A5050260428,82
+210,m a yakovlev,m yakovlev,A5050510999,A5085376161,91
+211,hao zhang,miao zhang,A5100397026,A5100376451,84
+212,jia zhao,sida zhao,A5101724268,A5070688108,82
+213,zhilin zhang,zhitian zhang,A5100723116,A5111217709,88
+214,haoyuan zhao,haoxuan zhou,A5114832292,A5006253199,83
+215,z zhang,n zhang,A5009011522,A5061007955,86
+216,z zhang,j zhang,A5009011522,A5070372260,86
+217,vanja zdjelar,ivana zdjelar,A5025292022,A5114472761,92
+218,n zhang,j zhang,A5061007955,A5070372260,86
+219,n zhang,peng zhang,A5061007955,A5100364110,82

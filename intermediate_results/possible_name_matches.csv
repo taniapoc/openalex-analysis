@@ -1,0 +1,3424 @@
+,name1,name2,id1,id2,similarity_score
+0,ahmed al‐rawi,ahmed al-rawi,A5050245548,A5093769593,92
+1,gail s anderson,jillian anderson,A5046194198,A5042564012,71
+2,gail s anderson,a m anderson,A5046194198,A5043746917,81
+3,gail s anderson,sean c anderson,A5046194198,A5081686405,73
+4,gail s anderson,aspen anderson,A5046194198,A5019882570,76
+5,gail s anderson,nicole anderson,A5046194198,A5109759271,73
+6,george e allen,george r agnes,A5006221782,A5054759610,71
+7,s bruce archibald,s bruce archibald,A5075000677,A5108658458,100
+8,d g armstrong,kyle m armstrong,A5109229854,A5071425274,76
+9,vinícius c azevedo,vinicius c azevedo,A5112368463,A5103260690,94
+10,mehran ahmadi,simran ahmed,A5102137892,A5065397864,72
+11,matthew amy,matthew amy,A5042673679,A5092679926,100
+12,olivia aguiar,ivan a aguliar,A5101510074,A5035463939,74
+13,jillian anderson,a m anderson,A5042564012,A5043746917,71
+14,jillian anderson,sean c anderson,A5042564012,A5081686405,71
+15,jillian anderson,aspen anderson,A5042564012,A5019882570,73
+16,jillian anderson,nicole anderson,A5042564012,A5109759271,71
+17,zayed ahmed,ahmed sayed ahmed,A5048910472,A5082713680,71
+18,scott c anderson,a m anderson,A5081601519,A5043746917,71
+19,scott c anderson,sean c anderson,A5081601519,A5081686405,77
+20,scott c anderson,nicole anderson,A5081601519,A5109759271,71
+21,niloufar aran,niloufar abhari,A5086077761,A5034158753,79
+22,niloufar aran,neilofar amiri,A5086077761,A5088404611,74
+23,ronda arab,ronda arab,A5071668228,A5092700665,100
+24,a m anderson,sean c anderson,A5043746917,A5081686405,81
+25,a m anderson,aspen anderson,A5043746917,A5019882570,77
+26,shona adams,sarah adams,A5044850295,A5005097780,73
+27,joshua d alampi,josh alampi,A5005530879,A5064096264,85
+28,mehryar abbasi,mehryar abbasi,A5031764000,A5012315304,100
+29,bita azari,n azari,A5040794159,A5048829739,71
+30,sean c anderson,shelbie f anderson,A5081686405,A5037606234,73
+31,sean c anderson,aspen anderson,A5081686405,A5019882570,83
+32,nastaran arianpoo,n arianpoo,A5071435032,A5102728332,74
+33,niloufar abhari,neilofar amiri,A5034158753,A5088404611,76
+34,simran ahmed,erion ahmed,A5065397864,A5112846448,70
+35,amirhossein alimohammadi,amirhossein alizadehkhaledi,A5035619284,A5019710534,75
+36,nadra ansari,neda anvari,A5058829130,A5085378218,78
+37,neda anvari,neda afzali,A5085378218,A5093691199,73
+38,jonathan m borwein,john h borden,A5088720034,A5074800507,71
+39,j c burzynski,jackson carl burzynski,A5039744323,A5107903626,74
+40,j c burzynski,j c burzynski,A5039744323,A5032934650,100
+41,j c burzynski,j c burzynski,A5039744323,A5105843690,100
+42,j c burzynski,j c burzynski,A5039744323,A5107904219,100
+43,j c burzynski,j c burzynski,A5039744323,A5107901827,100
+44,j c burzynski,j c burzynski,A5039744323,A5107459251,100
+45,s beale,s beaupre,A5113500609,A5109835861,75
+46,zabrina l brumme,zl brumme,A5054186329,A5084001641,72
+47,zabrina l brumme,zl brumme,A5054186329,A5010693015,72
+48,mirza faisal beg,mirza faisal beg,A5000972836,A5102760369,100
+49,mirza faisal beg,mirzafaisal beg,A5000972836,A5104015115,97
+50,ivan v bajić,lvan v bajic,A5012187461,A5093208285,83
+51,robert britton,robert beringer,A5014010162,A5080379500,76
+52,mark a brockman,ma brockman,A5021397351,A5062945775,85
+53,mark a brockman,ma brockman,A5021397351,A5040066274,85
+54,jackson carl burzynski,j c burzynski,A5107903626,A5032934650,74
+55,jackson carl burzynski,j c burzynski,A5107903626,A5105843690,74
+56,jackson carl burzynski,j c burzynski,A5107903626,A5107904219,74
+57,jackson carl burzynski,j c burzynski,A5107903626,A5107901827,74
+58,jackson carl burzynski,j c burzynski,A5107903626,A5107459251,74
+59,h bahrasemani,h bahrasemani,A5107882155,A5107883906,100
+60,h bahrasemani,h bahrasemani,A5107882155,A5110576607,100
+61,h bahrasemani,h bahrasemani,A5107882155,A5112345073,100
+62,h bahrasemani,h bahrasemani,A5107882155,A5107895189,100
+63,h bahrasemani,h bahrasemani,A5107882155,A5107440263,100
+64,h bahrasemani,h bahrasemani,A5107882155,A5107907827,100
+65,h bahrasemani,h bahrasemani,A5107882155,A5107381979,100
+66,h bahrasemani,m bahrami,A5107882155,A5074492767,73
+67,h bahrasemani,h bahrasemani,A5107882155,A5107423172,100
+68,neil r branda,nico brand,A5052954758,A5029365086,70
+69,nicholas blomley,nicholas brunelle,A5028312431,A5008301049,79
+70,behraad bahreyni,behdad bahrani,A5014284015,A5115910521,80
+71,ellen balka,helen bailey,A5021049120,A5014553399,70
+72,roberta berard,robert beringer,A5032187087,A5080379500,76
+73,andrew p blaber,andrew phillip blaber,A5111618673,A5113110122,83
+74,matthew brown,matthew l basso,A5041724055,A5048703653,71
+75,matthew brown,matthew berkowitz,A5041724055,A5060702246,80
+76,h bahrasemani,h bahrasemani,A5107883906,A5110576607,100
+77,h bahrasemani,h bahrasemani,A5107883906,A5112345073,100
+78,h bahrasemani,h bahrasemani,A5107883906,A5107895189,100
+79,h bahrasemani,h bahrasemani,A5107883906,A5107440263,100
+80,h bahrasemani,h bahrasemani,A5107883906,A5107907827,100
+81,h bahrasemani,h bahrasemani,A5107883906,A5107381979,100
+82,h bahrasemani,m bahrami,A5107883906,A5074492767,73
+83,h bahrasemani,h bahrasemani,A5107883906,A5107423172,100
+84,christopher beh,john‐christopher boyer,A5012256170,A5015743921,76
+85,christopher beh,christopher buse,A5012256170,A5118970217,90
+86,christopher beh,christoph batist,A5012256170,A5100235053,71
+87,d m broun,d m broun,A5035348662,A5044710138,100
+88,a blanchard,avner bachar,A5090446557,A5116170219,70
+89,kaylee a byers,katie a berens,A5048116565,A5018133795,71
+90,caroline barrière,caroline barclay,A5030122864,A5106171968,73
+91,tanya m brown,tom brown,A5102916892,A5078745916,73
+92,tom c brown,tom brown,A5112796676,A5078745916,90
+93,andreǐ a bulatov,andreĭ a bulatov,A5103266587,A5108247017,94
+94,john‐christopher boyer,christopher buse,A5015743921,A5118970217,74
+95,richard bent,gerald bent,A5056543952,A5093415222,70
+96,h bahrasemani,h bahrasemani,A5110576607,A5112345073,100
+97,h bahrasemani,h bahrasemani,A5110576607,A5107895189,100
+98,h bahrasemani,h bahrasemani,A5110576607,A5107440263,100
+99,h bahrasemani,h bahrasemani,A5110576607,A5107907827,100
+100,h bahrasemani,h bahrasemani,A5110576607,A5107381979,100
+101,h bahrasemani,m bahrami,A5110576607,A5074492767,73
+102,h bahrasemani,h bahrasemani,A5110576607,A5107423172,100
+103,h bahrasemani,h bahrasemani,A5112345073,A5107895189,100
+104,h bahrasemani,h bahrasemani,A5112345073,A5107440263,100
+105,h bahrasemani,h bahrasemani,A5112345073,A5107907827,100
+106,h bahrasemani,h bahrasemani,A5112345073,A5107381979,100
+107,h bahrasemani,m bahrami,A5112345073,A5074492767,73
+108,h bahrasemani,h bahrasemani,A5112345073,A5107423172,100
+109,brittany barker,sarita baker,A5010594617,A5037354644,74
+110,brittany barker,sarita baker,A5010594617,A5044427445,74
+111,h bahrasemani,h bahrasemani,A5107895189,A5107440263,100
+112,h bahrasemani,h bahrasemani,A5107895189,A5107907827,100
+113,h bahrasemani,h bahrasemani,A5107895189,A5107381979,100
+114,h bahrasemani,m bahrami,A5107895189,A5074492767,73
+115,h bahrasemani,h bahrasemani,A5107895189,A5107423172,100
+116,j c burzynski,j c burzynski,A5032934650,A5105843690,100
+117,j c burzynski,j c burzynski,A5032934650,A5107904219,100
+118,j c burzynski,j c burzynski,A5032934650,A5107901827,100
+119,j c burzynski,j c burzynski,A5032934650,A5107459251,100
+120,heather bliss,heather a baitz,A5081356061,A5020528755,71
+121,jessica bouchard,jessica e m burch,A5022991962,A5009980299,73
+122,douglas c braun,doug r braun,A5113442963,A5103066580,81
+123,oliver r baker,e r blake,A5008930425,A5046379215,70
+124,jamie baker,sarita baker,A5039070878,A5037354644,70
+125,jamie baker,sarita baker,A5039070878,A5044427445,70
+126,victoria brown,tom brown,A5054622019,A5078745916,70
+127,lin bao,celine barton,A5102021220,A5086551641,70
+128,edana beauvais,edana beauvais,A5045349823,A5106609507,100
+129,megan barker,megan k barker,A5056468452,A5054202306,92
+130,j c burzynski,j c burzynski,A5105843690,A5107904219,100
+131,j c burzynski,j c burzynski,A5105843690,A5107901827,100
+132,j c burzynski,j c burzynski,A5105843690,A5107459251,100
+133,tim u h baumeister,tim baumeister,A5019595229,A5058323325,88
+134,tim u h baumeister,tim baumeister,A5019595229,A5081296114,88
+135,j c burzynski,j c burzynski,A5107904219,A5107901827,100
+136,j c burzynski,j c burzynski,A5107904219,A5107459251,100
+137,chandan bhardwaj,ajay bhardwaj,A5038524753,A5103173680,76
+138,andreea bratu,tandeep brar,A5064542404,A5093131931,72
+139,andreea bratu,andreea barbu,A5064542404,A5098667658,85
+140,jacob brockerman,ma brockman,A5003243342,A5062945775,74
+141,jacob brockerman,ma brockman,A5003243342,A5040066274,74
+142,carmelina barone,celine barton,A5070712495,A5086551641,76
+143,alexander b beams,alexandra beukens,A5091524549,A5114325817,71
+144,scott bernard,scott bernstein,A5066969715,A5002125273,71
+145,h bahrasemani,h bahrasemani,A5107440263,A5107907827,100
+146,h bahrasemani,h bahrasemani,A5107440263,A5107381979,100
+147,h bahrasemani,m bahrami,A5107440263,A5074492767,73
+148,h bahrasemani,h bahrasemani,A5107440263,A5107423172,100
+149,h bahrasemani,h bahrasemani,A5107907827,A5107381979,100
+150,h bahrasemani,m bahrami,A5107907827,A5074492767,73
+151,h bahrasemani,h bahrasemani,A5107907827,A5107423172,100
+152,j c burzynski,j c burzynski,A5107901827,A5107459251,100
+153,cécile bullock,cécile sabatier bullock,A5109673885,A5103921231,76
+154,emily barr,emily betz,A5000551798,A5044183506,70
+155,jil a busmann,jil busmann,A5072224327,A5074527350,92
+156,mirza faisal beg,mirzafaisal beg,A5102760369,A5104015115,97
+157,adrienne berchtold,adrienne barcket,A5016375531,A5114322973,76
+158,alireza beigi,alireza beigi,A5067195321,A5099847245,100
+159,lindsay bochon,lindsay babcock,A5079541410,A5049612023,76
+160,florian baer,florian r bär,A5066677866,A5092691914,80
+161,julie beadle,julie beadle,A5080646096,A5010164760,100
+162,liam buirs,liam buirs,A5092167264,A5092009942,100
+163,ma brockman,ma brockman,A5062945775,A5040066274,100
+164,mckenzie s braley,mckenzie bahrami,A5068257934,A5087942681,73
+165,andrew l bickell,al bickell,A5091568340,A5098008944,77
+166,monica bhattacharjee,paloma bhattacharjee,A5044573188,A5010444190,80
+167,zohra bhimani,azra bhanji,A5047260551,A5092223217,75
+168,scott e bernstein,scott bernstein,A5057881599,A5002125273,94
+169,tim baumeister,tim baumeister,A5058323325,A5081296114,100
+170,zl brumme,zl brumme,A5084001641,A5010693015,100
+171,zl brumme,z brumme,A5084001641,A5075252668,94
+172,mckenzie bahrami,m bahrami,A5087942681,A5074492767,72
+173,alishba bibal,alishba bilal,A5115512232,A5112957369,92
+174,kaitlin m bruzzini,kaitlin l branch,A5035470041,A5036527660,71
+175,sarita baker,sarita baker,A5037354644,A5044427445,100
+176,sarah r bailey,samantha jr broadley,A5039848975,A5116263321,71
+177,courtney bogstie,cornel bogle,A5098815206,A5115946934,71
+178,h bahrasemani,m bahrami,A5107381979,A5074492767,73
+179,h bahrasemani,h bahrasemani,A5107381979,A5107423172,100
+180,christopher buse,christoph batist,A5118970217,A5100235053,75
+181,zl brumme,z brumme,A5010693015,A5075252668,94
+182,ignacio calderon de la barca,igacio calderon de la barca,A5017248675,A5050733708,98
+183,m bahrami,h bahrasemani,A5074492767,A5107423172,73
+184,tandeep brar,andreea barbu,A5093131931,A5098667658,72
+185,j chen,mo chen,A5107886267,A5100387244,77
+186,j chen,xi chen,A5107886267,A5100690182,77
+187,j chen,jing chen,A5107886267,A5100394876,80
+188,j chen,j chen,A5107886267,A5100609084,100
+189,j chen,j chen,A5107886267,A5106470991,100
+190,j chen,xi chen,A5107886267,A5100329904,77
+191,j chen,si chen,A5107886267,A5100366176,77
+192,j chen,j chen,A5107886267,A5108293215,100
+193,j chen,j chacón,A5107886267,A5074510211,71
+194,j chen,j chen,A5107886267,A5082104726,100
+195,john j clague,j j clague,A5090873433,A5000296592,87
+196,sheelagh carpendale,hannah carpendale,A5012561411,A5116816635,78
+197,jennifer a chan,jennifer chutter,A5067228740,A5020073904,71
+198,jennifer a chan,jennifer c y chan,A5067228740,A5029500670,88
+199,isabelle m côté,a m côté,A5048073547,A5011587569,70
+200,mo chen,xi chen,A5100387244,A5100690182,71
+201,mo chen,j chen,A5100387244,A5100609084,77
+202,mo chen,j chen,A5100387244,A5106470991,77
+203,mo chen,long chen,A5100387244,A5100336421,75
+204,mo chen,xi chen,A5100387244,A5100329904,71
+205,mo chen,imin chen,A5100387244,A5024124555,75
+206,mo chen,si chen,A5100387244,A5100366176,71
+207,mo chen,j chen,A5100387244,A5108293215,77
+208,mo chen,j chen,A5100387244,A5082104726,77
+209,mo chen,qimin chen,A5100387244,A5069419461,71
+210,mo chen,long chen,A5100387244,A5101454288,75
+211,mo chen,imin chen,A5100387244,A5011346188,75
+212,mo chen,imin chen,A5100387244,A5061389621,75
+213,caroline colijn,caroline coljin,A5091754800,A5019122524,93
+214,caroline colijn,caroline colijin,A5091754800,A5092252314,97
+215,habib chaudhury,sidhartha chaudhury,A5014665875,A5089946703,71
+216,habib chaudhury,rimika chaudhury,A5014665875,A5006725311,71
+217,xi chen,jing chen,A5100690182,A5100394876,75
+218,xi chen,j chen,A5100690182,A5100609084,77
+219,xi chen,yuxi chen,A5100690182,A5100764265,88
+220,xi chen,j chen,A5100690182,A5106470991,77
+221,xi chen,xi chen,A5100690182,A5100329904,100
+222,xi chen,imin chen,A5100690182,A5024124555,75
+223,xi chen,si chen,A5100690182,A5100366176,86
+224,xi chen,j chen,A5100690182,A5108293215,77
+225,xi chen,j chen,A5100690182,A5082104726,77
+226,xi chen,qimin chen,A5100690182,A5069419461,71
+227,xi chen,xiaoban chen,A5100690182,A5016622411,74
+228,xi chen,ziniu chen,A5100690182,A5029741209,71
+229,xi chen,imin chen,A5100690182,A5011346188,75
+230,xi chen,ricky chen,A5100690182,A5056785408,71
+231,xi chen,imin chen,A5100690182,A5061389621,75
+232,david a cabral,david c clarke,A5014884266,A5062270975,71
+233,sarah l canham,rachel canham,A5056237664,A5034142600,81
+234,jing chen,j chen,A5100394876,A5100609084,80
+235,jing chen,gang chen,A5100394876,A5100389308,78
+236,jing chen,j chen,A5100394876,A5106470991,80
+237,jing chen,long chen,A5100394876,A5100336421,78
+238,jing chen,xi chen,A5100394876,A5100329904,75
+239,jing chen,imin chen,A5100394876,A5024124555,78
+240,jing chen,si chen,A5100394876,A5100366176,75
+241,jing chen,yi-ting chen,A5100394876,A5100348255,76
+242,jing chen,j chen,A5100394876,A5108293215,80
+243,jing chen,j chen,A5100394876,A5082104726,80
+244,jing chen,yixuan chen,A5100394876,A5112913563,70
+245,jing chen,qimin chen,A5100394876,A5069419461,74
+246,jing chen,long chen,A5100394876,A5101454288,78
+247,jing chen,ziniu chen,A5100394876,A5029741209,74
+248,jing chen,imin chen,A5100394876,A5011346188,78
+249,jing chen,imin chen,A5100394876,A5061389621,78
+250,j chen,j chen,A5100609084,A5106470991,100
+251,j chen,xi chen,A5100609084,A5100329904,77
+252,j chen,si chen,A5100609084,A5100366176,77
+253,j chen,j chen,A5100609084,A5108293215,100
+254,j chen,j chacón,A5100609084,A5074510211,71
+255,j chen,j chen,A5100609084,A5082104726,100
+256,allison carter,a carter,A5076004104,A5004107679,73
+257,yuxi chen,xi chen,A5100764265,A5100329904,88
+258,yuxi chen,si chen,A5100764265,A5100366176,75
+259,yuxi chen,chunyu chen,A5100764265,A5100347529,70
+260,yuxi chen,yixuan chen,A5100764265,A5112913563,70
+261,brian e conway,brian conway,A5109163734,A5101537673,92
+262,hugo fv cardoso,hugo fv cardoso,A5078265907,A5029628546,100
+263,hugo fv cardoso,hugo cardoso,A5078265907,A5102492080,89
+264,david c clarke,dave clarke,A5062270975,A5075735110,80
+265,david c clarke,dave c clarke,A5062270975,A5112840346,89
+266,julian k christians,aisha k christiansen,A5076318644,A5008836455,77
+267,deborah a connolly,deb connolly,A5014109821,A5066779521,80
+268,emily e cameron,kevin cameron,A5066336976,A5043147253,71
+269,emily e cameron,layla cameron,A5066336976,A5022403286,71
+270,gang chen,long chen,A5100389308,A5100336421,78
+271,gang chen,shaohuang chen,A5100389308,A5075269359,70
+272,gang chen,yixuan chen,A5100389308,A5112913563,70
+273,gang chen,anqi a chen,A5100389308,A5035150383,70
+274,gang chen,nan-sheng chen,A5100389308,A5049486494,70
+275,gang chen,long chen,A5100389308,A5101454288,78
+276,gang chen,ange cullen,A5100389308,A5071123497,70
+277,gang chen,zhefan chen,A5100389308,A5011632368,70
+278,g calderini,jorge calderón,A5008157099,A5025170574,72
+279,teresa cheung,s chung,A5077739432,A5108522664,70
+280,teresa cheung,tessa cheng,A5077739432,A5051697024,83
+281,teresa cheung,teresa p cheung,A5077739432,A5079537793,93
+282,teresa cheung,vanessa cheung,A5077739432,A5119532228,74
+283,anita t coté,anita coté,A5072214202,A5066224186,91
+284,william a cupples,w a cupples,A5110868279,A5110810484,79
+285,william a cupples,william p coates,A5110868279,A5069470163,73
+286,j chen,xi chen,A5106470991,A5100329904,77
+287,j chen,si chen,A5106470991,A5100366176,77
+288,j chen,j chen,A5106470991,A5108293215,100
+289,j chen,j chacón,A5106470991,A5074510211,71
+290,j chen,j chen,A5106470991,A5082104726,100
+291,long chen,shaohuang chen,A5100336421,A5075269359,70
+292,long chen,long chen,A5100336421,A5101454288,100
+293,long chen,kyong chun,A5100336421,A5095550599,74
+294,xi chen,imin chen,A5100329904,A5024124555,75
+295,xi chen,si chen,A5100329904,A5100366176,86
+296,xi chen,j chen,A5100329904,A5108293215,77
+297,xi chen,j chen,A5100329904,A5082104726,77
+298,xi chen,qimin chen,A5100329904,A5069419461,71
+299,xi chen,xiaoban chen,A5100329904,A5016622411,74
+300,xi chen,ziniu chen,A5100329904,A5029741209,71
+301,xi chen,imin chen,A5100329904,A5011346188,75
+302,xi chen,ricky chen,A5100329904,A5056785408,71
+303,xi chen,imin chen,A5100329904,A5061389621,75
+304,lara campbell,t n campbell,A5102801207,A5019981581,72
+305,lara campbell,krishanna campbell,A5102801207,A5032558233,71
+306,nicole catherine,nicole chan,A5072737913,A5118116197,74
+307,rg cameron,kevin cameron,A5018437437,A5043147253,70
+308,rg cameron,layla cameron,A5018437437,A5022403286,70
+309,imin chen,si chen,A5024124555,A5100366176,75
+310,imin chen,yi-ting chen,A5024124555,A5100348255,76
+311,imin chen,yixuan chen,A5024124555,A5112913563,70
+312,imin chen,qimin chen,A5024124555,A5069419461,95
+313,imin chen,ziniu chen,A5024124555,A5029741209,74
+314,imin chen,imin chen,A5024124555,A5011346188,100
+315,imin chen,imin chen,A5024124555,A5061389621,100
+316,rebecca j cobb,rebecca d cox,A5000846228,A5024026724,81
+317,john f chant,john p canal,A5010169014,A5054278216,75
+318,stephanie e cleland,stephanie j cooper,A5072231561,A5103638663,70
+319,stephen choi,stephen collis,A5046677225,A5015481958,85
+320,stephen choi,stephen chastain,A5046677225,A5016082339,79
+321,daniel chang,dani chu,A5044668950,A5083177316,70
+322,daniel chang,angel xuan chang,A5044668950,A5103619575,71
+323,daniel chang,dave chang,A5044668950,A5011390842,82
+324,daniel chang,daniel chiang,A5044668950,A5006979877,96
+325,daniel chang,nicole chan,A5044668950,A5118116197,70
+326,victor cheung,victor cheung,A5055399971,A5107609977,100
+327,si chen,s chung,A5100366176,A5108522664,71
+328,si chen,j chen,A5100366176,A5108293215,77
+329,si chen,j chen,A5100366176,A5082104726,77
+330,si chen,qimin chen,A5100366176,A5069419461,71
+331,si chen,ys chae,A5100366176,A5103625504,71
+332,si chen,ziniu chen,A5100366176,A5029741209,71
+333,si chen,imin chen,A5100366176,A5011346188,75
+334,si chen,ricky chen,A5100366176,A5056785408,71
+335,si chen,imin chen,A5100366176,A5061389621,75
+336,yi-ting chen,yixuan chen,A5100348255,A5112913563,70
+337,yi-ting chen,qimin chen,A5100348255,A5069419461,73
+338,yi-ting chen,imin chen,A5100348255,A5011346188,76
+339,yi-ting chen,imin chen,A5100348255,A5061389621,76
+340,julia carr,a carr,A5033404204,A5081082111,75
+341,shaohuang chen,long chen,A5075269359,A5101454288,70
+342,j chen,j chacón,A5108293215,A5074510211,71
+343,j chen,j chen,A5108293215,A5082104726,100
+344,j chacón,j chen,A5074510211,A5082104726,71
+345,kristin chong,christine chuong,A5104109440,A5083724661,83
+346,tessa cheng,teresa p cheung,A5051697024,A5079537793,77
+347,tessa cheng,vanessa cheung,A5051697024,A5119532228,80
+348,paul crowe,tyla crowe,A5110564839,A5061109531,70
+349,im côté,a m côté,A5027736032,A5011587569,80
+350,helen chong,helen chong,A5110538120,A5113915541,100
+351,helen chong,cherlene chang,A5110538120,A5077809227,80
+352,george h cheng,george chow,A5064055251,A5108826949,72
+353,yixuan chen,yi-geun chae,A5112913563,A5002393954,70
+354,yixuan chen,xiaoban chen,A5112913563,A5016622411,70
+355,yixuan chen,ian chunn,A5112913563,A5080683263,70
+356,yixuan chen,imin chen,A5112913563,A5011346188,70
+357,yixuan chen,imin chen,A5112913563,A5061389621,70
+358,qimin chen,ziniu chen,A5069419461,A5029741209,70
+359,qimin chen,imin chen,A5069419461,A5011346188,95
+360,qimin chen,imin chen,A5069419461,A5061389621,95
+361,maude comtois‐cabana,maude comtois cabana,A5071955961,A5007654876,95
+362,michelle chan,michelle chan,A5113170352,A5102792859,100
+363,michelle chan,cherlene chang,A5113170352,A5077809227,74
+364,michelle chan,nicole chan,A5113170352,A5118116197,75
+365,helen chong,cherlene chang,A5113915541,A5077809227,80
+366,hugo fv cardoso,hugo cardoso,A5029628546,A5102492080,89
+367,rimika chaudhury,maryum chaudhry,A5006725311,A5021552957,71
+368,dani chu,ian chunn,A5083177316,A5080683263,71
+369,dani chu,annica chu,A5083177316,A5065197663,78
+370,winfield chen,ziniu chen,A5058188173,A5029741209,70
+371,a carr,a carter,A5081082111,A5004107679,86
+372,long chen,kyong chun,A5101454288,A5095550599,74
+373,tyler cole,talia r cole,A5108295940,A5001109789,73
+374,tyler cole,tyla crowe,A5108295940,A5061109531,70
+375,ziniu chen,imin chen,A5029741209,A5011346188,74
+376,ziniu chen,imin chen,A5029741209,A5061389621,74
+377,michelle chan,cherlene chang,A5102792859,A5077809227,74
+378,michelle chan,nicole chan,A5102792859,A5118116197,75
+379,stephanie j cooper,stephanie cooper,A5103638663,A5111618796,94
+380,imin chen,imin chen,A5011346188,A5061389621,100
+381,dave chang,daniel chiang,A5011390842,A5006979877,78
+382,joanna che,annica chu,A5000749234,A5065197663,70
+383,lucas clarke,dave clarke,A5001673080,A5075735110,70
+384,avneet k chhina,navneet kaur chana,A5042285024,A5004230309,79
+385,dave clarke,dave c clarke,A5075735110,A5112840346,92
+386,alexander ciok,alex ciok,A5106492693,A5087730138,78
+387,stephanie cooper,stephanie charette,A5111618796,A5106655126,71
+388,neha claire,neha claire,A5001300939,A5095705208,100
+389,caroline coljin,caroline colijin,A5019122524,A5092252314,97
+390,jacob mt cartwright,jacob carrigan,A5049642576,A5114105904,73
+391,cphln consortium,cancogen consortium,A5113204459,A5113204460,74
+392,wesley chenne,el chenier,A5116729088,A5116881146,70
+393,e drechsler,e drechsler,A5105505306,A5026796026,100
+394,e drechsler,e drechsler,A5105505306,A5107940047,100
+395,e drechsler,e drechsler,A5105505306,A5108038763,100
+396,e drechsler,e drechsler,A5105505306,A5107883735,100
+397,e drechsler,e drechsler,A5105505306,A5106465642,100
+398,e drechsler,e drechsler,A5105505306,A5105706924,100
+399,e drechsler,e drechsler,A5105505306,A5107904230,100
+400,e drechsler,e drechsler,A5105505306,A5107900724,100
+401,e drechsler,e drechsler,A5105505306,A5105536486,100
+402,e drechsler,e drechsler,A5105505306,A5107893155,100
+403,e drechsler,e drechsler,A5105505306,A5108835890,100
+404,e drechsler,e drechsler,A5105505306,A5107368050,100
+405,e drechsler,e drechsler,A5105505306,A5108122973,100
+406,b davids,l davis,A5065529657,A5103103853,80
+407,b davids,dit david,A5065529657,A5104282612,71
+408,sam m doesburg,sam doesburg,A5081393957,A5022796523,92
+409,sheíla delany,kat delany,A5053163006,A5115511041,70
+410,j maxwell donelan,max donelan,A5069056622,A5082745401,79
+411,j maxwell donelan,max donelan,A5069056622,A5088139050,79
+412,garth w p davies,garth davies,A5061377171,A5104079126,86
+413,eric deal,eric d digel,A5013341553,A5086535026,76
+414,nilgun donmez,anil donmez,A5053611147,A5027106147,83
+415,andréanne doyon,andré doyon,A5020845547,A5066893131,85
+416,andréanne doyon,andreanne doyon,A5020845547,A5106389029,93
+417,paul delany,kat delany,A5016079579,A5115511041,76
+418,e drechsler,e drechsler,A5026796026,A5107940047,100
+419,e drechsler,e drechsler,A5026796026,A5108038763,100
+420,e drechsler,e drechsler,A5026796026,A5107883735,100
+421,e drechsler,e drechsler,A5026796026,A5106465642,100
+422,e drechsler,e drechsler,A5026796026,A5105706924,100
+423,e drechsler,e drechsler,A5026796026,A5107904230,100
+424,e drechsler,e drechsler,A5026796026,A5107900724,100
+425,e drechsler,e drechsler,A5026796026,A5105536486,100
+426,e drechsler,e drechsler,A5026796026,A5107893155,100
+427,e drechsler,e drechsler,A5026796026,A5108835890,100
+428,e drechsler,e drechsler,A5026796026,A5107368050,100
+429,e drechsler,e drechsler,A5026796026,A5108122973,100
+430,damion dooley,waldron dooley,A5006394765,A5094737202,74
+431,s r dunsiger,s r dunsiger,A5035385095,A5040783091,100
+432,thomas donaldson,tom donaldson,A5002800300,A5046128130,90
+433,e drechsler,e drechsler,A5107940047,A5108038763,100
+434,e drechsler,e drechsler,A5107940047,A5107883735,100
+435,e drechsler,e drechsler,A5107940047,A5106465642,100
+436,e drechsler,e drechsler,A5107940047,A5105706924,100
+437,e drechsler,e drechsler,A5107940047,A5107904230,100
+438,e drechsler,e drechsler,A5107940047,A5107900724,100
+439,e drechsler,e drechsler,A5107940047,A5105536486,100
+440,e drechsler,e drechsler,A5107940047,A5107893155,100
+441,e drechsler,e drechsler,A5107940047,A5108835890,100
+442,e drechsler,e drechsler,A5107940047,A5107368050,100
+443,e drechsler,e drechsler,A5107940047,A5108122973,100
+444,e drechsler,e drechsler,A5108038763,A5107883735,100
+445,e drechsler,e drechsler,A5108038763,A5106465642,100
+446,e drechsler,e drechsler,A5108038763,A5105706924,100
+447,e drechsler,e drechsler,A5108038763,A5107904230,100
+448,e drechsler,e drechsler,A5108038763,A5107900724,100
+449,e drechsler,e drechsler,A5108038763,A5105536486,100
+450,e drechsler,e drechsler,A5108038763,A5107893155,100
+451,e drechsler,e drechsler,A5108038763,A5108835890,100
+452,e drechsler,e drechsler,A5108038763,A5107368050,100
+453,e drechsler,e drechsler,A5108038763,A5108122973,100
+454,e drechsler,e drechsler,A5107883735,A5106465642,100
+455,e drechsler,e drechsler,A5107883735,A5105706924,100
+456,e drechsler,e drechsler,A5107883735,A5107904230,100
+457,e drechsler,e drechsler,A5107883735,A5107900724,100
+458,e drechsler,e drechsler,A5107883735,A5105536486,100
+459,e drechsler,e drechsler,A5107883735,A5107893155,100
+460,e drechsler,e drechsler,A5107883735,A5108835890,100
+461,e drechsler,e drechsler,A5107883735,A5107368050,100
+462,e drechsler,e drechsler,A5107883735,A5108122973,100
+463,e drechsler,e drechsler,A5106465642,A5105706924,100
+464,e drechsler,e drechsler,A5106465642,A5107904230,100
+465,e drechsler,e drechsler,A5106465642,A5107900724,100
+466,e drechsler,e drechsler,A5106465642,A5105536486,100
+467,e drechsler,e drechsler,A5106465642,A5107893155,100
+468,e drechsler,e drechsler,A5106465642,A5108835890,100
+469,e drechsler,e drechsler,A5106465642,A5107368050,100
+470,e drechsler,e drechsler,A5106465642,A5108122973,100
+471,e drechsler,e drechsler,A5105706924,A5107904230,100
+472,e drechsler,e drechsler,A5105706924,A5107900724,100
+473,e drechsler,e drechsler,A5105706924,A5105536486,100
+474,e drechsler,e drechsler,A5105706924,A5107893155,100
+475,e drechsler,e drechsler,A5105706924,A5108835890,100
+476,e drechsler,e drechsler,A5105706924,A5107368050,100
+477,e drechsler,e drechsler,A5105706924,A5108122973,100
+478,natalie l dinsdale,natalie dusek,A5079854139,A5114563018,71
+479,maggie c duncan,mc duncan,A5064094828,A5024929830,75
+480,daniel g derksen,danielle h derrick,A5062564021,A5059440078,71
+481,daniel g derksen,danielle n devries,A5062564021,A5066747131,71
+482,jack davis,l davis,A5053177492,A5103103853,71
+483,danielle h derrick,danielle n devries,A5059440078,A5066747131,78
+484,danielle denley,danielle n devries,A5070640066,A5066747131,73
+485,sneha datwani,soniya dawdani,A5076769099,A5064653377,74
+486,andré doyon,andreanne doyon,A5066893131,A5106389029,77
+487,e drechsler,e drechsler,A5107904230,A5107900724,100
+488,e drechsler,e drechsler,A5107904230,A5105536486,100
+489,e drechsler,e drechsler,A5107904230,A5107893155,100
+490,e drechsler,e drechsler,A5107904230,A5108835890,100
+491,e drechsler,e drechsler,A5107904230,A5107368050,100
+492,e drechsler,e drechsler,A5107904230,A5108122973,100
+493,sebastian dille,sebastian damin,A5049760941,A5038535256,80
+494,aman dheri,man dewapriya,A5044064540,A5052550301,70
+495,maryam demian,maryam dehnadi,A5069282517,A5064224185,74
+496,allison m dennert,alison v dean,A5008344965,A5051070326,73
+497,e drechsler,e drechsler,A5107900724,A5105536486,100
+498,e drechsler,e drechsler,A5107900724,A5107893155,100
+499,e drechsler,e drechsler,A5107900724,A5108835890,100
+500,e drechsler,e drechsler,A5107900724,A5107368050,100
+501,e drechsler,e drechsler,A5107900724,A5108122973,100
+502,yiyang dong,suyi dong,A5014682431,A5013264456,70
+503,e drechsler,e drechsler,A5105536486,A5107893155,100
+504,e drechsler,e drechsler,A5105536486,A5108835890,100
+505,e drechsler,e drechsler,A5105536486,A5107368050,100
+506,e drechsler,e drechsler,A5105536486,A5108122973,100
+507,e drechsler,e drechsler,A5107893155,A5108835890,100
+508,e drechsler,e drechsler,A5107893155,A5107368050,100
+509,e drechsler,e drechsler,A5107893155,A5108122973,100
+510,e drechsler,e drechsler,A5108835890,A5107368050,100
+511,e drechsler,e drechsler,A5108835890,A5108122973,100
+512,e drechsler,e drechsler,A5107368050,A5108122973,100
+513,adam dyck,adam j danyluk,A5109191277,A5119576505,70
+514,max donelan,max donelan,A5082745401,A5088139050,100
+515,lloyd t elliott,lt elliott,A5088544768,A5114020486,80
+516,marina elliott,keenan elliott,A5023956511,A5091097320,71
+517,clara vada etter,clara v etter,A5077611536,A5068946645,90
+518,jeanne egar,breanne esau,A5024919558,A5095838598,70
+519,parham elmi,parham elmi,A5049217967,A5060215510,100
+520,alain fischer,andreas fischer,A5029004287,A5002158981,71
+521,alain fischer,kayla fischler,A5029004287,A5016098002,81
+522,richard g frank,richard frank,A5018486913,A5030367930,93
+523,benedikt fischer,bill t fischer,A5031049285,A5057550186,73
+524,benedikt fischer,benedikt fischer,A5031049285,A5111690216,100
+525,faranak farzan,mandana farzaneh,A5015821361,A5014275626,73
+526,faranak farzan,farnak farzan,A5015821361,A5016330282,96
+527,zhenman fang,hao fang,A5065889904,A5109283863,70
+528,zhenman fang,zhenman fang,A5065889904,A5107843533,100
+529,rachel t fouladi,rachel d field,A5022996665,A5062829964,73
+530,ryan j fitzgerald,f fitzgerald,A5080346382,A5075379813,76
+531,andrei v frolov,a frolov,A5036300411,A5106447134,70
+532,andrei v frolov,andrei v frolovand,A5036300411,A5047401072,91
+533,henry a finn,henry fu,A5029860397,A5011082676,70
+534,henry a finn,henry finn,A5029860397,A5080374417,91
+535,hao fang,hope fan,A5109283863,A5019203096,75
+536,hao fang,zhenman fang,A5109283863,A5107843533,70
+537,sarah lord ferguson,ron ferguson,A5055393677,A5113563751,71
+538,sarah lord ferguson,sherri ferguson,A5055393677,A5057406263,71
+539,sarah lord ferguson,arron ferguson,A5055393677,A5037222281,73
+540,mandana farzaneh,saeid farzaneh,A5014275626,A5026508470,73
+541,andrea ferrone,sandra fernandes,A5000064754,A5113455210,73
+542,haisheng fu,haisheng fu,A5034827277,A5045288861,100
+543,kathleen a fitzpatrick,mia fitzpatrick,A5044298370,A5105063902,70
+544,kathleen a fitzpatrick,mia fitzpatrick,A5044298370,A5113104668,70
+545,andrew flostrand,andrei v frolovand,A5015027891,A5047401072,71
+546,ron ferguson,sherri ferguson,A5113563751,A5057406263,74
+547,ron ferguson,arron ferguson,A5113563751,A5037222281,92
+548,a fournier,a fournier,A5008661502,A5044782690,100
+549,sherri ferguson,arron ferguson,A5057406263,A5037222281,76
+550,sandra fernandes,tara fernando,A5113455210,A5113740746,76
+551,sina fatolahzadeh,s fatolahzadeh,A5028619456,A5106384340,90
+552,sheri fabian,sheryl c fabian,A5076158895,A5092626911,81
+553,reza farzam,r farzam,A5061603743,A5092972281,84
+554,jiahui feng,shu feng,A5110782483,A5103651830,74
+555,jiahui feng,jingxue feng,A5110782483,A5102662028,70
+556,jiahui feng,cai feng,A5110782483,A5095742090,74
+557,arron ferguson,alanaise ferguson,A5037222281,A5031977996,71
+558,bill t fischer,benedikt fischer,A5057550186,A5111690216,73
+559,bill t fischer,w t fischer,A5057550186,A5032463725,80
+560,anita feng,cai feng,A5119583570,A5095742090,78
+561,henry fu,henry finn,A5011082676,A5080374417,78
+562,susanne w fietz,w susanne fietz,A5093010858,A5052771299,87
+563,mitsu cai feng,cai feng,A5015238772,A5095742090,73
+564,mitsu cai feng,mitsu fang,A5015238772,A5101394760,75
+565,mia fitzpatrick,mia fitzpatrick,A5105063902,A5113104668,100
+566,gerhard gries,gerhard gries,A5076154696,A5108969388,100
+567,d grant,darren grant,A5107864583,A5031508239,74
+568,michael f graves,michael gilraine,A5001443059,A5060169499,75
+569,julian a guttman,julian c l gan,A5034140760,A5109659029,73
+570,darren grant,margaret grant,A5031508239,A5113804601,77
+571,emma griffiths,emma griggs,A5023286690,A5048222452,72
+572,david i gustafson,david guan,A5026286652,A5056685601,74
+573,biruté m f galdikas,birute mary f galdikas,A5110301419,A5110389729,88
+574,alissa greer,alissa m greer,A5037509232,A5102942084,92
+575,alissa greer,alyssa greco,A5037509232,A5024837621,75
+576,h daniel gibson,h dan gibson,A5022558865,A5062475859,89
+577,h daniel gibson,h daniel gibson,A5022558865,A5111299931,100
+578,h daniel gibson,chantal n gibson,A5022558865,A5059140190,71
+579,f h garcia,f h garcia,A5006750915,A5014302761,100
+580,f h garcia,fh garcia,A5006750915,A5085198235,95
+581,ian giesbrecht,chantelle j giesbrecht,A5015300349,A5077486250,72
+582,daniel r y gan,daniel ry gan,A5075926575,A5091261371,96
+583,thomas gunton,tom gunton,A5059560375,A5113412320,87
+584,natalia gajdamaschko,natalia gajdamaschko,A5045930158,A5106520362,100
+585,shreemouna gurung,sheemouna gurung,A5088826260,A5114125674,97
+586,bhargav gadhvi,bhargav gadhavi,A5024718097,A5067698309,97
+587,paneet gill,pavreet k gill,A5104096209,A5014787119,80
+588,kate gibson,h dan gibson,A5034804657,A5062475859,70
+589,david guan,david j green,A5056685601,A5027361434,70
+590,pavreet k gill,arsh k gill,A5014787119,A5101223017,72
+591,h gosal,sukhman gosal,A5111699127,A5114958178,70
+592,d j green,e green,A5022328570,A5014407450,75
+593,d j green,david j green,A5022328570,A5027361434,82
+594,d j green,d j green,A5022328570,A5104181771,100
+595,h dan gibson,h daniel gibson,A5062475859,A5111299931,89
+596,h dan gibson,chantal n gibson,A5062475859,A5059140190,71
+597,g greig,graham greig,A5111234583,A5049918049,74
+598,h daniel gibson,chantal n gibson,A5111299931,A5059140190,71
+599,hayley grey,haley p goren,A5037295020,A5069426643,75
+600,e green,d j green,A5014407450,A5104181771,75
+601,ashmita grewal,ashmita grewal,A5031933562,A5106505604,100
+602,ashmita grewal,amanjot grewal,A5031933562,A5107624137,71
+603,hana georgoulis,hana georgoulis,A5092864314,A5092859248,100
+604,sean kt gaiesky,sean kt gaiesky,A5092945245,A5092946635,100
+605,melanie gascoine,melanie gascoine,A5093479866,A5115978669,100
+606,melanie gascoine,m gascoine,A5093479866,A5085393464,77
+607,ashmita grewal,amanjot grewal,A5106505604,A5107624137,71
+608,melanie gascoine,m gascoine,A5115978669,A5085393464,77
+609,f h garcia,fh garcia,A5014302761,A5085198235,95
+610,alysha girn,alyssa greco,A5093800519,A5024837621,70
+611,david j green,d j green,A5027361434,A5104181771,82
+612,emma griggs,e griggs,A5048222452,A5096227643,84
+613,wanhaoyi geng,wanhayoi geng,A5069750402,A5058844042,92
+614,robert s hogg,robert b howsam,A5034865907,A5029761161,71
+615,robert s hogg,robert s hogg,A5034865907,A5102925279,100
+616,robert s hogg,rs hogg,A5034865907,A5102240664,70
+617,michael howlett,michael howlett,A5077475073,A5109484292,100
+618,michael howlett,michael howlett,A5077475073,A5093483568,100
+619,ghassan hamarneh,g hamarneh,A5072684302,A5057856831,77
+620,steven holdcroft,steven holdcroft,A5089046130,A5110966436,100
+621,h hanif,h hanif,A5105672849,A5105583095,100
+622,h hanif,h hanif,A5105672849,A5105576239,100
+623,stephen d hart,stephen healey,A5055395163,A5071533499,71
+624,andrew b harris,andrew heard,A5011644095,A5065480698,74
+625,andrew b harris,andrew harries,A5011644095,A5002454592,90
+626,a j horton,a j horton,A5107912210,A5107879215,100
+627,a j horton,a j horton,A5107912210,A5105209545,100
+628,a j horton,a j horton,A5107912210,A5105773951,100
+629,marek hatala,mark hart,A5051581150,A5031961637,76
+630,brian hayden,brian hayden,A5102859075,A5099593964,100
+631,j m ham,c m hamm,A5110345426,A5109802582,80
+632,b heinrich,brett heinrich,A5062467718,A5113965832,83
+633,william hsiao,william g honer,A5019488638,A5109962474,71
+634,william hsiao,william w l ho,A5019488638,A5113237959,74
+635,william hsiao,william hsiao,A5019488638,A5114186389,100
+636,laura k hilton,l k hilton,A5013858831,A5088639771,83
+637,michael w hart,michael d hathaway,A5053201473,A5035254678,75
+638,michael w hart,michael j hathaway,A5053201473,A5006660476,75
+639,michael w hart,michael c horsch,A5053201473,A5032833622,73
+640,w jesse hahm,jesse haber,A5087269603,A5042354088,70
+641,w jesse hahm,w jesse hahm,A5087269603,A5055362758,100
+642,w jesse hahm,w jesse hahm,A5087269603,A5082978647,100
+643,a j horton,a j horton,A5107879215,A5105209545,100
+644,a j horton,a j horton,A5107879215,A5105773951,100
+645,michael d hathaway,michael j hathaway,A5035254678,A5006660476,94
+646,x joan hu,joan hu,A5045961414,A5111259476,88
+647,nicholas harden,nicholas m hein,A5006841677,A5001499829,80
+648,simon horton,simon horton,A5037403260,A5105099469,100
+649,william s havens,william g honer,A5111514246,A5109962474,71
+650,aaron m hoffman,leon hoffman,A5072619427,A5061837012,74
+651,richard d heyman,richard e hohn,A5013097569,A5046358294,73
+652,yang he,yuliang he,A5101932345,A5075080679,82
+653,yang he,hanyang hu,A5101932345,A5113009577,71
+654,andrew heard,andrew harries,A5065480698,A5002454592,77
+655,florian herla,florian herla,A5025576164,A5114530052,100
+656,chuqiao huang,yutao huang,A5101632423,A5029984357,75
+657,chuqiao huang,hui-ya han,A5101632423,A5040613850,70
+658,isabel hong,dian hong,A5023253974,A5111195952,70
+659,isabel hong,dian hong,A5023253974,A5114180415,70
+660,a j horton,a j horton,A5105209545,A5105773951,100
+661,robert b howsam,robert s hogg,A5029761161,A5102925279,71
+662,yutao huang,da-yuan huang,A5029984357,A5061023381,75
+663,huamei han,hui-ya han,A5112821226,A5040613850,70
+664,sarah henzi,sara hosseini,A5073357101,A5114160830,75
+665,robert s hogg,rs hogg,A5102925279,A5102240664,70
+666,richard e hohn,ric hohn,A5046358294,A5082680867,73
+667,richard e hohn,ric e hohn,A5046358294,A5110946665,83
+668,michael howlett,michael howlett,A5109484292,A5093483568,100
+669,william g honer,william w l ho,A5109962474,A5113237959,76
+670,william g honer,william hsiao,A5109962474,A5114186389,71
+671,m e hayden,m e hayden,A5077342641,A5052673546,100
+672,m e hayden,m e hayden,A5077342641,A5041829418,100
+673,lillian hung,jillian herring,A5080479646,A5113104890,74
+674,h hanif,h hanif,A5105583095,A5105576239,100
+675,carlos a sierra hernandez,carlos sierra hernandez,A5019781908,A5002843048,96
+676,qilin hu,qijian he,A5037432651,A5100594939,71
+677,yuchen han,yueyang han,A5100310588,A5109667788,76
+678,sepidehsadat hosseini,sara hosseini,A5076810167,A5114160830,71
+679,sepidehsadat hosseini,sepidehsadat hosseini,A5076810167,A5034303212,100
+680,zahra halavani,zahra haq,A5023015443,A5018485160,70
+681,kevan hudson,k hudson,A5024609808,A5006846901,80
+682,kevan hudson,kh hudson,A5024609808,A5035794293,76
+683,stephanie hunter,paige hunter,A5039706257,A5056585670,79
+684,emmanuel hung,annie hung,A5091455703,A5079754447,70
+685,sara hosseini,sepidehsadat hosseini,A5114160830,A5034303212,71
+686,sara hosseini,farnoush hosseini,A5114160830,A5054799928,73
+687,sara hosseini,dina hosseini,A5114160830,A5098534719,77
+688,m e hayden,m e hayden,A5052673546,A5041829418,100
+689,kirk j hepburn,joe hepburn,A5011495911,A5111267734,72
+690,yueyang han,mufeng huang,A5109667788,A5114095424,70
+691,k hudson,kh hudson,A5006846901,A5035794293,94
+692,atia hamidizadeh,hadi hadizadeh,A5019406573,A5114636679,80
+693,tiana hillman,jack hillman,A5045548152,A5040330658,72
+694,chong he,bolong he,A5059567999,A5006009489,71
+695,milad seifnejad haghighi,milad s haghighi,A5115513710,A5115513744,80
+696,milad hakimi,mohamad hakim,A5000642432,A5109579278,72
+697,milad hakimi,milad s haghighi,A5000642432,A5115513744,71
+698,kassia hayek,kassia hyek,A5009358287,A5086460354,96
+699,jesse haber,w jesse hahm,A5042354088,A5055362758,70
+700,jesse haber,w jesse hahm,A5042354088,A5082978647,70
+701,dian hong,dian hong,A5111195952,A5114180415,100
+702,kevin harter,kevin hemmat,A5114041366,A5116466249,75
+703,kevin a hegeman,kevin hemmat,A5015736093,A5116466249,74
+704,w jesse hahm,w jesse hahm,A5055362758,A5082978647,100
+705,jonathan han,jonathan hartt,A5081367616,A5093496417,85
+706,ric hohn,ric e hohn,A5082680867,A5110946665,89
+707,kimia haghighi,milad s haghighi,A5083799867,A5115513744,80
+708,katarina hiebert,katarina hiebert,A5092564914,A5092564915,100
+709,par meg holden,par meg holden,A5093134123,A5093134135,100
+710,william w l ho,william hsiao,A5113237959,A5114186389,74
+711,roumi ilieva,roumiana ilieva,A5059056746,A5107019523,89
+712,joshua ighalo,joshua m ito,A5094279370,A5102546084,72
+713,steven jm jones,steven w jin,A5100728059,A5101747203,74
+714,b p jaeger,b p jaeger,A5105788722,A5107902723,100
+715,b p jaeger,b p jaeger,A5105788722,A5107825074,100
+716,b p jaeger,b p jaeger,A5105788722,A5107938269,100
+717,b p jaeger,b p jaeger,A5105788722,A5107895727,100
+718,b p jaeger,b p jaeger,A5105788722,A5105650150,100
+719,b p jaeger,b p jaeger,A5105788722,A5107920615,100
+720,b p jaeger,b p jaeger,A5105788722,A5107921276,100
+721,b p jaeger,b p jaeger,A5105788722,A5105786253,100
+722,b p jaeger,b p jaeger,A5105788722,A5105644242,100
+723,b p jaeger,b p jaeger,A5105788722,A5105705998,100
+724,b p jaeger,b p jaeger,A5105788722,A5105721276,100
+725,b p jaeger,b p jaeger,A5105788722,A5107430844,100
+726,feng jiang,baofeng jia,A5032337854,A5025864936,76
+727,john d jones,jacob jones,A5109115158,A5000563727,70
+728,ali jamali,sima jamali,A5046120119,A5062532823,76
+729,b p jaeger,b p jaeger,A5107902723,A5107825074,100
+730,b p jaeger,b p jaeger,A5107902723,A5107938269,100
+731,b p jaeger,b p jaeger,A5107902723,A5107895727,100
+732,b p jaeger,b p jaeger,A5107902723,A5105650150,100
+733,b p jaeger,b p jaeger,A5107902723,A5107920615,100
+734,b p jaeger,b p jaeger,A5107902723,A5107921276,100
+735,b p jaeger,b p jaeger,A5107902723,A5105786253,100
+736,b p jaeger,b p jaeger,A5107902723,A5105644242,100
+737,b p jaeger,b p jaeger,A5107902723,A5105705998,100
+738,b p jaeger,b p jaeger,A5107902723,A5105721276,100
+739,b p jaeger,b p jaeger,A5107902723,A5107430844,100
+740,b p jaeger,b p jaeger,A5107825074,A5107938269,100
+741,b p jaeger,b p jaeger,A5107825074,A5107895727,100
+742,b p jaeger,b p jaeger,A5107825074,A5105650150,100
+743,b p jaeger,b p jaeger,A5107825074,A5107920615,100
+744,b p jaeger,b p jaeger,A5107825074,A5107921276,100
+745,b p jaeger,b p jaeger,A5107825074,A5105786253,100
+746,b p jaeger,b p jaeger,A5107825074,A5105644242,100
+747,b p jaeger,b p jaeger,A5107825074,A5105705998,100
+748,b p jaeger,b p jaeger,A5107825074,A5105721276,100
+749,b p jaeger,b p jaeger,A5107825074,A5107430844,100
+750,valentin jaumouillé,valentin jamouille,A5001004675,A5108922685,92
+751,sharalyn jordan,tamara jordan,A5078401526,A5113041356,71
+752,b p jaeger,b p jaeger,A5107938269,A5107895727,100
+753,b p jaeger,b p jaeger,A5107938269,A5105650150,100
+754,b p jaeger,b p jaeger,A5107938269,A5107920615,100
+755,b p jaeger,b p jaeger,A5107938269,A5107921276,100
+756,b p jaeger,b p jaeger,A5107938269,A5105786253,100
+757,b p jaeger,b p jaeger,A5107938269,A5105644242,100
+758,b p jaeger,b p jaeger,A5107938269,A5105705998,100
+759,b p jaeger,b p jaeger,A5107938269,A5105721276,100
+760,b p jaeger,b p jaeger,A5107938269,A5107430844,100
+761,ka johnson,sarah a johnson,A5112188947,A5070073357,72
+762,ka johnson,hamish johnson,A5112188947,A5050884636,75
+763,ng jensen,g jensen,A5086281143,A5003321247,94
+764,ng jensen,gaby jensen,A5086281143,A5020431334,80
+765,b p jaeger,b p jaeger,A5107895727,A5105650150,100
+766,b p jaeger,b p jaeger,A5107895727,A5107920615,100
+767,b p jaeger,b p jaeger,A5107895727,A5107921276,100
+768,b p jaeger,b p jaeger,A5107895727,A5105786253,100
+769,b p jaeger,b p jaeger,A5107895727,A5105644242,100
+770,b p jaeger,b p jaeger,A5107895727,A5105705998,100
+771,b p jaeger,b p jaeger,A5107895727,A5105721276,100
+772,b p jaeger,b p jaeger,A5107895727,A5107430844,100
+773,b p jaeger,b p jaeger,A5105650150,A5107920615,100
+774,b p jaeger,b p jaeger,A5105650150,A5107921276,100
+775,b p jaeger,b p jaeger,A5105650150,A5105786253,100
+776,b p jaeger,b p jaeger,A5105650150,A5105644242,100
+777,b p jaeger,b p jaeger,A5105650150,A5105705998,100
+778,b p jaeger,b p jaeger,A5105650150,A5105721276,100
+779,b p jaeger,b p jaeger,A5105650150,A5107430844,100
+780,b p jaeger,b p jaeger,A5107920615,A5107921276,100
+781,b p jaeger,b p jaeger,A5107920615,A5105786253,100
+782,b p jaeger,b p jaeger,A5107920615,A5105644242,100
+783,b p jaeger,b p jaeger,A5107920615,A5105705998,100
+784,b p jaeger,b p jaeger,A5107920615,A5105721276,100
+785,b p jaeger,b p jaeger,A5107920615,A5107430844,100
+786,b p jaeger,b p jaeger,A5107921276,A5105786253,100
+787,b p jaeger,b p jaeger,A5107921276,A5105644242,100
+788,b p jaeger,b p jaeger,A5107921276,A5105705998,100
+789,b p jaeger,b p jaeger,A5107921276,A5105721276,100
+790,b p jaeger,b p jaeger,A5107921276,A5107430844,100
+791,worawee janpongsri,worawee japongsori,A5062405993,A5001455481,94
+792,g jensen,gaby jensen,A5003321247,A5020431334,84
+793,stephanie joyce,shannon joyce,A5010721008,A5086900642,71
+794,misha jain,misha jain,A5023196234,A5108828590,100
+795,katrien jacobs,arne jacobsen,A5050151246,A5111175433,74
+796,dominic j jaworski,dominic jaworiski,A5085766291,A5119544262,91
+797,mohammad mahdi jahanara,mohammadmahdi jahanara,A5069061274,A5089156226,98
+798,b p jaeger,b p jaeger,A5105786253,A5105644242,100
+799,b p jaeger,b p jaeger,A5105786253,A5105705998,100
+800,b p jaeger,b p jaeger,A5105786253,A5105721276,100
+801,b p jaeger,b p jaeger,A5105786253,A5107430844,100
+802,gabrielle jensen,gaby jensen,A5013217011,A5020431334,74
+803,shujian jin,shifan jia,A5101371170,A5115462057,76
+804,b p jaeger,b p jaeger,A5105644242,A5105705998,100
+805,b p jaeger,b p jaeger,A5105644242,A5105721276,100
+806,b p jaeger,b p jaeger,A5105644242,A5107430844,100
+807,b p jaeger,b p jaeger,A5105705998,A5105721276,100
+808,b p jaeger,b p jaeger,A5105705998,A5107430844,100
+809,b p jaeger,b p jaeger,A5105721276,A5107430844,100
+810,jeong‐bon kim,jeongmee kim,A5019704910,A5102170192,72
+811,angela kaida,angela kaida,A5091089188,A5103418458,100
+812,angela kaida,angela kaidaon,A5091089188,A5095333481,92
+813,angela kaida,angela kaidaon,A5091089188,A5095333491,92
+814,thomas kuehn,thomas kuehn,A5014440493,A5092234270,100
+815,elizabeth m king,elizabeth m king,A5015826134,A5022513797,100
+816,valentine kabanets,valentin karassiouk,A5066747130,A5098316659,70
+817,lisa kan,sami khan,A5108251198,A5055548678,71
+818,natalie n kinloch,nn kinloch,A5080135173,A5055547267,74
+819,kijin kim,j kim,A5102896759,A5070841883,71
+820,seyed hossein kamali,sayed hossein khatoonabadi,A5085410716,A5012204259,74
+821,roi krakovski,olga krakovska,A5084540189,A5074790423,74
+822,nitish kumar,hitesh kumar,A5039262439,A5110959612,83
+823,nitish kumar,srishti kumar,A5039262439,A5108965778,72
+824,hitesh kumar,srishti kumar,A5110959612,A5108965778,72
+825,j g kemp,jacob m kemp,A5110974550,A5087289082,70
+826,boah kim,barun kim,A5103237084,A5042584864,71
+827,boah kim,boah kim,A5103237084,A5049995914,100
+828,manpreet kaur,raminderjeet kaur,A5110573815,A5028102520,73
+829,helen kwan,isabelle kwan,A5063051271,A5117279033,70
+830,brahmjot kaur,taranjot kaur,A5017398687,A5052022588,77
+831,tommy kim,t kim,A5013733147,A5108486202,71
+832,t kim,j kim,A5108486202,A5070841883,80
+833,katrina koehn,katerina kwon,A5013903764,A5113195379,85
+834,barun kim,boah kim,A5042584864,A5049995914,71
+835,barun kim,anny kim,A5042584864,A5061449294,71
+836,amirreza kazemi,amirreza kazemi,A5111096781,A5076298294,100
+837,amirreza kazemi,amirreza kazemi,A5111096781,A5102430852,100
+838,eric d kirby,eric d kirby,A5113155667,A5063380948,100
+839,moein kazemi,mohsen katebi,A5030147110,A5067625620,72
+840,suyoung kim,hoyoung kim,A5081300303,A5053435865,82
+841,joshua kanaganayagam,josh kanaganayagam,A5039370835,A5034727559,95
+842,raminder kaur,raminderjeet kaur,A5114211742,A5028102520,87
+843,amirhossein hassanpoor kalhori,amirhossein hassanpoor kalhori,A5003704490,A5000496797,100
+844,amirreza kazemi,amirreza kazemi,A5076298294,A5102430852,100
+845,jacob kemp,jacob m kemp,A5103256265,A5087289082,91
+846,daniel king,yani kong,A5019624692,A5052216983,70
+847,isabelle kim,isabelle kwan,A5046423982,A5117279033,80
+848,nn kinloch,n kinloch,A5055547267,A5071349214,95
+849,carissa king,larissa kondo,A5056928031,A5071855708,72
+850,kauʻi keliipio,m kaui keliipio,A5059859936,A5045101026,90
+851,farhaan muhammad khan,farhaan m khan,A5064198016,A5014608443,80
+852,angela kaida,angela kaidaon,A5103418458,A5095333481,92
+853,angela kaida,angela kaidaon,A5103418458,A5095333491,92
+854,charles krieger,charles kriel,A5064602809,A5098723401,86
+855,angela kaidaon,angela kaidaon,A5095333481,A5095333491,100
+856,b liu,b x liu,A5114378471,A5114290805,83
+857,b liu,z liu,A5114378471,A5075830845,80
+858,b liu,b lu,A5114378471,A5067826387,89
+859,b liu,k liu,A5114378471,A5069328618,80
+860,b liu,b x liu,A5114378471,A5105558012,83
+861,b liu,b x liu,A5114378471,A5105582411,83
+862,b liu,b x liu,A5114378471,A5107363867,83
+863,jia li,jiayi liu,A5100405681,A5100370772,80
+864,jia li,lisa lin,A5100405681,A5109597087,71
+865,jia li,jiaqi lei,A5100405681,A5100904643,80
+866,jia li,yejia liu,A5100405681,A5077085197,80
+867,jia li,lisa lin,A5100405681,A5107403232,71
+868,cheng li,helen liu,A5100354297,A5101610756,71
+869,cheng li,feng lin,A5100354297,A5101414835,75
+870,cheng li,chunhong liu,A5100354297,A5100654046,70
+871,cheng li,henry lin,A5100354297,A5059500986,71
+872,cheng li,chien-ling liu,A5100354297,A5078213136,73
+873,cheng li,cheng lit,A5100354297,A5094001550,94
+874,cheng li,eg lim,A5100354297,A5111195228,71
+875,jiangchuan liu,tingan li,A5039311485,A5034308738,70
+876,jiangchuan liu,jiangchuan liu,A5039311485,A5109790236,100
+877,jiangchuan liu,bingfan liu,A5039311485,A5025258144,72
+878,jiangchuan liu,qingcan li,A5039311485,A5014078397,75
+879,daniel b leznoff,daniel c lee,A5035673972,A5100392989,71
+880,kelley lee,chelsey lee,A5019363540,A5037459113,76
+881,kelley lee,kelsey lee,A5019363540,A5047999240,90
+882,kelley lee,kelsey lee,A5019363540,A5112929745,90
+883,ming li,bing lu,A5100351426,A5055319860,71
+884,ming li,bing lu,A5100351426,A5100339966,71
+885,ming li,tingan li,A5100351426,A5034308738,75
+886,ming li,ying lei,A5100351426,A5071997927,80
+887,ming li,qikang liu,A5100351426,A5031973982,71
+888,ming li,qingcan li,A5100351426,A5014078397,71
+889,amy lee,gem y lee,A5100686477,A5017994508,75
+890,amy lee,a lee,A5100686477,A5079846513,83
+891,amy lee,a lee,A5100686477,A5018443790,83
+892,amy lee,amy hy lee,A5100686477,A5102626370,82
+893,monica lee,dominic j lee,A5057346446,A5014546778,70
+894,monica lee,angelica lee,A5057346446,A5064843057,73
+895,david b lank,david laycock,A5026174358,A5089390762,72
+896,david b lank,david a lawson,A5026174358,A5060402346,77
+897,jiayi liu,linyi li,A5100370772,A5101915882,71
+898,jiayi liu,jiaqi lei,A5100370772,A5100904643,78
+899,jiayi liu,yi lu,A5100370772,A5071128348,71
+900,jiayi liu,yejia liu,A5100370772,A5077085197,78
+901,k lehmann,k lehmann,A5105764596,A5107888241,100
+902,k lehmann,k lehmann,A5105764596,A5107941542,100
+903,k lehmann,k lehmann,A5105764596,A5107883495,100
+904,k lehmann,k lehmann,A5105764596,A5107890521,100
+905,k lehmann,k lehmann,A5105764596,A5107896492,100
+906,k lehmann,k lehmann,A5105764596,A5107904143,100
+907,k lehmann,k lehmann,A5105764596,A5107897377,100
+908,k lehmann,k lehmann,A5105764596,A5107913487,100
+909,k lehmann,k lehmann,A5105764596,A5107887830,100
+910,k lehmann,n lehmann,A5105764596,A5107889357,89
+911,k lehmann,k lehmann,A5105764596,A5107889314,100
+912,k lehmann,k lehmann,A5105764596,A5107924395,100
+913,k lehmann,k lehmann,A5105764596,A5107886887,100
+914,k lehmann,k lehmann,A5105764596,A5107910450,100
+915,k lehmann,k lehmann,A5105764596,A5107894986,100
+916,k lehmann,k lehmann,A5105764596,A5107916480,100
+917,k lehmann,k lehmann,A5105764596,A5105565215,100
+918,k lehmann,k lehmann,A5105764596,A5107931824,100
+919,k lehmann,k lehmann,A5105764596,A5107919641,100
+920,feng lin,henry lin,A5101414835,A5059500986,71
+921,feng lin,cheng lit,A5101414835,A5094001550,71
+922,feng lin,eg lim,A5101414835,A5111195228,71
+923,thomas m loughin,tom loughin,A5113992995,A5025177465,81
+924,amy huei‐yi lee,amy hy lee,A5029495209,A5102626370,80
+925,paul c h li,paul li,A5088254081,A5029788647,78
+926,richard lockhart,richard loat,A5035238514,A5052159696,86
+927,bing lu,bing lu,A5055319860,A5100339966,100
+928,bing lu,bingfan liu,A5055319860,A5025258144,78
+929,bing lu,qikang liu,A5055319860,A5031973982,71
+930,bing lu,b lu,A5055319860,A5067826387,73
+931,daniel c lee,melanie lee,A5100392989,A5026320810,70
+932,daniel c lee,angelica lee,A5100392989,A5064843057,75
+933,qi lin,lisa lin,A5102608112,A5109597087,71
+934,qi lin,eric lin,A5102608112,A5012158443,71
+935,qi lin,zi lin,A5102608112,A5110229964,83
+936,qi lin,qiushi lin,A5102608112,A5101410782,75
+937,qi lin,lisa lin,A5102608112,A5107403232,71
+938,angelica lim,angelica lee,A5054803584,A5064843057,83
+939,gaoyang liu,gaoyang liu,A5104666790,A5104217400,100
+940,alexandra lysova,alexandra v lysova,A5088763872,A5096742315,94
+941,lisa lin,zi lin,A5109597087,A5110229964,71
+942,lisa lin,luyao lin,A5109597087,A5062615947,71
+943,lisa lin,lisa lin,A5109597087,A5107403232,100
+944,lisa lin,leyao lin,A5109597087,A5025114845,71
+945,lisa lin,gloria y lin,A5109597087,A5111037263,70
+946,eric lin,zi lin,A5012158443,A5110229964,71
+947,eric lin,henry lin,A5012158443,A5059500986,71
+948,eric lin,eric lee,A5012158443,A5087425453,75
+949,jeonghun lee,jeonghwan lim,A5100637496,A5102152868,72
+950,jeonghun lee,janghyeon lee,A5100637496,A5078858243,72
+951,jeonghun lee,jeonghun lee,A5100637496,A5002361694,100
+952,christine leclerc,christiane lammersen,A5081000754,A5062592602,70
+953,bing lu,bingfan liu,A5100339966,A5025258144,78
+954,bing lu,qikang liu,A5100339966,A5031973982,71
+955,bing lu,b lu,A5100339966,A5067826387,73
+956,sabrina s m lee,sabrina sm lee,A5080857003,A5079701172,97
+957,zi lin,z liu,A5110229964,A5075830845,73
+958,zi lin,lisa lin,A5110229964,A5107403232,71
+959,zi lin,ziv levin,A5110229964,A5117287733,80
+960,jeonghwan lim,jeonghun lee,A5102152868,A5002361694,72
+961,linyi li,li yi lim,A5101915882,A5108281017,82
+962,tingan li,jiangchuan liu,A5034308738,A5109790236,70
+963,tingan li,ying lei,A5034308738,A5071997927,71
+964,tingan li,bingfan liu,A5034308738,A5025258144,80
+965,tingan li,qingcan li,A5034308738,A5014078397,84
+966,k lehmann,k lehmann,A5107888241,A5107941542,100
+967,k lehmann,k lehmann,A5107888241,A5107883495,100
+968,k lehmann,k lehmann,A5107888241,A5107890521,100
+969,k lehmann,k lehmann,A5107888241,A5107896492,100
+970,k lehmann,k lehmann,A5107888241,A5107904143,100
+971,k lehmann,k lehmann,A5107888241,A5107897377,100
+972,k lehmann,k lehmann,A5107888241,A5107913487,100
+973,k lehmann,k lehmann,A5107888241,A5107887830,100
+974,k lehmann,n lehmann,A5107888241,A5107889357,89
+975,k lehmann,k lehmann,A5107888241,A5107889314,100
+976,k lehmann,k lehmann,A5107888241,A5107924395,100
+977,k lehmann,k lehmann,A5107888241,A5107886887,100
+978,k lehmann,k lehmann,A5107888241,A5107910450,100
+979,k lehmann,k lehmann,A5107888241,A5107894986,100
+980,k lehmann,k lehmann,A5107888241,A5107916480,100
+981,k lehmann,k lehmann,A5107888241,A5105565215,100
+982,k lehmann,k lehmann,A5107888241,A5107931824,100
+983,k lehmann,k lehmann,A5107888241,A5107919641,100
+984,ke li,k liu,A5100343528,A5069328618,80
+985,ke li,eg lim,A5100343528,A5111195228,73
+986,k lehmann,k lehmann,A5107941542,A5107883495,100
+987,k lehmann,k lehmann,A5107941542,A5107890521,100
+988,k lehmann,k lehmann,A5107941542,A5107896492,100
+989,k lehmann,k lehmann,A5107941542,A5107904143,100
+990,k lehmann,k lehmann,A5107941542,A5107897377,100
+991,k lehmann,k lehmann,A5107941542,A5107913487,100
+992,k lehmann,k lehmann,A5107941542,A5107887830,100
+993,k lehmann,n lehmann,A5107941542,A5107889357,89
+994,k lehmann,k lehmann,A5107941542,A5107889314,100
+995,k lehmann,k lehmann,A5107941542,A5107924395,100
+996,k lehmann,k lehmann,A5107941542,A5107886887,100
+997,k lehmann,k lehmann,A5107941542,A5107910450,100
+998,k lehmann,k lehmann,A5107941542,A5107894986,100
+999,k lehmann,k lehmann,A5107941542,A5107916480,100
+1000,k lehmann,k lehmann,A5107941542,A5105565215,100
+1001,k lehmann,k lehmann,A5107941542,A5107931824,100
+1002,k lehmann,k lehmann,A5107941542,A5107919641,100
+1003,chelsey lee,kelsey lee,A5037459113,A5047999240,86
+1004,chelsey lee,kelsey lee,A5037459113,A5112929745,86
+1005,k lehmann,k lehmann,A5107883495,A5107890521,100
+1006,k lehmann,k lehmann,A5107883495,A5107896492,100
+1007,k lehmann,k lehmann,A5107883495,A5107904143,100
+1008,k lehmann,k lehmann,A5107883495,A5107897377,100
+1009,k lehmann,k lehmann,A5107883495,A5107913487,100
+1010,k lehmann,k lehmann,A5107883495,A5107887830,100
+1011,k lehmann,n lehmann,A5107883495,A5107889357,89
+1012,k lehmann,k lehmann,A5107883495,A5107889314,100
+1013,k lehmann,k lehmann,A5107883495,A5107924395,100
+1014,k lehmann,k lehmann,A5107883495,A5107886887,100
+1015,k lehmann,k lehmann,A5107883495,A5107910450,100
+1016,k lehmann,k lehmann,A5107883495,A5107894986,100
+1017,k lehmann,k lehmann,A5107883495,A5107916480,100
+1018,k lehmann,k lehmann,A5107883495,A5105565215,100
+1019,k lehmann,k lehmann,A5107883495,A5107931824,100
+1020,k lehmann,k lehmann,A5107883495,A5107919641,100
+1021,k lehmann,k lehmann,A5107890521,A5107896492,100
+1022,k lehmann,k lehmann,A5107890521,A5107904143,100
+1023,k lehmann,k lehmann,A5107890521,A5107897377,100
+1024,k lehmann,k lehmann,A5107890521,A5107913487,100
+1025,k lehmann,k lehmann,A5107890521,A5107887830,100
+1026,k lehmann,n lehmann,A5107890521,A5107889357,89
+1027,k lehmann,k lehmann,A5107890521,A5107889314,100
+1028,k lehmann,k lehmann,A5107890521,A5107924395,100
+1029,k lehmann,k lehmann,A5107890521,A5107886887,100
+1030,k lehmann,k lehmann,A5107890521,A5107910450,100
+1031,k lehmann,k lehmann,A5107890521,A5107894986,100
+1032,k lehmann,k lehmann,A5107890521,A5107916480,100
+1033,k lehmann,k lehmann,A5107890521,A5105565215,100
+1034,k lehmann,k lehmann,A5107890521,A5107931824,100
+1035,k lehmann,k lehmann,A5107890521,A5107919641,100
+1036,aaron lyons,john lyon,A5015526055,A5036577006,70
+1037,aaron lyons,aaron leung,A5015526055,A5040425321,73
+1038,dnk leung,aaron leung,A5042398741,A5040425321,70
+1039,julian lo,julia lane,A5054580904,A5015575684,74
+1040,julian lo,juliana lisik,A5054580904,A5095858776,73
+1041,k lehmann,k lehmann,A5107896492,A5107904143,100
+1042,k lehmann,k lehmann,A5107896492,A5107897377,100
+1043,k lehmann,k lehmann,A5107896492,A5107913487,100
+1044,k lehmann,k lehmann,A5107896492,A5107887830,100
+1045,k lehmann,n lehmann,A5107896492,A5107889357,89
+1046,k lehmann,k lehmann,A5107896492,A5107889314,100
+1047,k lehmann,k lehmann,A5107896492,A5107924395,100
+1048,k lehmann,k lehmann,A5107896492,A5107886887,100
+1049,k lehmann,k lehmann,A5107896492,A5107910450,100
+1050,k lehmann,k lehmann,A5107896492,A5107894986,100
+1051,k lehmann,k lehmann,A5107896492,A5107916480,100
+1052,k lehmann,k lehmann,A5107896492,A5105565215,100
+1053,k lehmann,k lehmann,A5107896492,A5107931824,100
+1054,k lehmann,k lehmann,A5107896492,A5107919641,100
+1055,ashley livingstone,emily m livingston,A5014768343,A5069456666,72
+1056,k lehmann,k lehmann,A5107904143,A5107897377,100
+1057,k lehmann,k lehmann,A5107904143,A5107913487,100
+1058,k lehmann,k lehmann,A5107904143,A5107887830,100
+1059,k lehmann,n lehmann,A5107904143,A5107889357,89
+1060,k lehmann,k lehmann,A5107904143,A5107889314,100
+1061,k lehmann,k lehmann,A5107904143,A5107924395,100
+1062,k lehmann,k lehmann,A5107904143,A5107886887,100
+1063,k lehmann,k lehmann,A5107904143,A5107910450,100
+1064,k lehmann,k lehmann,A5107904143,A5107894986,100
+1065,k lehmann,k lehmann,A5107904143,A5107916480,100
+1066,k lehmann,k lehmann,A5107904143,A5105565215,100
+1067,k lehmann,k lehmann,A5107904143,A5107931824,100
+1068,k lehmann,k lehmann,A5107904143,A5107919641,100
+1069,jiangchuan liu,bingfan liu,A5109790236,A5025258144,72
+1070,jiangchuan liu,qingcan li,A5109790236,A5014078397,75
+1071,k lehmann,k lehmann,A5107897377,A5107913487,100
+1072,k lehmann,k lehmann,A5107897377,A5107887830,100
+1073,k lehmann,n lehmann,A5107897377,A5107889357,89
+1074,k lehmann,k lehmann,A5107897377,A5107889314,100
+1075,k lehmann,k lehmann,A5107897377,A5107924395,100
+1076,k lehmann,k lehmann,A5107897377,A5107886887,100
+1077,k lehmann,k lehmann,A5107897377,A5107910450,100
+1078,k lehmann,k lehmann,A5107897377,A5107894986,100
+1079,k lehmann,k lehmann,A5107897377,A5107916480,100
+1080,k lehmann,k lehmann,A5107897377,A5105565215,100
+1081,k lehmann,k lehmann,A5107897377,A5107931824,100
+1082,k lehmann,k lehmann,A5107897377,A5107919641,100
+1083,k lehmann,k lehmann,A5107913487,A5107887830,100
+1084,k lehmann,n lehmann,A5107913487,A5107889357,89
+1085,k lehmann,k lehmann,A5107913487,A5107889314,100
+1086,k lehmann,k lehmann,A5107913487,A5107924395,100
+1087,k lehmann,k lehmann,A5107913487,A5107886887,100
+1088,k lehmann,k lehmann,A5107913487,A5107910450,100
+1089,k lehmann,k lehmann,A5107913487,A5107894986,100
+1090,k lehmann,k lehmann,A5107913487,A5107916480,100
+1091,k lehmann,k lehmann,A5107913487,A5105565215,100
+1092,k lehmann,k lehmann,A5107913487,A5107931824,100
+1093,k lehmann,k lehmann,A5107913487,A5107919641,100
+1094,xinwei liu,xi lan liu,A5002589687,A5013808036,70
+1095,xinwei liu,yiwen liu,A5002589687,A5056872356,74
+1096,kelsey lee,kelsey lee,A5047999240,A5112929745,100
+1097,kelsey lee,nelson lee,A5047999240,A5104188612,70
+1098,k lehmann,n lehmann,A5107887830,A5107889357,89
+1099,k lehmann,k lehmann,A5107887830,A5107889314,100
+1100,k lehmann,k lehmann,A5107887830,A5107924395,100
+1101,k lehmann,k lehmann,A5107887830,A5107886887,100
+1102,k lehmann,k lehmann,A5107887830,A5107910450,100
+1103,k lehmann,k lehmann,A5107887830,A5107894986,100
+1104,k lehmann,k lehmann,A5107887830,A5107916480,100
+1105,k lehmann,k lehmann,A5107887830,A5105565215,100
+1106,k lehmann,k lehmann,A5107887830,A5107931824,100
+1107,k lehmann,k lehmann,A5107887830,A5107919641,100
+1108,tatiana losev,tatiana losev,A5026171056,A5095334926,100
+1109,hayami lou,haggai liu,A5026655414,A5014239874,70
+1110,janghyeon lee,jeonghun lee,A5078858243,A5002361694,72
+1111,janghyeon lee,nelson lee,A5078858243,A5104188612,70
+1112,n lehmann,k lehmann,A5107889357,A5107889314,89
+1113,n lehmann,k lehmann,A5107889357,A5107924395,89
+1114,n lehmann,k lehmann,A5107889357,A5107886887,89
+1115,n lehmann,k lehmann,A5107889357,A5107910450,89
+1116,n lehmann,k lehmann,A5107889357,A5107894986,89
+1117,n lehmann,k lehmann,A5107889357,A5107916480,89
+1118,n lehmann,k lehmann,A5107889357,A5105565215,89
+1119,n lehmann,k lehmann,A5107889357,A5107931824,89
+1120,n lehmann,k lehmann,A5107889357,A5107919641,89
+1121,a lecomte,a lee,A5084922318,A5079846513,71
+1122,a lecomte,a lee,A5084922318,A5018443790,71
+1123,k lehmann,k lehmann,A5107889314,A5107924395,100
+1124,k lehmann,k lehmann,A5107889314,A5107886887,100
+1125,k lehmann,k lehmann,A5107889314,A5107910450,100
+1126,k lehmann,k lehmann,A5107889314,A5107894986,100
+1127,k lehmann,k lehmann,A5107889314,A5107916480,100
+1128,k lehmann,k lehmann,A5107889314,A5105565215,100
+1129,k lehmann,k lehmann,A5107889314,A5107931824,100
+1130,k lehmann,k lehmann,A5107889314,A5107919641,100
+1131,li yi lim,zhi yih lim,A5108281017,A5112501593,80
+1132,d luo,ji luo,A5109662199,A5017008432,73
+1133,k lehmann,k lehmann,A5107924395,A5107886887,100
+1134,k lehmann,k lehmann,A5107924395,A5107910450,100
+1135,k lehmann,k lehmann,A5107924395,A5107894986,100
+1136,k lehmann,k lehmann,A5107924395,A5107916480,100
+1137,k lehmann,k lehmann,A5107924395,A5105565215,100
+1138,k lehmann,k lehmann,A5107924395,A5107931824,100
+1139,k lehmann,k lehmann,A5107924395,A5107919641,100
+1140,yi lu,yejia liu,A5071128348,A5077085197,71
+1141,yi lu,ji luo,A5071128348,A5017008432,73
+1142,yi lu,yiwen liu,A5071128348,A5056872356,71
+1143,ying lei,yiwen liu,A5071997927,A5056872356,71
+1144,eric lee,angelica lee,A5087425453,A5064843057,70
+1145,k lehmann,k lehmann,A5107886887,A5107910450,100
+1146,k lehmann,k lehmann,A5107886887,A5107894986,100
+1147,k lehmann,k lehmann,A5107886887,A5107916480,100
+1148,k lehmann,k lehmann,A5107886887,A5105565215,100
+1149,k lehmann,k lehmann,A5107886887,A5107931824,100
+1150,k lehmann,k lehmann,A5107886887,A5107919641,100
+1151,k lehmann,k lehmann,A5107910450,A5107894986,100
+1152,k lehmann,k lehmann,A5107910450,A5107916480,100
+1153,k lehmann,k lehmann,A5107910450,A5105565215,100
+1154,k lehmann,k lehmann,A5107910450,A5107931824,100
+1155,k lehmann,k lehmann,A5107910450,A5107919641,100
+1156,yan l lim,ryan s lai,A5000481942,A5073712448,74
+1157,duc lai,c li,A5016525845,A5017873395,73
+1158,k lehmann,k lehmann,A5107894986,A5107916480,100
+1159,k lehmann,k lehmann,A5107894986,A5105565215,100
+1160,k lehmann,k lehmann,A5107894986,A5107931824,100
+1161,k lehmann,k lehmann,A5107894986,A5107919641,100
+1162,k lehmann,k lehmann,A5107916480,A5105565215,100
+1163,k lehmann,k lehmann,A5107916480,A5107931824,100
+1164,k lehmann,k lehmann,A5107916480,A5107919641,100
+1165,j lee,a lee,A5020077930,A5079846513,80
+1166,j lee,a lee,A5020077930,A5018443790,80
+1167,bingfan liu,qingcan li,A5025258144,A5014078397,76
+1168,qikang liu,qingcan li,A5031973982,A5014078397,70
+1169,qikang liu,xi lan liu,A5031973982,A5013808036,70
+1170,luyao lin,lisa lin,A5062615947,A5107403232,71
+1171,luyao lin,leyao lin,A5062615947,A5025114845,89
+1172,k lehmann,k lehmann,A5105565215,A5107931824,100
+1173,k lehmann,k lehmann,A5105565215,A5107919641,100
+1174,laura luo,laura laura,A5112893128,A5081524343,80
+1175,c li,x li,A5017873395,A5106716334,75
+1176,gem y lee,amy hy lee,A5017994508,A5102626370,74
+1177,elfituri s lahemer,elfituri lahamer,A5032341373,A5055198520,88
+1178,bryan lo,ryan c love,A5043370977,A5070869211,74
+1179,chien-ling liu,cheng lit,A5078213136,A5094001550,70
+1180,b x liu,x li,A5114290805,A5106716334,73
+1181,b x liu,b lu,A5114290805,A5067826387,73
+1182,b x liu,b x liu,A5114290805,A5105558012,100
+1183,b x liu,b x liu,A5114290805,A5105582411,100
+1184,b x liu,b x liu,A5114290805,A5107363867,100
+1185,z liu,k liu,A5075830845,A5069328618,80
+1186,a lee,a lee,A5079846513,A5018443790,100
+1187,x li,b x liu,A5106716334,A5105558012,73
+1188,x li,b x liu,A5106716334,A5105582411,73
+1189,x li,b x liu,A5106716334,A5107363867,73
+1190,lisa lin,leyao lin,A5107403232,A5025114845,71
+1191,lisa lin,gloria y lin,A5107403232,A5111037263,70
+1192,k lehmann,k lehmann,A5107931824,A5107919641,100
+1193,kelsey lee,nelson lee,A5112929745,A5104188612,70
+1194,jade leong,candace leung,A5013440371,A5046085098,70
+1195,jane sy li,ryan s lai,A5021285168,A5073712448,70
+1196,katherine levett,sabine levet,A5063289944,A5094626479,71
+1197,b lu,b x liu,A5067826387,A5105558012,73
+1198,b lu,b x liu,A5067826387,A5105582411,73
+1199,b lu,b x liu,A5067826387,A5107363867,73
+1200,b x liu,b x liu,A5105558012,A5105582411,100
+1201,b x liu,b x liu,A5105558012,A5107363867,100
+1202,b x liu,b x liu,A5105582411,A5107363867,100
+1203,anthony r mcintosh,anthony w mcdonagh,A5050825978,A5036946629,72
+1204,anthony r mcintosh,rory l mcintosh,A5050825978,A5052502453,73
+1205,ryan d morin,r d morin,A5081644676,A5027417971,86
+1206,arne ø mooers,arne ø mooers,A5039749912,A5079835512,100
+1207,d mori,d mori,A5044331480,A5107890525,100
+1208,d mori,d mori,A5044331480,A5107885676,100
+1209,d mori,d mori,A5044331480,A5105639822,100
+1210,d mori,d mori,A5044331480,A5107900224,100
+1211,d mori,d mori,A5044331480,A5107924902,100
+1212,d mori,d mori,A5044331480,A5107930751,100
+1213,d mori,d mori,A5044331480,A5107909699,100
+1214,d mori,d mori,A5044331480,A5107894807,100
+1215,d mori,d mori,A5044331480,A5105541342,100
+1216,d mori,d mori,A5044331480,A5107889212,100
+1217,d mori,d mori,A5044331480,A5107911218,100
+1218,d mori,d mori,A5044331480,A5107904919,100
+1219,d mori,r d morin,A5044331480,A5027417971,80
+1220,d mori,d mori,A5044331480,A5105543961,100
+1221,d mori,d mori,A5044331480,A5105558116,100
+1222,iain mckenzie,will mckenzie,A5069964985,A5034954560,77
+1223,a montalbano,a montalbano,A5105505322,A5107902268,100
+1224,a montalbano,a montalbano,A5105505322,A5037209875,100
+1225,a montalbano,a montalbano,A5105505322,A5107878095,100
+1226,a montalbano,a montalbano,A5105505322,A5107992656,100
+1227,a montalbano,a montalbano,A5105505322,A5105625354,100
+1228,a montalbano,a montalbano,A5105505322,A5107924432,100
+1229,a montalbano,a montalbano,A5105505322,A5105565245,100
+1230,a montalbano,a montalbano,A5105505322,A5107865895,100
+1231,a montalbano,a montalbano,A5105505322,A5107918743,100
+1232,a montalbano,a montalbano,A5105505322,A5108112229,100
+1233,a montalbano,a montalbano,A5105505322,A5107850321,100
+1234,a montalbano,a montalbano,A5105505322,A5107894224,100
+1235,a montalbano,a montalbano,A5105505322,A5107887913,100
+1236,a montalbano,a montalbano,A5105505322,A5107926874,100
+1237,a montalbano,a montalbano,A5105505322,A5105699223,100
+1238,a montalbano,a montalbano,A5105505322,A5107892670,100
+1239,a montalbano,a montalbano,A5105505322,A5107922261,100
+1240,a montalbano,a montalbano,A5105505322,A5105572802,100
+1241,a montalbano,a montalbano,A5105505322,A5107447982,100
+1242,a montalbano,a montalbano,A5105505322,A5107914183,100
+1243,a montalbano,a montalbano,A5105505322,A5107926272,100
+1244,a montalbano,a montalbano,A5105505322,A5108136694,100
+1245,sylvain moreno,s moreno,A5087105269,A5022925223,73
+1246,margaret macdonald,ja macdonald,A5034867632,A5000418425,73
+1247,john j mcdonald,john a macdonald,A5077824553,A5103468821,90
+1248,john j mcdonald,ian w mcdonald,A5077824553,A5013915655,76
+1249,john j mcdonald,shaun mcdonald,A5077824553,A5058388442,76
+1250,john j mcdonald,ja macdonald,A5077824553,A5000418425,74
+1251,paul meyer,p meyer,A5019323500,A5109005649,82
+1252,gordon mctaggart-cowan,helen mctaggart‐cowan,A5040189249,A5034664713,74
+1253,gordon mctaggart-cowan,gp mctaggart-cowan,A5040189249,A5108717311,85
+1254,elicia maine,alicia massie,A5026047261,A5005330408,80
+1255,helen mctaggart‐cowan,gp mctaggart-cowan,A5034664713,A5108717311,77
+1256,alexander moens,alexander macisaac,A5025859917,A5090215869,73
+1257,alexander moens,alexander moiseev,A5025859917,A5103429954,81
+1258,alexander moens,alexander mikhaylov,A5025859917,A5053195533,71
+1259,daniel s marigold,daniel d marshall,A5015424302,A5112642773,71
+1260,david c mirhady,david moorthy,A5074194048,A5089624184,71
+1261,steeve mongrain,evie morin,A5012948114,A5069102634,72
+1262,daniel d marshall,dan marshall,A5112642773,A5112003754,83
+1263,daniel d marshall,melanie benson marshall,A5112642773,A5061615290,70
+1264,kyle macdonald,rebecca macdonald,A5043902791,A5081821382,71
+1265,kyle macdonald,ja macdonald,A5043902791,A5000418425,77
+1266,d mori,d mori,A5107890525,A5107885676,100
+1267,d mori,d mori,A5107890525,A5105639822,100
+1268,d mori,d mori,A5107890525,A5107900224,100
+1269,d mori,d mori,A5107890525,A5107924902,100
+1270,d mori,d mori,A5107890525,A5107930751,100
+1271,d mori,d mori,A5107890525,A5107909699,100
+1272,d mori,d mori,A5107890525,A5107894807,100
+1273,d mori,d mori,A5107890525,A5105541342,100
+1274,d mori,d mori,A5107890525,A5107889212,100
+1275,d mori,d mori,A5107890525,A5107911218,100
+1276,d mori,d mori,A5107890525,A5107904919,100
+1277,d mori,r d morin,A5107890525,A5027417971,80
+1278,d mori,d mori,A5107890525,A5105543961,100
+1279,d mori,d mori,A5107890525,A5105558116,100
+1280,ailene macpherson,donald macpherson,A5025766873,A5042387035,76
+1281,ailene macpherson,carter mcpherson,A5025766873,A5106565015,73
+1282,d mori,d mori,A5107885676,A5105639822,100
+1283,d mori,d mori,A5107885676,A5107900224,100
+1284,d mori,d mori,A5107885676,A5107924902,100
+1285,d mori,d mori,A5107885676,A5107930751,100
+1286,d mori,d mori,A5107885676,A5107909699,100
+1287,d mori,d mori,A5107885676,A5107894807,100
+1288,d mori,d mori,A5107885676,A5105541342,100
+1289,d mori,d mori,A5107885676,A5107889212,100
+1290,d mori,d mori,A5107885676,A5107911218,100
+1291,d mori,d mori,A5107885676,A5107904919,100
+1292,d mori,r d morin,A5107885676,A5027417971,80
+1293,d mori,d mori,A5107885676,A5105543961,100
+1294,d mori,d mori,A5107885676,A5105558116,100
+1295,a montalbano,a montalbano,A5107902268,A5037209875,100
+1296,a montalbano,a montalbano,A5107902268,A5107878095,100
+1297,a montalbano,a montalbano,A5107902268,A5107992656,100
+1298,a montalbano,a montalbano,A5107902268,A5105625354,100
+1299,a montalbano,a montalbano,A5107902268,A5107924432,100
+1300,a montalbano,a montalbano,A5107902268,A5105565245,100
+1301,a montalbano,a montalbano,A5107902268,A5107865895,100
+1302,a montalbano,a montalbano,A5107902268,A5107918743,100
+1303,a montalbano,a montalbano,A5107902268,A5108112229,100
+1304,a montalbano,a montalbano,A5107902268,A5107850321,100
+1305,a montalbano,a montalbano,A5107902268,A5107894224,100
+1306,a montalbano,a montalbano,A5107902268,A5107887913,100
+1307,a montalbano,a montalbano,A5107902268,A5107926874,100
+1308,a montalbano,a montalbano,A5107902268,A5105699223,100
+1309,a montalbano,a montalbano,A5107902268,A5107892670,100
+1310,a montalbano,a montalbano,A5107902268,A5107922261,100
+1311,a montalbano,a montalbano,A5107902268,A5105572802,100
+1312,a montalbano,a montalbano,A5107902268,A5107447982,100
+1313,a montalbano,a montalbano,A5107902268,A5107914183,100
+1314,a montalbano,a montalbano,A5107902268,A5107926272,100
+1315,a montalbano,a montalbano,A5107902268,A5108136694,100
+1316,john a macdonald,ian w mcdonald,A5103468821,A5013915655,73
+1317,john a macdonald,shaun mcdonald,A5103468821,A5058388442,73
+1318,john a macdonald,ja macdonald,A5103468821,A5000418425,86
+1319,lilach marom,lilach marom,A5005321588,A5029985194,100
+1320,a montalbano,a montalbano,A5037209875,A5107878095,100
+1321,a montalbano,a montalbano,A5037209875,A5107992656,100
+1322,a montalbano,a montalbano,A5037209875,A5105625354,100
+1323,a montalbano,a montalbano,A5037209875,A5107924432,100
+1324,a montalbano,a montalbano,A5037209875,A5105565245,100
+1325,a montalbano,a montalbano,A5037209875,A5107865895,100
+1326,a montalbano,a montalbano,A5037209875,A5107918743,100
+1327,a montalbano,a montalbano,A5037209875,A5108112229,100
+1328,a montalbano,a montalbano,A5037209875,A5107850321,100
+1329,a montalbano,a montalbano,A5037209875,A5107894224,100
+1330,a montalbano,a montalbano,A5037209875,A5107887913,100
+1331,a montalbano,a montalbano,A5037209875,A5107926874,100
+1332,a montalbano,a montalbano,A5037209875,A5105699223,100
+1333,a montalbano,a montalbano,A5037209875,A5107892670,100
+1334,a montalbano,a montalbano,A5037209875,A5107922261,100
+1335,a montalbano,a montalbano,A5037209875,A5105572802,100
+1336,a montalbano,a montalbano,A5037209875,A5107447982,100
+1337,a montalbano,a montalbano,A5037209875,A5107914183,100
+1338,a montalbano,a montalbano,A5037209875,A5107926272,100
+1339,a montalbano,a montalbano,A5037209875,A5108136694,100
+1340,zhengjie miao,yuzhen mao,A5087858861,A5015267334,70
+1341,d mori,d mori,A5105639822,A5107900224,100
+1342,d mori,d mori,A5105639822,A5107924902,100
+1343,d mori,d mori,A5105639822,A5107930751,100
+1344,d mori,d mori,A5105639822,A5107909699,100
+1345,d mori,d mori,A5105639822,A5107894807,100
+1346,d mori,d mori,A5105639822,A5105541342,100
+1347,d mori,d mori,A5105639822,A5107889212,100
+1348,d mori,d mori,A5105639822,A5107911218,100
+1349,d mori,d mori,A5105639822,A5107904919,100
+1350,d mori,r d morin,A5105639822,A5027417971,80
+1351,d mori,d mori,A5105639822,A5105543961,100
+1352,d mori,d mori,A5105639822,A5105558116,100
+1353,ian w mcdonald,shaun mcdonald,A5013915655,A5058388442,79
+1354,ian w mcdonald,ja macdonald,A5013915655,A5000418425,77
+1355,d mori,d mori,A5107900224,A5107924902,100
+1356,d mori,d mori,A5107900224,A5107930751,100
+1357,d mori,d mori,A5107900224,A5107909699,100
+1358,d mori,d mori,A5107900224,A5107894807,100
+1359,d mori,d mori,A5107900224,A5105541342,100
+1360,d mori,d mori,A5107900224,A5107889212,100
+1361,d mori,d mori,A5107900224,A5107911218,100
+1362,d mori,d mori,A5107900224,A5107904919,100
+1363,d mori,r d morin,A5107900224,A5027417971,80
+1364,d mori,d mori,A5107900224,A5105543961,100
+1365,d mori,d mori,A5107900224,A5105558116,100
+1366,d mori,d mori,A5107924902,A5107930751,100
+1367,d mori,d mori,A5107924902,A5107909699,100
+1368,d mori,d mori,A5107924902,A5107894807,100
+1369,d mori,d mori,A5107924902,A5105541342,100
+1370,d mori,d mori,A5107924902,A5107889212,100
+1371,d mori,d mori,A5107924902,A5107911218,100
+1372,d mori,d mori,A5107924902,A5107904919,100
+1373,d mori,r d morin,A5107924902,A5027417971,80
+1374,d mori,d mori,A5107924902,A5105543961,100
+1375,d mori,d mori,A5107924902,A5105558116,100
+1376,alexander macisaac,alexander moiseev,A5090215869,A5103429954,74
+1377,d mori,d mori,A5107930751,A5107909699,100
+1378,d mori,d mori,A5107930751,A5107894807,100
+1379,d mori,d mori,A5107930751,A5105541342,100
+1380,d mori,d mori,A5107930751,A5107889212,100
+1381,d mori,d mori,A5107930751,A5107911218,100
+1382,d mori,d mori,A5107930751,A5107904919,100
+1383,d mori,r d morin,A5107930751,A5027417971,80
+1384,d mori,d mori,A5107930751,A5105543961,100
+1385,d mori,d mori,A5107930751,A5105558116,100
+1386,kathleen m millar,kathleen p moriarty,A5024729816,A5014447300,78
+1387,kathleen m millar,kathleen meszaros,A5024729816,A5113355748,71
+1388,rebecca macdonald,ja macdonald,A5081821382,A5000418425,76
+1389,rory l mcintosh,deby mcintosh,A5052502453,A5060535015,71
+1390,a montalbano,a montalbano,A5107878095,A5107992656,100
+1391,a montalbano,a montalbano,A5107878095,A5105625354,100
+1392,a montalbano,a montalbano,A5107878095,A5107924432,100
+1393,a montalbano,a montalbano,A5107878095,A5105565245,100
+1394,a montalbano,a montalbano,A5107878095,A5107865895,100
+1395,a montalbano,a montalbano,A5107878095,A5107918743,100
+1396,a montalbano,a montalbano,A5107878095,A5108112229,100
+1397,a montalbano,a montalbano,A5107878095,A5107850321,100
+1398,a montalbano,a montalbano,A5107878095,A5107894224,100
+1399,a montalbano,a montalbano,A5107878095,A5107887913,100
+1400,a montalbano,a montalbano,A5107878095,A5107926874,100
+1401,a montalbano,a montalbano,A5107878095,A5105699223,100
+1402,a montalbano,a montalbano,A5107878095,A5107892670,100
+1403,a montalbano,a montalbano,A5107878095,A5107922261,100
+1404,a montalbano,a montalbano,A5107878095,A5105572802,100
+1405,a montalbano,a montalbano,A5107878095,A5107447982,100
+1406,a montalbano,a montalbano,A5107878095,A5107914183,100
+1407,a montalbano,a montalbano,A5107878095,A5107926272,100
+1408,a montalbano,a montalbano,A5107878095,A5108136694,100
+1409,a montalbano,a montalbano,A5107992656,A5105625354,100
+1410,a montalbano,a montalbano,A5107992656,A5107924432,100
+1411,a montalbano,a montalbano,A5107992656,A5105565245,100
+1412,a montalbano,a montalbano,A5107992656,A5107865895,100
+1413,a montalbano,a montalbano,A5107992656,A5107918743,100
+1414,a montalbano,a montalbano,A5107992656,A5108112229,100
+1415,a montalbano,a montalbano,A5107992656,A5107850321,100
+1416,a montalbano,a montalbano,A5107992656,A5107894224,100
+1417,a montalbano,a montalbano,A5107992656,A5107887913,100
+1418,a montalbano,a montalbano,A5107992656,A5107926874,100
+1419,a montalbano,a montalbano,A5107992656,A5105699223,100
+1420,a montalbano,a montalbano,A5107992656,A5107892670,100
+1421,a montalbano,a montalbano,A5107992656,A5107922261,100
+1422,a montalbano,a montalbano,A5107992656,A5105572802,100
+1423,a montalbano,a montalbano,A5107992656,A5107447982,100
+1424,a montalbano,a montalbano,A5107992656,A5107914183,100
+1425,a montalbano,a montalbano,A5107992656,A5107926272,100
+1426,a montalbano,a montalbano,A5107992656,A5108136694,100
+1427,d mori,d mori,A5107909699,A5107894807,100
+1428,d mori,d mori,A5107909699,A5105541342,100
+1429,d mori,d mori,A5107909699,A5107889212,100
+1430,d mori,d mori,A5107909699,A5107911218,100
+1431,d mori,d mori,A5107909699,A5107904919,100
+1432,d mori,r d morin,A5107909699,A5027417971,80
+1433,d mori,d mori,A5107909699,A5105543961,100
+1434,d mori,d mori,A5107909699,A5105558116,100
+1435,alexander moiseev,alexander mikhaylov,A5103429954,A5053195533,72
+1436,a montalbano,a montalbano,A5105625354,A5107924432,100
+1437,a montalbano,a montalbano,A5105625354,A5105565245,100
+1438,a montalbano,a montalbano,A5105625354,A5107865895,100
+1439,a montalbano,a montalbano,A5105625354,A5107918743,100
+1440,a montalbano,a montalbano,A5105625354,A5108112229,100
+1441,a montalbano,a montalbano,A5105625354,A5107850321,100
+1442,a montalbano,a montalbano,A5105625354,A5107894224,100
+1443,a montalbano,a montalbano,A5105625354,A5107887913,100
+1444,a montalbano,a montalbano,A5105625354,A5107926874,100
+1445,a montalbano,a montalbano,A5105625354,A5105699223,100
+1446,a montalbano,a montalbano,A5105625354,A5107892670,100
+1447,a montalbano,a montalbano,A5105625354,A5107922261,100
+1448,a montalbano,a montalbano,A5105625354,A5105572802,100
+1449,a montalbano,a montalbano,A5105625354,A5107447982,100
+1450,a montalbano,a montalbano,A5105625354,A5107914183,100
+1451,a montalbano,a montalbano,A5105625354,A5107926272,100
+1452,a montalbano,a montalbano,A5105625354,A5108136694,100
+1453,a montalbano,a montalbano,A5107924432,A5105565245,100
+1454,a montalbano,a montalbano,A5107924432,A5107865895,100
+1455,a montalbano,a montalbano,A5107924432,A5107918743,100
+1456,a montalbano,a montalbano,A5107924432,A5108112229,100
+1457,a montalbano,a montalbano,A5107924432,A5107850321,100
+1458,a montalbano,a montalbano,A5107924432,A5107894224,100
+1459,a montalbano,a montalbano,A5107924432,A5107887913,100
+1460,a montalbano,a montalbano,A5107924432,A5107926874,100
+1461,a montalbano,a montalbano,A5107924432,A5105699223,100
+1462,a montalbano,a montalbano,A5107924432,A5107892670,100
+1463,a montalbano,a montalbano,A5107924432,A5107922261,100
+1464,a montalbano,a montalbano,A5107924432,A5105572802,100
+1465,a montalbano,a montalbano,A5107924432,A5107447982,100
+1466,a montalbano,a montalbano,A5107924432,A5107914183,100
+1467,a montalbano,a montalbano,A5107924432,A5107926272,100
+1468,a montalbano,a montalbano,A5107924432,A5108136694,100
+1469,p meyer,eve meyer,A5109005649,A5111063368,75
+1470,dan marshall,a mahal,A5112003754,A5109157673,74
+1471,afagh mohagheghi,a mohaghegi,A5005637686,A5107013738,81
+1472,cameron mcrae,cameron michels,A5049686352,A5080344862,79
+1473,zarah monfaredi,aryan monfared,A5082693605,A5079493724,83
+1474,d mori,d mori,A5107894807,A5105541342,100
+1475,d mori,d mori,A5107894807,A5107889212,100
+1476,d mori,d mori,A5107894807,A5107911218,100
+1477,d mori,d mori,A5107894807,A5107904919,100
+1478,d mori,r d morin,A5107894807,A5027417971,80
+1479,d mori,d mori,A5107894807,A5105543961,100
+1480,d mori,d mori,A5107894807,A5105558116,100
+1481,maureen s mcgrath,lauren d mcrae,A5110711132,A5087313813,71
+1482,m momtahen,shadi momtahen,A5113723884,A5043840244,75
+1483,m momtahen,maryam momtahen,A5113723884,A5092009233,80
+1484,m momtahen,maryam momtahen,A5113723884,A5108845523,80
+1485,a montalbano,a montalbano,A5105565245,A5107865895,100
+1486,a montalbano,a montalbano,A5105565245,A5107918743,100
+1487,a montalbano,a montalbano,A5105565245,A5108112229,100
+1488,a montalbano,a montalbano,A5105565245,A5107850321,100
+1489,a montalbano,a montalbano,A5105565245,A5107894224,100
+1490,a montalbano,a montalbano,A5105565245,A5107887913,100
+1491,a montalbano,a montalbano,A5105565245,A5107926874,100
+1492,a montalbano,a montalbano,A5105565245,A5105699223,100
+1493,a montalbano,a montalbano,A5105565245,A5107892670,100
+1494,a montalbano,a montalbano,A5105565245,A5107922261,100
+1495,a montalbano,a montalbano,A5105565245,A5105572802,100
+1496,a montalbano,a montalbano,A5105565245,A5107447982,100
+1497,a montalbano,a montalbano,A5105565245,A5107914183,100
+1498,a montalbano,a montalbano,A5105565245,A5107926272,100
+1499,a montalbano,a montalbano,A5105565245,A5108136694,100
+1500,nicolas j muñoz,nicola j murray,A5048446040,A5102869719,73
+1501,d mori,d mori,A5105541342,A5107889212,100
+1502,d mori,d mori,A5105541342,A5107911218,100
+1503,d mori,d mori,A5105541342,A5107904919,100
+1504,d mori,r d morin,A5105541342,A5027417971,80
+1505,d mori,d mori,A5105541342,A5105543961,100
+1506,d mori,d mori,A5105541342,A5105558116,100
+1507,d mori,d mori,A5107889212,A5107911218,100
+1508,d mori,d mori,A5107889212,A5107904919,100
+1509,d mori,r d morin,A5107889212,A5027417971,80
+1510,d mori,d mori,A5107889212,A5105543961,100
+1511,d mori,d mori,A5107889212,A5105558116,100
+1512,sabine mann,s e mann,A5111905431,A5022806669,74
+1513,d mori,d mori,A5107911218,A5107904919,100
+1514,d mori,r d morin,A5107911218,A5027417971,80
+1515,d mori,d mori,A5107911218,A5105543961,100
+1516,d mori,d mori,A5107911218,A5105558116,100
+1517,s e mann,g mann,A5022806669,A5016658319,71
+1518,brea mccauley,brea mccauley,A5088750285,A5084315504,100
+1519,cassia l mcintyre,david l mcintyre,A5020371516,A5011031991,79
+1520,a montalbano,a montalbano,A5107865895,A5107918743,100
+1521,a montalbano,a montalbano,A5107865895,A5108112229,100
+1522,a montalbano,a montalbano,A5107865895,A5107850321,100
+1523,a montalbano,a montalbano,A5107865895,A5107894224,100
+1524,a montalbano,a montalbano,A5107865895,A5107887913,100
+1525,a montalbano,a montalbano,A5107865895,A5107926874,100
+1526,a montalbano,a montalbano,A5107865895,A5105699223,100
+1527,a montalbano,a montalbano,A5107865895,A5107892670,100
+1528,a montalbano,a montalbano,A5107865895,A5107922261,100
+1529,a montalbano,a montalbano,A5107865895,A5105572802,100
+1530,a montalbano,a montalbano,A5107865895,A5107447982,100
+1531,a montalbano,a montalbano,A5107865895,A5107914183,100
+1532,a montalbano,a montalbano,A5107865895,A5107926272,100
+1533,a montalbano,a montalbano,A5107865895,A5108136694,100
+1534,a mahal,manveer mahal,A5109157673,A5018429756,70
+1535,mark mahadeo,mark n mahadeo,A5012970291,A5086131135,92
+1536,jennifer mcdermid,jennifer mcnichol,A5082288060,A5004999654,71
+1537,jennifer mcdermid,jennifer mcnichol,A5082288060,A5091656619,71
+1538,jennifer mcdermid,jennifer mcnichol,A5082288060,A5116329588,71
+1539,a montalbano,a montalbano,A5107918743,A5108112229,100
+1540,a montalbano,a montalbano,A5107918743,A5107850321,100
+1541,a montalbano,a montalbano,A5107918743,A5107894224,100
+1542,a montalbano,a montalbano,A5107918743,A5107887913,100
+1543,a montalbano,a montalbano,A5107918743,A5107926874,100
+1544,a montalbano,a montalbano,A5107918743,A5105699223,100
+1545,a montalbano,a montalbano,A5107918743,A5107892670,100
+1546,a montalbano,a montalbano,A5107918743,A5107922261,100
+1547,a montalbano,a montalbano,A5107918743,A5105572802,100
+1548,a montalbano,a montalbano,A5107918743,A5107447982,100
+1549,a montalbano,a montalbano,A5107918743,A5107914183,100
+1550,a montalbano,a montalbano,A5107918743,A5107926272,100
+1551,a montalbano,a montalbano,A5107918743,A5108136694,100
+1552,a montalbano,a montalbano,A5108112229,A5107850321,100
+1553,a montalbano,a montalbano,A5108112229,A5107894224,100
+1554,a montalbano,a montalbano,A5108112229,A5107887913,100
+1555,a montalbano,a montalbano,A5108112229,A5107926874,100
+1556,a montalbano,a montalbano,A5108112229,A5105699223,100
+1557,a montalbano,a montalbano,A5108112229,A5107892670,100
+1558,a montalbano,a montalbano,A5108112229,A5107922261,100
+1559,a montalbano,a montalbano,A5108112229,A5105572802,100
+1560,a montalbano,a montalbano,A5108112229,A5107447982,100
+1561,a montalbano,a montalbano,A5108112229,A5107914183,100
+1562,a montalbano,a montalbano,A5108112229,A5107926272,100
+1563,a montalbano,a montalbano,A5108112229,A5108136694,100
+1564,shaun mcdonald,ja macdonald,A5058388442,A5000418425,77
+1565,martin mateus,megan mattes,A5106367299,A5106771795,72
+1566,klinsmann j coelho silva meneses,klinsmann j coelho silva menes,A5062290806,A5093260777,97
+1567,a montalbano,a montalbano,A5107850321,A5107894224,100
+1568,a montalbano,a montalbano,A5107850321,A5107887913,100
+1569,a montalbano,a montalbano,A5107850321,A5107926874,100
+1570,a montalbano,a montalbano,A5107850321,A5105699223,100
+1571,a montalbano,a montalbano,A5107850321,A5107892670,100
+1572,a montalbano,a montalbano,A5107850321,A5107922261,100
+1573,a montalbano,a montalbano,A5107850321,A5105572802,100
+1574,a montalbano,a montalbano,A5107850321,A5107447982,100
+1575,a montalbano,a montalbano,A5107850321,A5107914183,100
+1576,a montalbano,a montalbano,A5107850321,A5107926272,100
+1577,a montalbano,a montalbano,A5107850321,A5108136694,100
+1578,a montalbano,a montalbano,A5107894224,A5107887913,100
+1579,a montalbano,a montalbano,A5107894224,A5107926874,100
+1580,a montalbano,a montalbano,A5107894224,A5105699223,100
+1581,a montalbano,a montalbano,A5107894224,A5107892670,100
+1582,a montalbano,a montalbano,A5107894224,A5107922261,100
+1583,a montalbano,a montalbano,A5107894224,A5105572802,100
+1584,a montalbano,a montalbano,A5107894224,A5107447982,100
+1585,a montalbano,a montalbano,A5107894224,A5107914183,100
+1586,a montalbano,a montalbano,A5107894224,A5107926272,100
+1587,a montalbano,a montalbano,A5107894224,A5108136694,100
+1588,d mori,r d morin,A5107904919,A5027417971,80
+1589,d mori,d mori,A5107904919,A5105543961,100
+1590,d mori,d mori,A5107904919,A5105558116,100
+1591,dane marijan,lainey martin,A5063502643,A5104260442,72
+1592,finlay c macnab,finlay macnab,A5067609189,A5054475200,93
+1593,a montalbano,a montalbano,A5107887913,A5107926874,100
+1594,a montalbano,a montalbano,A5107887913,A5105699223,100
+1595,a montalbano,a montalbano,A5107887913,A5107892670,100
+1596,a montalbano,a montalbano,A5107887913,A5107922261,100
+1597,a montalbano,a montalbano,A5107887913,A5105572802,100
+1598,a montalbano,a montalbano,A5107887913,A5107447982,100
+1599,a montalbano,a montalbano,A5107887913,A5107914183,100
+1600,a montalbano,a montalbano,A5107887913,A5107926272,100
+1601,a montalbano,a montalbano,A5107887913,A5108136694,100
+1602,a montalbano,a montalbano,A5107926874,A5105699223,100
+1603,a montalbano,a montalbano,A5107926874,A5107892670,100
+1604,a montalbano,a montalbano,A5107926874,A5107922261,100
+1605,a montalbano,a montalbano,A5107926874,A5105572802,100
+1606,a montalbano,a montalbano,A5107926874,A5107447982,100
+1607,a montalbano,a montalbano,A5107926874,A5107914183,100
+1608,a montalbano,a montalbano,A5107926874,A5107926272,100
+1609,a montalbano,a montalbano,A5107926874,A5108136694,100
+1610,jennifer mcnichol,jennifer mcnichol,A5004999654,A5091656619,100
+1611,jennifer mcnichol,jennifer mcnichol,A5004999654,A5116329588,100
+1612,jennifer mcnichol,jennifer multani,A5004999654,A5053962660,73
+1613,jennifer mcnichol,jennifer mcnichol,A5091656619,A5116329588,100
+1614,jennifer mcnichol,jennifer multani,A5091656619,A5053962660,73
+1615,maryam momtahen,maryam momtahen,A5092009233,A5108845523,100
+1616,mohammad reza mohammadzadeh,mohammad reza mostaan,A5113391147,A5007770340,75
+1617,mohammad reza mohammadzadeh,mohammad mazraeh,A5113391147,A5029502767,70
+1618,fiona margaret mackellar,fiona m mackellar,A5001691873,A5045703529,83
+1619,r d morin,d mori,A5027417971,A5105543961,80
+1620,r d morin,d mori,A5027417971,A5105558116,80
+1621,mohammadhadi mohandes,hadi mohandes,A5034050548,A5063739195,76
+1622,d mori,d mori,A5105543961,A5105558116,100
+1623,a montalbano,a montalbano,A5105699223,A5107892670,100
+1624,a montalbano,a montalbano,A5105699223,A5107922261,100
+1625,a montalbano,a montalbano,A5105699223,A5105572802,100
+1626,a montalbano,a montalbano,A5105699223,A5107447982,100
+1627,a montalbano,a montalbano,A5105699223,A5107914183,100
+1628,a montalbano,a montalbano,A5105699223,A5107926272,100
+1629,a montalbano,a montalbano,A5105699223,A5108136694,100
+1630,a montalbano,a montalbano,A5107892670,A5107922261,100
+1631,a montalbano,a montalbano,A5107892670,A5105572802,100
+1632,a montalbano,a montalbano,A5107892670,A5107447982,100
+1633,a montalbano,a montalbano,A5107892670,A5107914183,100
+1634,a montalbano,a montalbano,A5107892670,A5107926272,100
+1635,a montalbano,a montalbano,A5107892670,A5108136694,100
+1636,a montalbano,a montalbano,A5107922261,A5105572802,100
+1637,a montalbano,a montalbano,A5107922261,A5107447982,100
+1638,a montalbano,a montalbano,A5107922261,A5107914183,100
+1639,a montalbano,a montalbano,A5107922261,A5107926272,100
+1640,a montalbano,a montalbano,A5107922261,A5108136694,100
+1641,megan a macgregor,glenna mcgregor,A5111270307,A5114186386,75
+1642,jennifer mcnichol,jennifer multani,A5116329588,A5053962660,73
+1643,houman layegh mirhosseini,h l mirhosseneini,A5098489079,A5118268663,71
+1644,a montalbano,a montalbano,A5105572802,A5107447982,100
+1645,a montalbano,a montalbano,A5105572802,A5107914183,100
+1646,a montalbano,a montalbano,A5105572802,A5107926272,100
+1647,a montalbano,a montalbano,A5105572802,A5108136694,100
+1648,a montalbano,a montalbano,A5107447982,A5107914183,100
+1649,a montalbano,a montalbano,A5107447982,A5107926272,100
+1650,a montalbano,a montalbano,A5107447982,A5108136694,100
+1651,a montalbano,a montalbano,A5107914183,A5107926272,100
+1652,a montalbano,a montalbano,A5107914183,A5108136694,100
+1653,a montalbano,a montalbano,A5107926272,A5108136694,100
+1654,bohdan nosyk,b nosyk,A5065274638,A5041994135,74
+1655,masahiro niikura,masa niikura,A5089335621,A5108740660,86
+1656,anne‐marie nicol,anne marie nicol,A5110840814,A5113313391,94
+1657,anne‐marie nicol,anne-marie nicole,A5110840814,A5113360973,91
+1658,asieh naderi,sina nazeri,A5073144894,A5007790006,70
+1659,michelle nilson,ms michelle nicholas,A5007454143,A5108828256,74
+1660,maziyar nazemi,maziyar nazemi,A5080206380,A5106582466,100
+1661,mohammad narimani,mohammadamin nikmanesh,A5016307441,A5099098442,72
+1662,josiah j newton,j r newton,A5032744408,A5084084779,72
+1663,mohammadjavad nouri,mohammadjavad nouri,A5074627917,A5012108073,100
+1664,rochelle nocos,rochelle nocos,A5072734864,A5108926989,100
+1665,karyn nelson,kia neilsen,A5024576121,A5116713155,70
+1666,anne marie nicol,anne-marie nicole,A5113313391,A5113360973,91
+1667,d c o’neil,d c o’neil,A5103713192,A5107870936,100
+1668,d c o’neil,d c o’neil,A5103713192,A5107901341,100
+1669,d c o’neil,dc oneil,A5103713192,A5045650275,89
+1670,d c o’neil,d c o’neil,A5103713192,A5107880326,100
+1671,d c o’neil,dc oneil,A5103713192,A5107851672,89
+1672,d c o’neil,d c o’neil,A5103713192,A5107879996,100
+1673,d c o’neil,d c o’neil,A5103713192,A5105260634,100
+1674,d c o’neil,d c o’neil,A5103713192,A5105233945,100
+1675,d c o’neil,dc oneil,A5103713192,A5109394000,89
+1676,d c o’neil,d c o’neil,A5103713192,A5107895477,100
+1677,d c o’neil,d c o’neil,A5103713192,A5107829324,100
+1678,d c o’neil,d c o’neil,A5103713192,A5107852029,100
+1679,d c o’neil,d c o’neil,A5103713192,A5107855339,100
+1680,d c o’neil,d c o’neil,A5103713192,A5107119196,100
+1681,d c o’neil,d c o’neil,A5103713192,A5107918750,100
+1682,d c o’neil,d c o’neil,A5103713192,A5107745889,100
+1683,d c o’neil,d c o’neil,A5103713192,A5107924921,100
+1684,d c o’neil,d c o’neil,A5103713192,A5107825659,100
+1685,d c o’neil,d c o’neil,A5103713192,A5107829480,100
+1686,d c o’neil,d c o’neil,A5103713192,A5107745846,100
+1687,d c o’neil,d c o’neil,A5103713192,A5107896797,100
+1688,d c o’neil,d c o’neil,A5103713192,A5108076753,100
+1689,d c o’neil,d c o’neil,A5103713192,A5105565261,100
+1690,d c o’neil,d c o’neil,A5103713192,A5105634186,100
+1691,d c o’neil,d c o’neil,A5103713192,A5105641748,100
+1692,d c o’neil,d c o’neil,A5103713192,A5105644356,100
+1693,d c o’neil,d c o’neil,A5103713192,A5107196339,100
+1694,d c o’neil,d c o’neil,A5103713192,A5107396938,100
+1695,d c o’neil,d c o’neil,A5103713192,A5107894810,100
+1696,d c o’neil,d c o’neil,A5103713192,A5107911228,100
+1697,j f ogilvie,jf ogilvie,A5023738667,A5006142451,95
+1698,j f ogilvie,j f ogilvie,A5023738667,A5051792332,100
+1699,d c o’neil,d c o’neil,A5107870936,A5107901341,100
+1700,d c o’neil,dc oneil,A5107870936,A5045650275,89
+1701,d c o’neil,d c o’neil,A5107870936,A5107880326,100
+1702,d c o’neil,dc oneil,A5107870936,A5107851672,89
+1703,d c o’neil,d c o’neil,A5107870936,A5107879996,100
+1704,d c o’neil,d c o’neil,A5107870936,A5105260634,100
+1705,d c o’neil,d c o’neil,A5107870936,A5105233945,100
+1706,d c o’neil,dc oneil,A5107870936,A5109394000,89
+1707,d c o’neil,d c o’neil,A5107870936,A5107895477,100
+1708,d c o’neil,d c o’neil,A5107870936,A5107829324,100
+1709,d c o’neil,d c o’neil,A5107870936,A5107852029,100
+1710,d c o’neil,d c o’neil,A5107870936,A5107855339,100
+1711,d c o’neil,d c o’neil,A5107870936,A5107119196,100
+1712,d c o’neil,d c o’neil,A5107870936,A5107918750,100
+1713,d c o’neil,d c o’neil,A5107870936,A5107745889,100
+1714,d c o’neil,d c o’neil,A5107870936,A5107924921,100
+1715,d c o’neil,d c o’neil,A5107870936,A5107825659,100
+1716,d c o’neil,d c o’neil,A5107870936,A5107829480,100
+1717,d c o’neil,d c o’neil,A5107870936,A5107745846,100
+1718,d c o’neil,d c o’neil,A5107870936,A5107896797,100
+1719,d c o’neil,d c o’neil,A5107870936,A5108076753,100
+1720,d c o’neil,d c o’neil,A5107870936,A5105565261,100
+1721,d c o’neil,d c o’neil,A5107870936,A5105634186,100
+1722,d c o’neil,d c o’neil,A5107870936,A5105641748,100
+1723,d c o’neil,d c o’neil,A5107870936,A5105644356,100
+1724,d c o’neil,d c o’neil,A5107870936,A5107196339,100
+1725,d c o’neil,d c o’neil,A5107870936,A5107396938,100
+1726,d c o’neil,d c o’neil,A5107870936,A5107894810,100
+1727,d c o’neil,d c o’neil,A5107870936,A5107911228,100
+1728,william odom,will odom,A5073024818,A5056121536,86
+1729,marlena ornowska,m ornowska,A5064059636,A5010244072,77
+1730,marlena ornowska,ms marlena ornowska,A5064059636,A5109595986,91
+1731,d c o’neil,dc oneil,A5107901341,A5045650275,89
+1732,d c o’neil,d c o’neil,A5107901341,A5107880326,100
+1733,d c o’neil,dc oneil,A5107901341,A5107851672,89
+1734,d c o’neil,d c o’neil,A5107901341,A5107879996,100
+1735,d c o’neil,d c o’neil,A5107901341,A5105260634,100
+1736,d c o’neil,d c o’neil,A5107901341,A5105233945,100
+1737,d c o’neil,dc oneil,A5107901341,A5109394000,89
+1738,d c o’neil,d c o’neil,A5107901341,A5107895477,100
+1739,d c o’neil,d c o’neil,A5107901341,A5107829324,100
+1740,d c o’neil,d c o’neil,A5107901341,A5107852029,100
+1741,d c o’neil,d c o’neil,A5107901341,A5107855339,100
+1742,d c o’neil,d c o’neil,A5107901341,A5107119196,100
+1743,d c o’neil,d c o’neil,A5107901341,A5107918750,100
+1744,d c o’neil,d c o’neil,A5107901341,A5107745889,100
+1745,d c o’neil,d c o’neil,A5107901341,A5107924921,100
+1746,d c o’neil,d c o’neil,A5107901341,A5107825659,100
+1747,d c o’neil,d c o’neil,A5107901341,A5107829480,100
+1748,d c o’neil,d c o’neil,A5107901341,A5107745846,100
+1749,d c o’neil,d c o’neil,A5107901341,A5107896797,100
+1750,d c o’neil,d c o’neil,A5107901341,A5108076753,100
+1751,d c o’neil,d c o’neil,A5107901341,A5105565261,100
+1752,d c o’neil,d c o’neil,A5107901341,A5105634186,100
+1753,d c o’neil,d c o’neil,A5107901341,A5105641748,100
+1754,d c o’neil,d c o’neil,A5107901341,A5105644356,100
+1755,d c o’neil,d c o’neil,A5107901341,A5107196339,100
+1756,d c o’neil,d c o’neil,A5107901341,A5107396938,100
+1757,d c o’neil,d c o’neil,A5107901341,A5107894810,100
+1758,d c o’neil,d c o’neil,A5107901341,A5107911228,100
+1759,dc oneil,d c o’neil,A5045650275,A5107880326,89
+1760,dc oneil,dc oneil,A5045650275,A5107851672,100
+1761,dc oneil,d c o’neil,A5045650275,A5107879996,89
+1762,dc oneil,d c o’neil,A5045650275,A5105260634,89
+1763,dc oneil,d c o’neil,A5045650275,A5105233945,89
+1764,dc oneil,dc oneil,A5045650275,A5109394000,100
+1765,dc oneil,d c o’neil,A5045650275,A5107895477,89
+1766,dc oneil,d c o’neil,A5045650275,A5107829324,89
+1767,dc oneil,d c o’neil,A5045650275,A5107852029,89
+1768,dc oneil,d c o’neil,A5045650275,A5107855339,89
+1769,dc oneil,d c o’neil,A5045650275,A5107119196,89
+1770,dc oneil,d c o’neil,A5045650275,A5107918750,89
+1771,dc oneil,d c o’neil,A5045650275,A5107745889,89
+1772,dc oneil,d c o’neil,A5045650275,A5107924921,89
+1773,dc oneil,d c o’neil,A5045650275,A5107825659,89
+1774,dc oneil,d c o’neil,A5045650275,A5107829480,89
+1775,dc oneil,d c o’neil,A5045650275,A5107745846,89
+1776,dc oneil,d c o’neil,A5045650275,A5107896797,89
+1777,dc oneil,d c o’neil,A5045650275,A5108076753,89
+1778,dc oneil,d c o’neil,A5045650275,A5105565261,89
+1779,dc oneil,d c o’neil,A5045650275,A5105634186,89
+1780,dc oneil,d c o’neil,A5045650275,A5105641748,89
+1781,dc oneil,d c o’neil,A5045650275,A5105644356,89
+1782,dc oneil,d c o’neil,A5045650275,A5107196339,89
+1783,dc oneil,d c o’neil,A5045650275,A5107396938,89
+1784,dc oneil,d c o’neil,A5045650275,A5107894810,89
+1785,dc oneil,d c o’neil,A5045650275,A5107911228,89
+1786,d c o’neil,dc oneil,A5107880326,A5107851672,89
+1787,d c o’neil,d c o’neil,A5107880326,A5107879996,100
+1788,d c o’neil,d c o’neil,A5107880326,A5105260634,100
+1789,d c o’neil,d c o’neil,A5107880326,A5105233945,100
+1790,d c o’neil,dc oneil,A5107880326,A5109394000,89
+1791,d c o’neil,d c o’neil,A5107880326,A5107895477,100
+1792,d c o’neil,d c o’neil,A5107880326,A5107829324,100
+1793,d c o’neil,d c o’neil,A5107880326,A5107852029,100
+1794,d c o’neil,d c o’neil,A5107880326,A5107855339,100
+1795,d c o’neil,d c o’neil,A5107880326,A5107119196,100
+1796,d c o’neil,d c o’neil,A5107880326,A5107918750,100
+1797,d c o’neil,d c o’neil,A5107880326,A5107745889,100
+1798,d c o’neil,d c o’neil,A5107880326,A5107924921,100
+1799,d c o’neil,d c o’neil,A5107880326,A5107825659,100
+1800,d c o’neil,d c o’neil,A5107880326,A5107829480,100
+1801,d c o’neil,d c o’neil,A5107880326,A5107745846,100
+1802,d c o’neil,d c o’neil,A5107880326,A5107896797,100
+1803,d c o’neil,d c o’neil,A5107880326,A5108076753,100
+1804,d c o’neil,d c o’neil,A5107880326,A5105565261,100
+1805,d c o’neil,d c o’neil,A5107880326,A5105634186,100
+1806,d c o’neil,d c o’neil,A5107880326,A5105641748,100
+1807,d c o’neil,d c o’neil,A5107880326,A5105644356,100
+1808,d c o’neil,d c o’neil,A5107880326,A5107196339,100
+1809,d c o’neil,d c o’neil,A5107880326,A5107396938,100
+1810,d c o’neil,d c o’neil,A5107880326,A5107894810,100
+1811,d c o’neil,d c o’neil,A5107880326,A5107911228,100
+1812,dc oneil,d c o’neil,A5107851672,A5107879996,89
+1813,dc oneil,d c o’neil,A5107851672,A5105260634,89
+1814,dc oneil,d c o’neil,A5107851672,A5105233945,89
+1815,dc oneil,dc oneil,A5107851672,A5109394000,100
+1816,dc oneil,d c o’neil,A5107851672,A5107895477,89
+1817,dc oneil,d c o’neil,A5107851672,A5107829324,89
+1818,dc oneil,d c o’neil,A5107851672,A5107852029,89
+1819,dc oneil,d c o’neil,A5107851672,A5107855339,89
+1820,dc oneil,d c o’neil,A5107851672,A5107119196,89
+1821,dc oneil,d c o’neil,A5107851672,A5107918750,89
+1822,dc oneil,d c o’neil,A5107851672,A5107745889,89
+1823,dc oneil,d c o’neil,A5107851672,A5107924921,89
+1824,dc oneil,d c o’neil,A5107851672,A5107825659,89
+1825,dc oneil,d c o’neil,A5107851672,A5107829480,89
+1826,dc oneil,d c o’neil,A5107851672,A5107745846,89
+1827,dc oneil,d c o’neil,A5107851672,A5107896797,89
+1828,dc oneil,d c o’neil,A5107851672,A5108076753,89
+1829,dc oneil,d c o’neil,A5107851672,A5105565261,89
+1830,dc oneil,d c o’neil,A5107851672,A5105634186,89
+1831,dc oneil,d c o’neil,A5107851672,A5105641748,89
+1832,dc oneil,d c o’neil,A5107851672,A5105644356,89
+1833,dc oneil,d c o’neil,A5107851672,A5107196339,89
+1834,dc oneil,d c o’neil,A5107851672,A5107396938,89
+1835,dc oneil,d c o’neil,A5107851672,A5107894810,89
+1836,dc oneil,d c o’neil,A5107851672,A5107911228,89
+1837,d c o’neil,d c o’neil,A5107879996,A5105260634,100
+1838,d c o’neil,d c o’neil,A5107879996,A5105233945,100
+1839,d c o’neil,dc oneil,A5107879996,A5109394000,89
+1840,d c o’neil,d c o’neil,A5107879996,A5107895477,100
+1841,d c o’neil,d c o’neil,A5107879996,A5107829324,100
+1842,d c o’neil,d c o’neil,A5107879996,A5107852029,100
+1843,d c o’neil,d c o’neil,A5107879996,A5107855339,100
+1844,d c o’neil,d c o’neil,A5107879996,A5107119196,100
+1845,d c o’neil,d c o’neil,A5107879996,A5107918750,100
+1846,d c o’neil,d c o’neil,A5107879996,A5107745889,100
+1847,d c o’neil,d c o’neil,A5107879996,A5107924921,100
+1848,d c o’neil,d c o’neil,A5107879996,A5107825659,100
+1849,d c o’neil,d c o’neil,A5107879996,A5107829480,100
+1850,d c o’neil,d c o’neil,A5107879996,A5107745846,100
+1851,d c o’neil,d c o’neil,A5107879996,A5107896797,100
+1852,d c o’neil,d c o’neil,A5107879996,A5108076753,100
+1853,d c o’neil,d c o’neil,A5107879996,A5105565261,100
+1854,d c o’neil,d c o’neil,A5107879996,A5105634186,100
+1855,d c o’neil,d c o’neil,A5107879996,A5105641748,100
+1856,d c o’neil,d c o’neil,A5107879996,A5105644356,100
+1857,d c o’neil,d c o’neil,A5107879996,A5107196339,100
+1858,d c o’neil,d c o’neil,A5107879996,A5107396938,100
+1859,d c o’neil,d c o’neil,A5107879996,A5107894810,100
+1860,d c o’neil,d c o’neil,A5107879996,A5107911228,100
+1861,pavlo omelchenko,oleksii omelchenko,A5000073501,A5069278048,71
+1862,d c o’neil,d c o’neil,A5105260634,A5105233945,100
+1863,d c o’neil,dc oneil,A5105260634,A5109394000,89
+1864,d c o’neil,d c o’neil,A5105260634,A5107895477,100
+1865,d c o’neil,d c o’neil,A5105260634,A5107829324,100
+1866,d c o’neil,d c o’neil,A5105260634,A5107852029,100
+1867,d c o’neil,d c o’neil,A5105260634,A5107855339,100
+1868,d c o’neil,d c o’neil,A5105260634,A5107119196,100
+1869,d c o’neil,d c o’neil,A5105260634,A5107918750,100
+1870,d c o’neil,d c o’neil,A5105260634,A5107745889,100
+1871,d c o’neil,d c o’neil,A5105260634,A5107924921,100
+1872,d c o’neil,d c o’neil,A5105260634,A5107825659,100
+1873,d c o’neil,d c o’neil,A5105260634,A5107829480,100
+1874,d c o’neil,d c o’neil,A5105260634,A5107745846,100
+1875,d c o’neil,d c o’neil,A5105260634,A5107896797,100
+1876,d c o’neil,d c o’neil,A5105260634,A5108076753,100
+1877,d c o’neil,d c o’neil,A5105260634,A5105565261,100
+1878,d c o’neil,d c o’neil,A5105260634,A5105634186,100
+1879,d c o’neil,d c o’neil,A5105260634,A5105641748,100
+1880,d c o’neil,d c o’neil,A5105260634,A5105644356,100
+1881,d c o’neil,d c o’neil,A5105260634,A5107196339,100
+1882,d c o’neil,d c o’neil,A5105260634,A5107396938,100
+1883,d c o’neil,d c o’neil,A5105260634,A5107894810,100
+1884,d c o’neil,d c o’neil,A5105260634,A5107911228,100
+1885,d c o’neil,dc oneil,A5105233945,A5109394000,89
+1886,d c o’neil,d c o’neil,A5105233945,A5107895477,100
+1887,d c o’neil,d c o’neil,A5105233945,A5107829324,100
+1888,d c o’neil,d c o’neil,A5105233945,A5107852029,100
+1889,d c o’neil,d c o’neil,A5105233945,A5107855339,100
+1890,d c o’neil,d c o’neil,A5105233945,A5107119196,100
+1891,d c o’neil,d c o’neil,A5105233945,A5107918750,100
+1892,d c o’neil,d c o’neil,A5105233945,A5107745889,100
+1893,d c o’neil,d c o’neil,A5105233945,A5107924921,100
+1894,d c o’neil,d c o’neil,A5105233945,A5107825659,100
+1895,d c o’neil,d c o’neil,A5105233945,A5107829480,100
+1896,d c o’neil,d c o’neil,A5105233945,A5107745846,100
+1897,d c o’neil,d c o’neil,A5105233945,A5107896797,100
+1898,d c o’neil,d c o’neil,A5105233945,A5108076753,100
+1899,d c o’neil,d c o’neil,A5105233945,A5105565261,100
+1900,d c o’neil,d c o’neil,A5105233945,A5105634186,100
+1901,d c o’neil,d c o’neil,A5105233945,A5105641748,100
+1902,d c o’neil,d c o’neil,A5105233945,A5105644356,100
+1903,d c o’neil,d c o’neil,A5105233945,A5107196339,100
+1904,d c o’neil,d c o’neil,A5105233945,A5107396938,100
+1905,d c o’neil,d c o’neil,A5105233945,A5107894810,100
+1906,d c o’neil,d c o’neil,A5105233945,A5107911228,100
+1907,dc oneil,d c o’neil,A5109394000,A5107895477,89
+1908,dc oneil,d c o’neil,A5109394000,A5107829324,89
+1909,dc oneil,d c o’neil,A5109394000,A5107852029,89
+1910,dc oneil,d c o’neil,A5109394000,A5107855339,89
+1911,dc oneil,d c o’neil,A5109394000,A5107119196,89
+1912,dc oneil,d c o’neil,A5109394000,A5107918750,89
+1913,dc oneil,d c o’neil,A5109394000,A5107745889,89
+1914,dc oneil,d c o’neil,A5109394000,A5107924921,89
+1915,dc oneil,d c o’neil,A5109394000,A5107825659,89
+1916,dc oneil,d c o’neil,A5109394000,A5107829480,89
+1917,dc oneil,d c o’neil,A5109394000,A5107745846,89
+1918,dc oneil,d c o’neil,A5109394000,A5107896797,89
+1919,dc oneil,d c o’neil,A5109394000,A5108076753,89
+1920,dc oneil,d c o’neil,A5109394000,A5105565261,89
+1921,dc oneil,d c o’neil,A5109394000,A5105634186,89
+1922,dc oneil,d c o’neil,A5109394000,A5105641748,89
+1923,dc oneil,d c o’neil,A5109394000,A5105644356,89
+1924,dc oneil,d c o’neil,A5109394000,A5107196339,89
+1925,dc oneil,d c o’neil,A5109394000,A5107396938,89
+1926,dc oneil,d c o’neil,A5109394000,A5107894810,89
+1927,dc oneil,d c o’neil,A5109394000,A5107911228,89
+1928,d c o’neil,d c o’neil,A5107895477,A5107829324,100
+1929,d c o’neil,d c o’neil,A5107895477,A5107852029,100
+1930,d c o’neil,d c o’neil,A5107895477,A5107855339,100
+1931,d c o’neil,d c o’neil,A5107895477,A5107119196,100
+1932,d c o’neil,d c o’neil,A5107895477,A5107918750,100
+1933,d c o’neil,d c o’neil,A5107895477,A5107745889,100
+1934,d c o’neil,d c o’neil,A5107895477,A5107924921,100
+1935,d c o’neil,d c o’neil,A5107895477,A5107825659,100
+1936,d c o’neil,d c o’neil,A5107895477,A5107829480,100
+1937,d c o’neil,d c o’neil,A5107895477,A5107745846,100
+1938,d c o’neil,d c o’neil,A5107895477,A5107896797,100
+1939,d c o’neil,d c o’neil,A5107895477,A5108076753,100
+1940,d c o’neil,d c o’neil,A5107895477,A5105565261,100
+1941,d c o’neil,d c o’neil,A5107895477,A5105634186,100
+1942,d c o’neil,d c o’neil,A5107895477,A5105641748,100
+1943,d c o’neil,d c o’neil,A5107895477,A5105644356,100
+1944,d c o’neil,d c o’neil,A5107895477,A5107196339,100
+1945,d c o’neil,d c o’neil,A5107895477,A5107396938,100
+1946,d c o’neil,d c o’neil,A5107895477,A5107894810,100
+1947,d c o’neil,d c o’neil,A5107895477,A5107911228,100
+1948,christopher oberc,christopher more oferrall,A5031638322,A5093872237,71
+1949,d c o’neil,d c o’neil,A5107829324,A5107852029,100
+1950,d c o’neil,d c o’neil,A5107829324,A5107855339,100
+1951,d c o’neil,d c o’neil,A5107829324,A5107119196,100
+1952,d c o’neil,d c o’neil,A5107829324,A5107918750,100
+1953,d c o’neil,d c o’neil,A5107829324,A5107745889,100
+1954,d c o’neil,d c o’neil,A5107829324,A5107924921,100
+1955,d c o’neil,d c o’neil,A5107829324,A5107825659,100
+1956,d c o’neil,d c o’neil,A5107829324,A5107829480,100
+1957,d c o’neil,d c o’neil,A5107829324,A5107745846,100
+1958,d c o’neil,d c o’neil,A5107829324,A5107896797,100
+1959,d c o’neil,d c o’neil,A5107829324,A5108076753,100
+1960,d c o’neil,d c o’neil,A5107829324,A5105565261,100
+1961,d c o’neil,d c o’neil,A5107829324,A5105634186,100
+1962,d c o’neil,d c o’neil,A5107829324,A5105641748,100
+1963,d c o’neil,d c o’neil,A5107829324,A5105644356,100
+1964,d c o’neil,d c o’neil,A5107829324,A5107196339,100
+1965,d c o’neil,d c o’neil,A5107829324,A5107396938,100
+1966,d c o’neil,d c o’neil,A5107829324,A5107894810,100
+1967,d c o’neil,d c o’neil,A5107829324,A5107911228,100
+1968,katherine o’donnell,kimberly o’donnell,A5066229322,A5004670586,70
+1969,katherine o’donnell,emeralde o’donnell,A5066229322,A5067539481,70
+1970,katherine o’donnell,katherine a o’donnell,A5066229322,A5103744218,95
+1971,d c o’neil,d c o’neil,A5107852029,A5107855339,100
+1972,d c o’neil,d c o’neil,A5107852029,A5107119196,100
+1973,d c o’neil,d c o’neil,A5107852029,A5107918750,100
+1974,d c o’neil,d c o’neil,A5107852029,A5107745889,100
+1975,d c o’neil,d c o’neil,A5107852029,A5107924921,100
+1976,d c o’neil,d c o’neil,A5107852029,A5107825659,100
+1977,d c o’neil,d c o’neil,A5107852029,A5107829480,100
+1978,d c o’neil,d c o’neil,A5107852029,A5107745846,100
+1979,d c o’neil,d c o’neil,A5107852029,A5107896797,100
+1980,d c o’neil,d c o’neil,A5107852029,A5108076753,100
+1981,d c o’neil,d c o’neil,A5107852029,A5105565261,100
+1982,d c o’neil,d c o’neil,A5107852029,A5105634186,100
+1983,d c o’neil,d c o’neil,A5107852029,A5105641748,100
+1984,d c o’neil,d c o’neil,A5107852029,A5105644356,100
+1985,d c o’neil,d c o’neil,A5107852029,A5107196339,100
+1986,d c o’neil,d c o’neil,A5107852029,A5107396938,100
+1987,d c o’neil,d c o’neil,A5107852029,A5107894810,100
+1988,d c o’neil,d c o’neil,A5107852029,A5107911228,100
+1989,d c o’neil,d c o’neil,A5107855339,A5107119196,100
+1990,d c o’neil,d c o’neil,A5107855339,A5107918750,100
+1991,d c o’neil,d c o’neil,A5107855339,A5107745889,100
+1992,d c o’neil,d c o’neil,A5107855339,A5107924921,100
+1993,d c o’neil,d c o’neil,A5107855339,A5107825659,100
+1994,d c o’neil,d c o’neil,A5107855339,A5107829480,100
+1995,d c o’neil,d c o’neil,A5107855339,A5107745846,100
+1996,d c o’neil,d c o’neil,A5107855339,A5107896797,100
+1997,d c o’neil,d c o’neil,A5107855339,A5108076753,100
+1998,d c o’neil,d c o’neil,A5107855339,A5105565261,100
+1999,d c o’neil,d c o’neil,A5107855339,A5105634186,100
+2000,d c o’neil,d c o’neil,A5107855339,A5105641748,100
+2001,d c o’neil,d c o’neil,A5107855339,A5105644356,100
+2002,d c o’neil,d c o’neil,A5107855339,A5107196339,100
+2003,d c o’neil,d c o’neil,A5107855339,A5107396938,100
+2004,d c o’neil,d c o’neil,A5107855339,A5107894810,100
+2005,d c o’neil,d c o’neil,A5107855339,A5107911228,100
+2006,d c o’neil,d c o’neil,A5107119196,A5107918750,100
+2007,d c o’neil,d c o’neil,A5107119196,A5107745889,100
+2008,d c o’neil,d c o’neil,A5107119196,A5107924921,100
+2009,d c o’neil,d c o’neil,A5107119196,A5107825659,100
+2010,d c o’neil,d c o’neil,A5107119196,A5107829480,100
+2011,d c o’neil,d c o’neil,A5107119196,A5107745846,100
+2012,d c o’neil,d c o’neil,A5107119196,A5107896797,100
+2013,d c o’neil,d c o’neil,A5107119196,A5108076753,100
+2014,d c o’neil,d c o’neil,A5107119196,A5105565261,100
+2015,d c o’neil,d c o’neil,A5107119196,A5105634186,100
+2016,d c o’neil,d c o’neil,A5107119196,A5105641748,100
+2017,d c o’neil,d c o’neil,A5107119196,A5105644356,100
+2018,d c o’neil,d c o’neil,A5107119196,A5107196339,100
+2019,d c o’neil,d c o’neil,A5107119196,A5107396938,100
+2020,d c o’neil,d c o’neil,A5107119196,A5107894810,100
+2021,d c o’neil,d c o’neil,A5107119196,A5107911228,100
+2022,d c o’neil,d c o’neil,A5107918750,A5107745889,100
+2023,d c o’neil,d c o’neil,A5107918750,A5107924921,100
+2024,d c o’neil,d c o’neil,A5107918750,A5107825659,100
+2025,d c o’neil,d c o’neil,A5107918750,A5107829480,100
+2026,d c o’neil,d c o’neil,A5107918750,A5107745846,100
+2027,d c o’neil,d c o’neil,A5107918750,A5107896797,100
+2028,d c o’neil,d c o’neil,A5107918750,A5108076753,100
+2029,d c o’neil,d c o’neil,A5107918750,A5105565261,100
+2030,d c o’neil,d c o’neil,A5107918750,A5105634186,100
+2031,d c o’neil,d c o’neil,A5107918750,A5105641748,100
+2032,d c o’neil,d c o’neil,A5107918750,A5105644356,100
+2033,d c o’neil,d c o’neil,A5107918750,A5107196339,100
+2034,d c o’neil,d c o’neil,A5107918750,A5107396938,100
+2035,d c o’neil,d c o’neil,A5107918750,A5107894810,100
+2036,d c o’neil,d c o’neil,A5107918750,A5107911228,100
+2037,d c o’neil,d c o’neil,A5107745889,A5107924921,100
+2038,d c o’neil,d c o’neil,A5107745889,A5107825659,100
+2039,d c o’neil,d c o’neil,A5107745889,A5107829480,100
+2040,d c o’neil,d c o’neil,A5107745889,A5107745846,100
+2041,d c o’neil,d c o’neil,A5107745889,A5107896797,100
+2042,d c o’neil,d c o’neil,A5107745889,A5108076753,100
+2043,d c o’neil,d c o’neil,A5107745889,A5105565261,100
+2044,d c o’neil,d c o’neil,A5107745889,A5105634186,100
+2045,d c o’neil,d c o’neil,A5107745889,A5105641748,100
+2046,d c o’neil,d c o’neil,A5107745889,A5105644356,100
+2047,d c o’neil,d c o’neil,A5107745889,A5107196339,100
+2048,d c o’neil,d c o’neil,A5107745889,A5107396938,100
+2049,d c o’neil,d c o’neil,A5107745889,A5107894810,100
+2050,d c o’neil,d c o’neil,A5107745889,A5107911228,100
+2051,d c o’neil,d c o’neil,A5107924921,A5107825659,100
+2052,d c o’neil,d c o’neil,A5107924921,A5107829480,100
+2053,d c o’neil,d c o’neil,A5107924921,A5107745846,100
+2054,d c o’neil,d c o’neil,A5107924921,A5107896797,100
+2055,d c o’neil,d c o’neil,A5107924921,A5108076753,100
+2056,d c o’neil,d c o’neil,A5107924921,A5105565261,100
+2057,d c o’neil,d c o’neil,A5107924921,A5105634186,100
+2058,d c o’neil,d c o’neil,A5107924921,A5105641748,100
+2059,d c o’neil,d c o’neil,A5107924921,A5105644356,100
+2060,d c o’neil,d c o’neil,A5107924921,A5107196339,100
+2061,d c o’neil,d c o’neil,A5107924921,A5107396938,100
+2062,d c o’neil,d c o’neil,A5107924921,A5107894810,100
+2063,d c o’neil,d c o’neil,A5107924921,A5107911228,100
+2064,kimberly o’donnell,emeralde o’donnell,A5004670586,A5067539481,78
+2065,numaira obaid,numaira obaid,A5092063569,A5092102003,100
+2066,d c o’neil,d c o’neil,A5107825659,A5107829480,100
+2067,d c o’neil,d c o’neil,A5107825659,A5107745846,100
+2068,d c o’neil,d c o’neil,A5107825659,A5107896797,100
+2069,d c o’neil,d c o’neil,A5107825659,A5108076753,100
+2070,d c o’neil,d c o’neil,A5107825659,A5105565261,100
+2071,d c o’neil,d c o’neil,A5107825659,A5105634186,100
+2072,d c o’neil,d c o’neil,A5107825659,A5105641748,100
+2073,d c o’neil,d c o’neil,A5107825659,A5105644356,100
+2074,d c o’neil,d c o’neil,A5107825659,A5107196339,100
+2075,d c o’neil,d c o’neil,A5107825659,A5107396938,100
+2076,d c o’neil,d c o’neil,A5107825659,A5107894810,100
+2077,d c o’neil,d c o’neil,A5107825659,A5107911228,100
+2078,jf ogilvie,j f ogilvie,A5006142451,A5051792332,95
+2079,d c o’neil,d c o’neil,A5107829480,A5107745846,100
+2080,d c o’neil,d c o’neil,A5107829480,A5107896797,100
+2081,d c o’neil,d c o’neil,A5107829480,A5108076753,100
+2082,d c o’neil,d c o’neil,A5107829480,A5105565261,100
+2083,d c o’neil,d c o’neil,A5107829480,A5105634186,100
+2084,d c o’neil,d c o’neil,A5107829480,A5105641748,100
+2085,d c o’neil,d c o’neil,A5107829480,A5105644356,100
+2086,d c o’neil,d c o’neil,A5107829480,A5107196339,100
+2087,d c o’neil,d c o’neil,A5107829480,A5107396938,100
+2088,d c o’neil,d c o’neil,A5107829480,A5107894810,100
+2089,d c o’neil,d c o’neil,A5107829480,A5107911228,100
+2090,d c o’neil,d c o’neil,A5107745846,A5107896797,100
+2091,d c o’neil,d c o’neil,A5107745846,A5108076753,100
+2092,d c o’neil,d c o’neil,A5107745846,A5105565261,100
+2093,d c o’neil,d c o’neil,A5107745846,A5105634186,100
+2094,d c o’neil,d c o’neil,A5107745846,A5105641748,100
+2095,d c o’neil,d c o’neil,A5107745846,A5105644356,100
+2096,d c o’neil,d c o’neil,A5107745846,A5107196339,100
+2097,d c o’neil,d c o’neil,A5107745846,A5107396938,100
+2098,d c o’neil,d c o’neil,A5107745846,A5107894810,100
+2099,d c o’neil,d c o’neil,A5107745846,A5107911228,100
+2100,d c o’neil,d c o’neil,A5107896797,A5108076753,100
+2101,d c o’neil,d c o’neil,A5107896797,A5105565261,100
+2102,d c o’neil,d c o’neil,A5107896797,A5105634186,100
+2103,d c o’neil,d c o’neil,A5107896797,A5105641748,100
+2104,d c o’neil,d c o’neil,A5107896797,A5105644356,100
+2105,d c o’neil,d c o’neil,A5107896797,A5107196339,100
+2106,d c o’neil,d c o’neil,A5107896797,A5107396938,100
+2107,d c o’neil,d c o’neil,A5107896797,A5107894810,100
+2108,d c o’neil,d c o’neil,A5107896797,A5107911228,100
+2109,d c o’neil,d c o’neil,A5108076753,A5105565261,100
+2110,d c o’neil,d c o’neil,A5108076753,A5105634186,100
+2111,d c o’neil,d c o’neil,A5108076753,A5105641748,100
+2112,d c o’neil,d c o’neil,A5108076753,A5105644356,100
+2113,d c o’neil,d c o’neil,A5108076753,A5107196339,100
+2114,d c o’neil,d c o’neil,A5108076753,A5107396938,100
+2115,d c o’neil,d c o’neil,A5108076753,A5107894810,100
+2116,d c o’neil,d c o’neil,A5108076753,A5107911228,100
+2117,d c o’neil,d c o’neil,A5105565261,A5105634186,100
+2118,d c o’neil,d c o’neil,A5105565261,A5105641748,100
+2119,d c o’neil,d c o’neil,A5105565261,A5105644356,100
+2120,d c o’neil,d c o’neil,A5105565261,A5107196339,100
+2121,d c o’neil,d c o’neil,A5105565261,A5107396938,100
+2122,d c o’neil,d c o’neil,A5105565261,A5107894810,100
+2123,d c o’neil,d c o’neil,A5105565261,A5107911228,100
+2124,d c o’neil,d c o’neil,A5105634186,A5105641748,100
+2125,d c o’neil,d c o’neil,A5105634186,A5105644356,100
+2126,d c o’neil,d c o’neil,A5105634186,A5107196339,100
+2127,d c o’neil,d c o’neil,A5105634186,A5107396938,100
+2128,d c o’neil,d c o’neil,A5105634186,A5107894810,100
+2129,d c o’neil,d c o’neil,A5105634186,A5107911228,100
+2130,d c o’neil,d c o’neil,A5105641748,A5105644356,100
+2131,d c o’neil,d c o’neil,A5105641748,A5107196339,100
+2132,d c o’neil,d c o’neil,A5105641748,A5107396938,100
+2133,d c o’neil,d c o’neil,A5105641748,A5107894810,100
+2134,d c o’neil,d c o’neil,A5105641748,A5107911228,100
+2135,d c o’neil,d c o’neil,A5105644356,A5107196339,100
+2136,d c o’neil,d c o’neil,A5105644356,A5107396938,100
+2137,d c o’neil,d c o’neil,A5105644356,A5107894810,100
+2138,d c o’neil,d c o’neil,A5105644356,A5107911228,100
+2139,d c o’neil,d c o’neil,A5107196339,A5107396938,100
+2140,d c o’neil,d c o’neil,A5107196339,A5107894810,100
+2141,d c o’neil,d c o’neil,A5107196339,A5107911228,100
+2142,d c o’neil,d c o’neil,A5107396938,A5107894810,100
+2143,d c o’neil,d c o’neil,A5107396938,A5107911228,100
+2144,d c o’neil,d c o’neil,A5107894810,A5107911228,100
+2145,david a patterson,raymond a patterson,A5077202069,A5020415508,78
+2146,david a patterson,david a patterson,A5077202069,A5106945064,100
+2147,david a patterson,da patterson,A5077202069,A5110248522,83
+2148,a poley,a poley,A5105504768,A5107858165,100
+2149,a poley,a poley,A5105504768,A5113849228,100
+2150,a poley,a poley,A5105504768,A5107881315,100
+2151,a poley,a poley,A5105504768,A5107878315,100
+2152,a poley,a poley,A5105504768,A5107894245,100
+2153,a poley,a poley,A5105504768,A5107897146,100
+2154,a poley,a poley,A5105504768,A5107887329,100
+2155,a poley,a poley,A5105504768,A5107915340,100
+2156,a poley,a poley,A5105504768,A5107873840,100
+2157,a poley,a poley,A5105504768,A5107919725,100
+2158,a poley,a poley,A5105504768,A5107929794,100
+2159,a poley,a poley,A5105504768,A5107930762,100
+2160,a poley,a poley,A5105504768,A5107952458,100
+2161,a poley,a poley,A5105504768,A5105558228,100
+2162,a poley,a poley,A5105504768,A5105721642,100
+2163,a poley,a poley,A5105504768,A5105843522,100
+2164,a poley,a poley,A5105504768,A5107924940,100
+2165,a poley,a poley,A5105504768,A5105728060,100
+2166,a poley,a poley,A5105504768,A5107915760,100
+2167,patrick palmer,kaitlin palmer,A5090621082,A5007643233,71
+2168,david j price,david price,A5057027392,A5102969601,92
+2169,david j price,david j prime,A5057027392,A5103543042,92
+2170,david j price,david prime,A5057027392,A5009690588,83
+2171,zamir k punja,zk punja,A5075578532,A5029438719,76
+2172,a poley,a poley,A5107858165,A5113849228,100
+2173,a poley,a poley,A5107858165,A5107881315,100
+2174,a poley,a poley,A5107858165,A5107878315,100
+2175,a poley,a poley,A5107858165,A5107894245,100
+2176,a poley,a poley,A5107858165,A5107897146,100
+2177,a poley,a poley,A5107858165,A5107887329,100
+2178,a poley,a poley,A5107858165,A5107915340,100
+2179,a poley,a poley,A5107858165,A5107873840,100
+2180,a poley,a poley,A5107858165,A5107919725,100
+2181,a poley,a poley,A5107858165,A5107929794,100
+2182,a poley,a poley,A5107858165,A5107930762,100
+2183,a poley,a poley,A5107858165,A5107952458,100
+2184,a poley,a poley,A5107858165,A5105558228,100
+2185,a poley,a poley,A5107858165,A5105721642,100
+2186,a poley,a poley,A5107858165,A5105843522,100
+2187,a poley,a poley,A5107858165,A5107924940,100
+2188,a poley,a poley,A5107858165,A5105728060,100
+2189,a poley,a poley,A5107858165,A5107915760,100
+2190,youn‐il park,jihyun park,A5072961887,A5100338417,70
+2191,youn‐il park,jihyun park,A5072961887,A5082963879,70
+2192,a poley,a poley,A5113849228,A5107881315,100
+2193,a poley,a poley,A5113849228,A5107878315,100
+2194,a poley,a poley,A5113849228,A5107894245,100
+2195,a poley,a poley,A5113849228,A5107897146,100
+2196,a poley,a poley,A5113849228,A5107887329,100
+2197,a poley,a poley,A5113849228,A5107915340,100
+2198,a poley,a poley,A5113849228,A5107873840,100
+2199,a poley,a poley,A5113849228,A5107919725,100
+2200,a poley,a poley,A5113849228,A5107929794,100
+2201,a poley,a poley,A5113849228,A5107930762,100
+2202,a poley,a poley,A5113849228,A5107952458,100
+2203,a poley,a poley,A5113849228,A5105558228,100
+2204,a poley,a poley,A5113849228,A5105721642,100
+2205,a poley,a poley,A5113849228,A5105843522,100
+2206,a poley,a poley,A5113849228,A5107924940,100
+2207,a poley,a poley,A5113849228,A5105728060,100
+2208,a poley,a poley,A5113849228,A5107915760,100
+2209,david price,david j prime,A5102969601,A5103543042,83
+2210,david price,david prime,A5102969601,A5009690588,91
+2211,michael plischke,michael h h price,A5029590221,A5081796168,73
+2212,michael plischke,michal pavlik,A5029590221,A5117484595,76
+2213,s panchapakesan,sathish panchapakesan,A5043684828,A5103910853,83
+2214,raymond a patterson,david a patterson,A5020415508,A5106945064,78
+2215,raymond a patterson,da patterson,A5020415508,A5110248522,77
+2216,edward j park,edward park,A5027049699,A5111270872,92
+2217,rick parent,michael parent,A5110663526,A5070692307,72
+2218,michael parent,michael h h price,A5070692307,A5081796168,71
+2219,michael parent,michael pruner,A5070692307,A5083754503,79
+2220,michael parent,michelle phan,A5070692307,A5111121890,74
+2221,jessica e pilarczyk,jessica m parker,A5077248254,A5082733788,74
+2222,a poley,a poley,A5107881315,A5107878315,100
+2223,a poley,a poley,A5107881315,A5107894245,100
+2224,a poley,a poley,A5107881315,A5107897146,100
+2225,a poley,a poley,A5107881315,A5107887329,100
+2226,a poley,a poley,A5107881315,A5107915340,100
+2227,a poley,a poley,A5107881315,A5107873840,100
+2228,a poley,a poley,A5107881315,A5107919725,100
+2229,a poley,a poley,A5107881315,A5107929794,100
+2230,a poley,a poley,A5107881315,A5107930762,100
+2231,a poley,a poley,A5107881315,A5107952458,100
+2232,a poley,a poley,A5107881315,A5105558228,100
+2233,a poley,a poley,A5107881315,A5105721642,100
+2234,a poley,a poley,A5107881315,A5105843522,100
+2235,a poley,a poley,A5107881315,A5107924940,100
+2236,a poley,a poley,A5107881315,A5105728060,100
+2237,a poley,a poley,A5107881315,A5107915760,100
+2238,jihyun park,jihyun park,A5100338417,A5082963879,100
+2239,jihyun park,jim park,A5100338417,A5000636389,74
+2240,joanna peplak,joanna pater,A5038620898,A5021199535,72
+2241,kaitlin palmer,karen s palmer,A5007643233,A5087121014,71
+2242,michael h h price,michael pruner,A5081796168,A5083754503,71
+2243,julianne piper,julianne pickrell-barr,A5039732542,A5098684979,72
+2244,shichong peng,chaopeng peng,A5033008869,A5115067275,77
+2245,david j prime,david prime,A5103543042,A5009690588,92
+2246,david j prime,david pham,A5103543042,A5001385396,70
+2247,david prime,david pham,A5009690588,A5001385396,76
+2248,a poley,a poley,A5107878315,A5107894245,100
+2249,a poley,a poley,A5107878315,A5107897146,100
+2250,a poley,a poley,A5107878315,A5107887329,100
+2251,a poley,a poley,A5107878315,A5107915340,100
+2252,a poley,a poley,A5107878315,A5107873840,100
+2253,a poley,a poley,A5107878315,A5107919725,100
+2254,a poley,a poley,A5107878315,A5107929794,100
+2255,a poley,a poley,A5107878315,A5107930762,100
+2256,a poley,a poley,A5107878315,A5107952458,100
+2257,a poley,a poley,A5107878315,A5105558228,100
+2258,a poley,a poley,A5107878315,A5105721642,100
+2259,a poley,a poley,A5107878315,A5105843522,100
+2260,a poley,a poley,A5107878315,A5107924940,100
+2261,a poley,a poley,A5107878315,A5105728060,100
+2262,a poley,a poley,A5107878315,A5107915760,100
+2263,a poley,a poley,A5107894245,A5107897146,100
+2264,a poley,a poley,A5107894245,A5107887329,100
+2265,a poley,a poley,A5107894245,A5107915340,100
+2266,a poley,a poley,A5107894245,A5107873840,100
+2267,a poley,a poley,A5107894245,A5107919725,100
+2268,a poley,a poley,A5107894245,A5107929794,100
+2269,a poley,a poley,A5107894245,A5107930762,100
+2270,a poley,a poley,A5107894245,A5107952458,100
+2271,a poley,a poley,A5107894245,A5105558228,100
+2272,a poley,a poley,A5107894245,A5105721642,100
+2273,a poley,a poley,A5107894245,A5105843522,100
+2274,a poley,a poley,A5107894245,A5107924940,100
+2275,a poley,a poley,A5107894245,A5105728060,100
+2276,a poley,a poley,A5107894245,A5107915760,100
+2277,a poley,a poley,A5107897146,A5107887329,100
+2278,a poley,a poley,A5107897146,A5107915340,100
+2279,a poley,a poley,A5107897146,A5107873840,100
+2280,a poley,a poley,A5107897146,A5107919725,100
+2281,a poley,a poley,A5107897146,A5107929794,100
+2282,a poley,a poley,A5107897146,A5107930762,100
+2283,a poley,a poley,A5107897146,A5107952458,100
+2284,a poley,a poley,A5107897146,A5105558228,100
+2285,a poley,a poley,A5107897146,A5105721642,100
+2286,a poley,a poley,A5107897146,A5105843522,100
+2287,a poley,a poley,A5107897146,A5107924940,100
+2288,a poley,a poley,A5107897146,A5105728060,100
+2289,a poley,a poley,A5107897146,A5107915760,100
+2290,harsha perera,garcia pereira,A5011976724,A5104778859,74
+2291,a poley,a poley,A5107887329,A5107915340,100
+2292,a poley,a poley,A5107887329,A5107873840,100
+2293,a poley,a poley,A5107887329,A5107919725,100
+2294,a poley,a poley,A5107887329,A5107929794,100
+2295,a poley,a poley,A5107887329,A5107930762,100
+2296,a poley,a poley,A5107887329,A5107952458,100
+2297,a poley,a poley,A5107887329,A5105558228,100
+2298,a poley,a poley,A5107887329,A5105721642,100
+2299,a poley,a poley,A5107887329,A5105843522,100
+2300,a poley,a poley,A5107887329,A5107924940,100
+2301,a poley,a poley,A5107887329,A5105728060,100
+2302,a poley,a poley,A5107887329,A5107915760,100
+2303,a poley,a poley,A5107915340,A5107873840,100
+2304,a poley,a poley,A5107915340,A5107919725,100
+2305,a poley,a poley,A5107915340,A5107929794,100
+2306,a poley,a poley,A5107915340,A5107930762,100
+2307,a poley,a poley,A5107915340,A5107952458,100
+2308,a poley,a poley,A5107915340,A5105558228,100
+2309,a poley,a poley,A5107915340,A5105721642,100
+2310,a poley,a poley,A5107915340,A5105843522,100
+2311,a poley,a poley,A5107915340,A5107924940,100
+2312,a poley,a poley,A5107915340,A5105728060,100
+2313,a poley,a poley,A5107915340,A5107915760,100
+2314,david a patterson,da patterson,A5106945064,A5110248522,83
+2315,a poley,a poley,A5107873840,A5107919725,100
+2316,a poley,a poley,A5107873840,A5107929794,100
+2317,a poley,a poley,A5107873840,A5107930762,100
+2318,a poley,a poley,A5107873840,A5107952458,100
+2319,a poley,a poley,A5107873840,A5105558228,100
+2320,a poley,a poley,A5107873840,A5105721642,100
+2321,a poley,a poley,A5107873840,A5105843522,100
+2322,a poley,a poley,A5107873840,A5107924940,100
+2323,a poley,a poley,A5107873840,A5105728060,100
+2324,a poley,a poley,A5107873840,A5107915760,100
+2325,makaela prentice,mn prentice,A5109611455,A5114055326,74
+2326,makaela prentice,m prentice,A5109611455,A5112929889,77
+2327,makaela prentice,makaela prentice,A5109611455,A5112929892,100
+2328,makaela prentice,makaela prentice,A5109611455,A5092090985,100
+2329,makaela prentice,makaela prentice,A5109611455,A5092090987,100
+2330,makaela prentice,makaela prentice,A5109611455,A5092091005,100
+2331,makaela prentice,makaela prentice,A5109611455,A5092091013,100
+2332,makaela prentice,makaela prentice,A5109611455,A5092091032,100
+2333,makaela prentice,makaela prentice,A5109611455,A5092091051,100
+2334,makaela prentice,makaela prentice,A5109611455,A5109611458,100
+2335,mn prentice,m prentice,A5114055326,A5112929889,95
+2336,mn prentice,makaela prentice,A5114055326,A5112929892,74
+2337,mn prentice,makaela prentice,A5114055326,A5092090985,74
+2338,mn prentice,makaela prentice,A5114055326,A5092090987,74
+2339,mn prentice,makaela prentice,A5114055326,A5092091005,74
+2340,mn prentice,makaela prentice,A5114055326,A5092091013,74
+2341,mn prentice,makaela prentice,A5114055326,A5092091032,74
+2342,mn prentice,makaela prentice,A5114055326,A5092091051,74
+2343,mn prentice,makaela prentice,A5114055326,A5109611458,74
+2344,alexi l pauls,alisa paul,A5010410589,A5112952436,70
+2345,weikun peng,zhiyun peng,A5082984331,A5064518250,73
+2346,a poley,a poley,A5107919725,A5107929794,100
+2347,a poley,a poley,A5107919725,A5107930762,100
+2348,a poley,a poley,A5107919725,A5107952458,100
+2349,a poley,a poley,A5107919725,A5105558228,100
+2350,a poley,a poley,A5107919725,A5105721642,100
+2351,a poley,a poley,A5107919725,A5105843522,100
+2352,a poley,a poley,A5107919725,A5107924940,100
+2353,a poley,a poley,A5107919725,A5105728060,100
+2354,a poley,a poley,A5107919725,A5107915760,100
+2355,a poley,a poley,A5107929794,A5107930762,100
+2356,a poley,a poley,A5107929794,A5107952458,100
+2357,a poley,a poley,A5107929794,A5105558228,100
+2358,a poley,a poley,A5107929794,A5105721642,100
+2359,a poley,a poley,A5107929794,A5105843522,100
+2360,a poley,a poley,A5107929794,A5107924940,100
+2361,a poley,a poley,A5107929794,A5105728060,100
+2362,a poley,a poley,A5107929794,A5107915760,100
+2363,a poley,a poley,A5107930762,A5107952458,100
+2364,a poley,a poley,A5107930762,A5105558228,100
+2365,a poley,a poley,A5107930762,A5105721642,100
+2366,a poley,a poley,A5107930762,A5105843522,100
+2367,a poley,a poley,A5107930762,A5107924940,100
+2368,a poley,a poley,A5107930762,A5105728060,100
+2369,a poley,a poley,A5107930762,A5107915760,100
+2370,m prentice,makaela prentice,A5112929889,A5112929892,77
+2371,m prentice,makaela prentice,A5112929889,A5092090985,77
+2372,m prentice,makaela prentice,A5112929889,A5092090987,77
+2373,m prentice,makaela prentice,A5112929889,A5092091005,77
+2374,m prentice,makaela prentice,A5112929889,A5092091013,77
+2375,m prentice,makaela prentice,A5112929889,A5092091032,77
+2376,m prentice,makaela prentice,A5112929889,A5092091051,77
+2377,m prentice,makaela prentice,A5112929889,A5109611458,77
+2378,a poley,a poley,A5107952458,A5105558228,100
+2379,a poley,a poley,A5107952458,A5105721642,100
+2380,a poley,a poley,A5107952458,A5105843522,100
+2381,a poley,a poley,A5107952458,A5107924940,100
+2382,a poley,a poley,A5107952458,A5105728060,100
+2383,a poley,a poley,A5107952458,A5107915760,100
+2384,david pham,davi pang,A5001385396,A5048393016,74
+2385,leilani pai,leyland pitt,A5078913141,A5110541560,70
+2386,jihyun park,jim park,A5082963879,A5000636389,74
+2387,a poley,a poley,A5105558228,A5105721642,100
+2388,a poley,a poley,A5105558228,A5105843522,100
+2389,a poley,a poley,A5105558228,A5107924940,100
+2390,a poley,a poley,A5105558228,A5105728060,100
+2391,a poley,a poley,A5105558228,A5107915760,100
+2392,a poley,a poley,A5105721642,A5105843522,100
+2393,a poley,a poley,A5105721642,A5107924940,100
+2394,a poley,a poley,A5105721642,A5105728060,100
+2395,a poley,a poley,A5105721642,A5107915760,100
+2396,a poley,a poley,A5105843522,A5107924940,100
+2397,a poley,a poley,A5105843522,A5105728060,100
+2398,a poley,a poley,A5105843522,A5107915760,100
+2399,a poley,a poley,A5107924940,A5105728060,100
+2400,a poley,a poley,A5107924940,A5107915760,100
+2401,makaela prentice,makaela prentice,A5112929892,A5092090985,100
+2402,makaela prentice,makaela prentice,A5112929892,A5092090987,100
+2403,makaela prentice,makaela prentice,A5112929892,A5092091005,100
+2404,makaela prentice,makaela prentice,A5112929892,A5092091013,100
+2405,makaela prentice,makaela prentice,A5112929892,A5092091032,100
+2406,makaela prentice,makaela prentice,A5112929892,A5092091051,100
+2407,makaela prentice,makaela prentice,A5112929892,A5109611458,100
+2408,makaela prentice,makaela prentice,A5092090985,A5092090987,100
+2409,makaela prentice,makaela prentice,A5092090985,A5092091005,100
+2410,makaela prentice,makaela prentice,A5092090985,A5092091013,100
+2411,makaela prentice,makaela prentice,A5092090985,A5092091032,100
+2412,makaela prentice,makaela prentice,A5092090985,A5092091051,100
+2413,makaela prentice,makaela prentice,A5092090985,A5109611458,100
+2414,makaela prentice,makaela prentice,A5092090987,A5092091005,100
+2415,makaela prentice,makaela prentice,A5092090987,A5092091013,100
+2416,makaela prentice,makaela prentice,A5092090987,A5092091032,100
+2417,makaela prentice,makaela prentice,A5092090987,A5092091051,100
+2418,makaela prentice,makaela prentice,A5092090987,A5109611458,100
+2419,makaela prentice,makaela prentice,A5092091005,A5092091013,100
+2420,makaela prentice,makaela prentice,A5092091005,A5092091032,100
+2421,makaela prentice,makaela prentice,A5092091005,A5092091051,100
+2422,makaela prentice,makaela prentice,A5092091005,A5109611458,100
+2423,makaela prentice,makaela prentice,A5092091013,A5092091032,100
+2424,makaela prentice,makaela prentice,A5092091013,A5092091051,100
+2425,makaela prentice,makaela prentice,A5092091013,A5109611458,100
+2426,makaela prentice,makaela prentice,A5092091032,A5092091051,100
+2427,makaela prentice,makaela prentice,A5092091032,A5109611458,100
+2428,makaela prentice,makaela prentice,A5092091051,A5109611458,100
+2429,a poley,a poley,A5105728060,A5107915760,100
+2430,shaobo qiu,changbo qu,A5045175557,A5014087578,70
+2431,michael p richards,michael richards,A5005684483,A5019215400,94
+2432,bernhard e riecke,bernhard rieke,A5016706227,A5108830512,90
+2433,stephen n robinovitch,stephen n robinovich,A5017663407,A5007182790,98
+2434,stephen n robinovitch,s robinovitch,A5017663407,A5053472736,76
+2435,stephen n robinovitch,stephen n robinovich,A5017663407,A5113958110,98
+2436,arthur j robson,sarah j robinson,A5032114320,A5034966587,77
+2437,steven reynolds,steve reynolds,A5009546214,A5109852452,97
+2438,steven reynolds,s reynolds,A5009546214,A5060207717,80
+2439,bernhard rabus,bernhard rieke,A5077333590,A5108830512,71
+2440,sarah robinson,kendra a robinson,A5086557273,A5005827194,71
+2441,sarah robinson,sarah j robinson,A5086557273,A5034966587,93
+2442,sarah robinson,sharon robins,A5086557273,A5028019048,74
+2443,richard routledge,rick routledge,A5027424447,A5110179990,84
+2444,richard routledge,richard rosenthal,A5027424447,A5086599116,71
+2445,kate revill,katherine reilly,A5013572402,A5054536503,74
+2446,kate revill,katherine reilly,A5013572402,A5111286552,74
+2447,katherine reilly,katherine rossiter,A5054536503,A5063987753,71
+2448,katherine reilly,katherine robinson,A5054536503,A5031512260,71
+2449,katherine reilly,katherine reilly,A5054536503,A5111286552,100
+2450,steve reynolds,s reynolds,A5109852452,A5060207717,83
+2451,eline a de rooij,eline de rooij,A5021349143,A5053298356,93
+2452,stephanie l rayner,stephanie l renkers,A5028857421,A5106797872,86
+2453,leanne m ramer,elisa m ramser,A5108235378,A5040923871,71
+2454,deanna reder,danica reid,A5077934746,A5029099898,70
+2455,yaser m roshan,saboora m roshan,A5075963747,A5112723317,73
+2456,antonia rodrigues,emma a rodrigues,A5078751165,A5082166231,73
+2457,indira riadi,nader riahi,A5041511169,A5083764811,70
+2458,indira riadi,i riadi,A5041511169,A5063128561,74
+2459,saleh riahi,fatemeh riahi,A5010299595,A5052195170,75
+2460,saleh riahi,samer rihani,A5010299595,A5066121462,70
+2461,saleh riahi,nader riahi,A5010299595,A5083764811,73
+2462,chase l radford,chase radford,A5007555900,A5035799498,93
+2463,ramani ramaseshan,ramani remaseshan,A5103840556,A5092835365,94
+2464,katherine rossiter,katherine robinson,A5063987753,A5031512260,72
+2465,katherine rossiter,katherine reilly,A5063987753,A5111286552,71
+2466,kendra a robinson,sarah j robinson,A5005827194,A5034966587,73
+2467,emitis roshan,emitis roshan,A5040475878,A5094165307,100
+2468,lauren faulkner rossi,lauren n faulkner rossi,A5023044639,A5072640534,95
+2469,richard rosenthal,chelsea rosenthal,A5086599116,A5059802709,76
+2470,steven p rossi,sp rossi,A5028268794,A5107070954,73
+2471,patrick morgan ritchie,patrick m ritchie,A5040169002,A5086371059,87
+2472,katherine robinson,katherine reilly,A5031512260,A5111286552,71
+2473,pulindu ratnasekera,p ratnasekera,A5046908479,A5051949366,81
+2474,samer rihani,nader riahi,A5066121462,A5083764811,70
+2475,leanne rokos,leanne roderick,A5114540888,A5078451566,74
+2476,aina roenningen,aina roenningen,A5106583572,A5116395365,100
+2477,mohammad zaki rezwan,mohammad h rezaie,A5058753827,A5111449300,76
+2478,javairia rahim,javaria f rahim,A5006521692,A5055183771,90
+2479,stephen n robinovich,s robinovitch,A5007182790,A5053472736,73
+2480,stephen n robinovich,stephen n robinovich,A5007182790,A5113958110,100
+2481,s robinovitch,stephen n robinovich,A5053472736,A5113958110,73
+2482,g rossi,sp rossi,A5054516428,A5107070954,80
+2483,andrea c roman-torres,camila a roman-torres,A5093131536,A5119241352,76
+2484,b stelzer,b stelzer,A5007584535,A5107839211,100
+2485,b stelzer,b stelzer,A5007584535,A5108229949,100
+2486,b stelzer,b stelzer,A5007584535,A5106470390,100
+2487,b stelzer,b stelzer,A5007584535,A5107832037,100
+2488,b stelzer,b stelzer,A5007584535,A5107852937,100
+2489,b stelzer,b stelzer,A5007584535,A5107885325,100
+2490,b stelzer,b stelzer,A5007584535,A5109220342,100
+2491,b stelzer,b stelzer,A5007584535,A5105630097,100
+2492,b stelzer,b stelzer,A5007584535,A5107852526,100
+2493,b stelzer,b stelzer,A5007584535,A5107926920,100
+2494,b stelzer,b stelzer,A5007584535,A5105936614,100
+2495,b stelzer,b stelzer,A5007584535,A5107903224,100
+2496,b stelzer,b stelzer,A5007584535,A5107911566,100
+2497,b stelzer,b stelzer,A5007584535,A5105285075,100
+2498,b stelzer,b stelzer,A5007584535,A5107894826,100
+2499,b stelzer,b stelzer,A5007584535,A5107843826,100
+2500,b stelzer,b stelzer,A5007584535,A5107907943,100
+2501,b stelzer,b stelzer,A5007584535,A5107921576,100
+2502,b stelzer,b stelzer,A5007584535,A5107749653,100
+2503,b stelzer,b stelzer,A5007584535,A5107912593,100
+2504,b stelzer,b stelzer,A5007584535,A5107914867,100
+2505,b stelzer,b stelzer,A5007584535,A5105178043,100
+2506,b stelzer,b stelzer,A5007584535,A5105684434,100
+2507,b stelzer,b stelzer,A5007584535,A5105639927,100
+2508,b stelzer,b stelzer,A5007584535,A5105871878,100
+2509,b stelzer,b stelzer,A5007584535,A5107913522,100
+2510,b stelzer,b stelzer,A5007584535,A5107923111,100
+2511,b stelzer,b stelzer,A5007584535,A5105576682,100
+2512,b stelzer,b stelzer,A5007584535,A5105630759,100
+2513,b stelzer,b stelzer,A5007584535,A5107367903,100
+2514,z john shen,john shen,A5013766145,A5063633720,90
+2515,paul schaffer,paul schaffer,A5040691647,A5112875763,100
+2516,andrew sixsmith,andrea n smit,A5062744892,A5044014150,71
+2517,andrew sixsmith,a sixsmith,A5062744892,A5061578981,80
+2518,andrew sixsmith,andrew j sixsmith,A5062744892,A5109634693,94
+2519,andrew sixsmith,andrew sixsmith,A5062744892,A5116298683,100
+2520,wolfgang stuerzlinger,wolfgang stürzlinger,A5085460170,A5106113183,93
+2521,b stelzer,b stelzer,A5107839211,A5108229949,100
+2522,b stelzer,b stelzer,A5107839211,A5106470390,100
+2523,b stelzer,b stelzer,A5107839211,A5107832037,100
+2524,b stelzer,b stelzer,A5107839211,A5107852937,100
+2525,b stelzer,b stelzer,A5107839211,A5107885325,100
+2526,b stelzer,b stelzer,A5107839211,A5109220342,100
+2527,b stelzer,b stelzer,A5107839211,A5105630097,100
+2528,b stelzer,b stelzer,A5107839211,A5107852526,100
+2529,b stelzer,b stelzer,A5107839211,A5107926920,100
+2530,b stelzer,b stelzer,A5107839211,A5105936614,100
+2531,b stelzer,b stelzer,A5107839211,A5107903224,100
+2532,b stelzer,b stelzer,A5107839211,A5107911566,100
+2533,b stelzer,b stelzer,A5107839211,A5105285075,100
+2534,b stelzer,b stelzer,A5107839211,A5107894826,100
+2535,b stelzer,b stelzer,A5107839211,A5107843826,100
+2536,b stelzer,b stelzer,A5107839211,A5107907943,100
+2537,b stelzer,b stelzer,A5107839211,A5107921576,100
+2538,b stelzer,b stelzer,A5107839211,A5107749653,100
+2539,b stelzer,b stelzer,A5107839211,A5107912593,100
+2540,b stelzer,b stelzer,A5107839211,A5107914867,100
+2541,b stelzer,b stelzer,A5107839211,A5105178043,100
+2542,b stelzer,b stelzer,A5107839211,A5105684434,100
+2543,b stelzer,b stelzer,A5107839211,A5105639927,100
+2544,b stelzer,b stelzer,A5107839211,A5105871878,100
+2545,b stelzer,b stelzer,A5107839211,A5107913522,100
+2546,b stelzer,b stelzer,A5107839211,A5107923111,100
+2547,b stelzer,b stelzer,A5107839211,A5105576682,100
+2548,b stelzer,b stelzer,A5107839211,A5105630759,100
+2549,b stelzer,b stelzer,A5107839211,A5107367903,100
+2550,xiaowei song,jialin song,A5036261443,A5003382415,70
+2551,nadine schuurman,nadine schuurmann,A5071764220,A5014876465,97
+2552,doug stead,d stead,A5004942062,A5110425840,82
+2553,doug stead,d stead,A5004942062,A5074257141,82
+2554,d j sheppard,d j sheppard,A5105726988,A5107946472,100
+2555,d j sheppard,d j sheppard,A5105726988,A5105871868,100
+2556,d j sheppard,d j sheppard,A5105726988,A5105728257,100
+2557,xiangyu sun,xiaoting sun,A5060002954,A5076953547,78
+2558,xiangyu sun,bingyun sun,A5060002954,A5030344959,82
+2559,xiangyu sun,dingyi sun,A5060002954,A5102751737,76
+2560,sergio a sepúlveda,g sepúlveda,A5036506208,A5003757835,76
+2561,b stelzer,b stelzer,A5108229949,A5106470390,100
+2562,b stelzer,b stelzer,A5108229949,A5107832037,100
+2563,b stelzer,b stelzer,A5108229949,A5107852937,100
+2564,b stelzer,b stelzer,A5108229949,A5107885325,100
+2565,b stelzer,b stelzer,A5108229949,A5109220342,100
+2566,b stelzer,b stelzer,A5108229949,A5105630097,100
+2567,b stelzer,b stelzer,A5108229949,A5107852526,100
+2568,b stelzer,b stelzer,A5108229949,A5107926920,100
+2569,b stelzer,b stelzer,A5108229949,A5105936614,100
+2570,b stelzer,b stelzer,A5108229949,A5107903224,100
+2571,b stelzer,b stelzer,A5108229949,A5107911566,100
+2572,b stelzer,b stelzer,A5108229949,A5105285075,100
+2573,b stelzer,b stelzer,A5108229949,A5107894826,100
+2574,b stelzer,b stelzer,A5108229949,A5107843826,100
+2575,b stelzer,b stelzer,A5108229949,A5107907943,100
+2576,b stelzer,b stelzer,A5108229949,A5107921576,100
+2577,b stelzer,b stelzer,A5108229949,A5107749653,100
+2578,b stelzer,b stelzer,A5108229949,A5107912593,100
+2579,b stelzer,b stelzer,A5108229949,A5107914867,100
+2580,b stelzer,b stelzer,A5108229949,A5105178043,100
+2581,b stelzer,b stelzer,A5108229949,A5105684434,100
+2582,b stelzer,b stelzer,A5108229949,A5105639927,100
+2583,b stelzer,b stelzer,A5108229949,A5105871878,100
+2584,b stelzer,b stelzer,A5108229949,A5107913522,100
+2585,b stelzer,b stelzer,A5108229949,A5107923111,100
+2586,b stelzer,b stelzer,A5108229949,A5105576682,100
+2587,b stelzer,b stelzer,A5108229949,A5105630759,100
+2588,b stelzer,b stelzer,A5108229949,A5107367903,100
+2589,travis salway,travis salway,A5023568906,A5113269439,100
+2590,hasina samji,hasina shamji,A5032853894,A5003602094,96
+2591,hasina samji,hamida safi,A5032853894,A5078761388,70
+2592,j e sonier,j e sonier,A5087975826,A5053445753,100
+2593,b stelzer,b stelzer,A5106470390,A5107832037,100
+2594,b stelzer,b stelzer,A5106470390,A5107852937,100
+2595,b stelzer,b stelzer,A5106470390,A5107885325,100
+2596,b stelzer,b stelzer,A5106470390,A5109220342,100
+2597,b stelzer,b stelzer,A5106470390,A5105630097,100
+2598,b stelzer,b stelzer,A5106470390,A5107852526,100
+2599,b stelzer,b stelzer,A5106470390,A5107926920,100
+2600,b stelzer,b stelzer,A5106470390,A5105936614,100
+2601,b stelzer,b stelzer,A5106470390,A5107903224,100
+2602,b stelzer,b stelzer,A5106470390,A5107911566,100
+2603,b stelzer,b stelzer,A5106470390,A5105285075,100
+2604,b stelzer,b stelzer,A5106470390,A5107894826,100
+2605,b stelzer,b stelzer,A5106470390,A5107843826,100
+2606,b stelzer,b stelzer,A5106470390,A5107907943,100
+2607,b stelzer,b stelzer,A5106470390,A5107921576,100
+2608,b stelzer,b stelzer,A5106470390,A5107749653,100
+2609,b stelzer,b stelzer,A5106470390,A5107912593,100
+2610,b stelzer,b stelzer,A5106470390,A5107914867,100
+2611,b stelzer,b stelzer,A5106470390,A5105178043,100
+2612,b stelzer,b stelzer,A5106470390,A5105684434,100
+2613,b stelzer,b stelzer,A5106470390,A5105639927,100
+2614,b stelzer,b stelzer,A5106470390,A5105871878,100
+2615,b stelzer,b stelzer,A5106470390,A5107913522,100
+2616,b stelzer,b stelzer,A5106470390,A5107923111,100
+2617,b stelzer,b stelzer,A5106470390,A5105576682,100
+2618,b stelzer,b stelzer,A5106470390,A5105630759,100
+2619,b stelzer,b stelzer,A5106470390,A5107367903,100
+2620,julia smith,julia smith,A5091893691,A5103820823,100
+2621,julia smith,erica smith,A5091893691,A5103590183,73
+2622,b stelzer,b stelzer,A5107832037,A5107852937,100
+2623,b stelzer,b stelzer,A5107832037,A5107885325,100
+2624,b stelzer,b stelzer,A5107832037,A5109220342,100
+2625,b stelzer,b stelzer,A5107832037,A5105630097,100
+2626,b stelzer,b stelzer,A5107832037,A5107852526,100
+2627,b stelzer,b stelzer,A5107832037,A5107926920,100
+2628,b stelzer,b stelzer,A5107832037,A5105936614,100
+2629,b stelzer,b stelzer,A5107832037,A5107903224,100
+2630,b stelzer,b stelzer,A5107832037,A5107911566,100
+2631,b stelzer,b stelzer,A5107832037,A5105285075,100
+2632,b stelzer,b stelzer,A5107832037,A5107894826,100
+2633,b stelzer,b stelzer,A5107832037,A5107843826,100
+2634,b stelzer,b stelzer,A5107832037,A5107907943,100
+2635,b stelzer,b stelzer,A5107832037,A5107921576,100
+2636,b stelzer,b stelzer,A5107832037,A5107749653,100
+2637,b stelzer,b stelzer,A5107832037,A5107912593,100
+2638,b stelzer,b stelzer,A5107832037,A5107914867,100
+2639,b stelzer,b stelzer,A5107832037,A5105178043,100
+2640,b stelzer,b stelzer,A5107832037,A5105684434,100
+2641,b stelzer,b stelzer,A5107832037,A5105639927,100
+2642,b stelzer,b stelzer,A5107832037,A5105871878,100
+2643,b stelzer,b stelzer,A5107832037,A5107913522,100
+2644,b stelzer,b stelzer,A5107832037,A5107923111,100
+2645,b stelzer,b stelzer,A5107832037,A5105576682,100
+2646,b stelzer,b stelzer,A5107832037,A5105630759,100
+2647,b stelzer,b stelzer,A5107832037,A5107367903,100
+2648,anne k salomon,anne k salomon,A5038244437,A5112924906,100
+2649,s sonea,ana sonea,A5064139665,A5032471432,75
+2650,bp singh,s singh,A5103582429,A5108064129,80
+2651,thomas m spalek,thomas j g skalski,A5081614066,A5009965817,73
+2652,john m stockie,john m stockie,A5010820555,A5114564447,100
+2653,jason r smith,ryan j smith,A5061800498,A5102649064,72
+2654,heather stewart,matthew c stewart,A5062879863,A5080991728,75
+2655,sarah spencer,charmaine spencer,A5016055451,A5057119454,73
+2656,sarah spencer,sarah spencer,A5016055451,A5113285717,100
+2657,kate salters,kate salters,A5080431297,A5086737870,100
+2658,kate salters,k a salters,A5080431297,A5109249088,87
+2659,charles scott,nicholas scott,A5039664215,A5021549017,74
+2660,aniqa shahid,anand shah,A5057060792,A5108225499,73
+2661,aniqa shahid,abid shahid,A5057060792,A5102484347,78
+2662,xiaoting sun,xiaoyang shan,A5076953547,A5023601874,72
+2663,bingyun sun,dingyi sun,A5030344959,A5102751737,76
+2664,d stead,d stead,A5110425840,A5074257141,100
+2665,haolun shi,haolun shi,A5066373758,A5111122392,100
+2666,jialin song,ian y song,A5003382415,A5109703294,76
+2667,kate salters,k a salters,A5086737870,A5109249088,87
+2668,michèle schmidt,michelle schmidt,A5091617213,A5039633290,90
+2669,b stelzer,b stelzer,A5107852937,A5107885325,100
+2670,b stelzer,b stelzer,A5107852937,A5109220342,100
+2671,b stelzer,b stelzer,A5107852937,A5105630097,100
+2672,b stelzer,b stelzer,A5107852937,A5107852526,100
+2673,b stelzer,b stelzer,A5107852937,A5107926920,100
+2674,b stelzer,b stelzer,A5107852937,A5105936614,100
+2675,b stelzer,b stelzer,A5107852937,A5107903224,100
+2676,b stelzer,b stelzer,A5107852937,A5107911566,100
+2677,b stelzer,b stelzer,A5107852937,A5105285075,100
+2678,b stelzer,b stelzer,A5107852937,A5107894826,100
+2679,b stelzer,b stelzer,A5107852937,A5107843826,100
+2680,b stelzer,b stelzer,A5107852937,A5107907943,100
+2681,b stelzer,b stelzer,A5107852937,A5107921576,100
+2682,b stelzer,b stelzer,A5107852937,A5107749653,100
+2683,b stelzer,b stelzer,A5107852937,A5107912593,100
+2684,b stelzer,b stelzer,A5107852937,A5107914867,100
+2685,b stelzer,b stelzer,A5107852937,A5105178043,100
+2686,b stelzer,b stelzer,A5107852937,A5105684434,100
+2687,b stelzer,b stelzer,A5107852937,A5105639927,100
+2688,b stelzer,b stelzer,A5107852937,A5105871878,100
+2689,b stelzer,b stelzer,A5107852937,A5107913522,100
+2690,b stelzer,b stelzer,A5107852937,A5107923111,100
+2691,b stelzer,b stelzer,A5107852937,A5105576682,100
+2692,b stelzer,b stelzer,A5107852937,A5105630759,100
+2693,b stelzer,b stelzer,A5107852937,A5107367903,100
+2694,s singh,kyle singh,A5108064129,A5007982022,71
+2695,crystal smith,ryan j smith,A5090009201,A5102649064,72
+2696,b stelzer,b stelzer,A5107885325,A5109220342,100
+2697,b stelzer,b stelzer,A5107885325,A5105630097,100
+2698,b stelzer,b stelzer,A5107885325,A5107852526,100
+2699,b stelzer,b stelzer,A5107885325,A5107926920,100
+2700,b stelzer,b stelzer,A5107885325,A5105936614,100
+2701,b stelzer,b stelzer,A5107885325,A5107903224,100
+2702,b stelzer,b stelzer,A5107885325,A5107911566,100
+2703,b stelzer,b stelzer,A5107885325,A5105285075,100
+2704,b stelzer,b stelzer,A5107885325,A5107894826,100
+2705,b stelzer,b stelzer,A5107885325,A5107843826,100
+2706,b stelzer,b stelzer,A5107885325,A5107907943,100
+2707,b stelzer,b stelzer,A5107885325,A5107921576,100
+2708,b stelzer,b stelzer,A5107885325,A5107749653,100
+2709,b stelzer,b stelzer,A5107885325,A5107912593,100
+2710,b stelzer,b stelzer,A5107885325,A5107914867,100
+2711,b stelzer,b stelzer,A5107885325,A5105178043,100
+2712,b stelzer,b stelzer,A5107885325,A5105684434,100
+2713,b stelzer,b stelzer,A5107885325,A5105639927,100
+2714,b stelzer,b stelzer,A5107885325,A5105871878,100
+2715,b stelzer,b stelzer,A5107885325,A5107913522,100
+2716,b stelzer,b stelzer,A5107885325,A5107923111,100
+2717,b stelzer,b stelzer,A5107885325,A5105576682,100
+2718,b stelzer,b stelzer,A5107885325,A5105630759,100
+2719,b stelzer,b stelzer,A5107885325,A5107367903,100
+2720,yanxin shen,jianxin shi,A5104288600,A5008846211,73
+2721,nicholas scott,nicholas w see,A5021549017,A5118813396,71
+2722,catherine s shaffer,catherine h shin,A5059104318,A5083579536,74
+2723,debbie sheehan,mia sheehan,A5109036918,A5104189747,72
+2724,debbie sheehan,debbie sheenan,A5109036918,A5055687264,93
+2725,david sun,david swanlund,A5112389755,A5074444977,78
+2726,david sun,david l shen,A5112389755,A5040209382,76
+2727,david sun,david sun,A5112389755,A5040538968,100
+2728,jeffrey a van santen,jeffrey van santen,A5071037562,A5058603439,95
+2729,jeffrey a van santen,jeffrey a van santen,A5071037562,A5106945613,100
+2730,nafiseh sedaghat,ali sedaghati,A5021888945,A5008114266,76
+2731,nilesh saraf,nilesh saraf,A5109031966,A5103100176,100
+2732,b stelzer,b stelzer,A5109220342,A5105630097,100
+2733,b stelzer,b stelzer,A5109220342,A5107852526,100
+2734,b stelzer,b stelzer,A5109220342,A5107926920,100
+2735,b stelzer,b stelzer,A5109220342,A5105936614,100
+2736,b stelzer,b stelzer,A5109220342,A5107903224,100
+2737,b stelzer,b stelzer,A5109220342,A5107911566,100
+2738,b stelzer,b stelzer,A5109220342,A5105285075,100
+2739,b stelzer,b stelzer,A5109220342,A5107894826,100
+2740,b stelzer,b stelzer,A5109220342,A5107843826,100
+2741,b stelzer,b stelzer,A5109220342,A5107907943,100
+2742,b stelzer,b stelzer,A5109220342,A5107921576,100
+2743,b stelzer,b stelzer,A5109220342,A5107749653,100
+2744,b stelzer,b stelzer,A5109220342,A5107912593,100
+2745,b stelzer,b stelzer,A5109220342,A5107914867,100
+2746,b stelzer,b stelzer,A5109220342,A5105178043,100
+2747,b stelzer,b stelzer,A5109220342,A5105684434,100
+2748,b stelzer,b stelzer,A5109220342,A5105639927,100
+2749,b stelzer,b stelzer,A5109220342,A5105871878,100
+2750,b stelzer,b stelzer,A5109220342,A5107913522,100
+2751,b stelzer,b stelzer,A5109220342,A5107923111,100
+2752,b stelzer,b stelzer,A5109220342,A5105576682,100
+2753,b stelzer,b stelzer,A5109220342,A5105630759,100
+2754,b stelzer,b stelzer,A5109220342,A5107367903,100
+2755,b stelzer,b stelzer,A5105630097,A5107852526,100
+2756,b stelzer,b stelzer,A5105630097,A5107926920,100
+2757,b stelzer,b stelzer,A5105630097,A5105936614,100
+2758,b stelzer,b stelzer,A5105630097,A5107903224,100
+2759,b stelzer,b stelzer,A5105630097,A5107911566,100
+2760,b stelzer,b stelzer,A5105630097,A5105285075,100
+2761,b stelzer,b stelzer,A5105630097,A5107894826,100
+2762,b stelzer,b stelzer,A5105630097,A5107843826,100
+2763,b stelzer,b stelzer,A5105630097,A5107907943,100
+2764,b stelzer,b stelzer,A5105630097,A5107921576,100
+2765,b stelzer,b stelzer,A5105630097,A5107749653,100
+2766,b stelzer,b stelzer,A5105630097,A5107912593,100
+2767,b stelzer,b stelzer,A5105630097,A5107914867,100
+2768,b stelzer,b stelzer,A5105630097,A5105178043,100
+2769,b stelzer,b stelzer,A5105630097,A5105684434,100
+2770,b stelzer,b stelzer,A5105630097,A5105639927,100
+2771,b stelzer,b stelzer,A5105630097,A5105871878,100
+2772,b stelzer,b stelzer,A5105630097,A5107913522,100
+2773,b stelzer,b stelzer,A5105630097,A5107923111,100
+2774,b stelzer,b stelzer,A5105630097,A5105576682,100
+2775,b stelzer,b stelzer,A5105630097,A5105630759,100
+2776,b stelzer,b stelzer,A5105630097,A5107367903,100
+2777,b stelzer,b stelzer,A5107852526,A5107926920,100
+2778,b stelzer,b stelzer,A5107852526,A5105936614,100
+2779,b stelzer,b stelzer,A5107852526,A5107903224,100
+2780,b stelzer,b stelzer,A5107852526,A5107911566,100
+2781,b stelzer,b stelzer,A5107852526,A5105285075,100
+2782,b stelzer,b stelzer,A5107852526,A5107894826,100
+2783,b stelzer,b stelzer,A5107852526,A5107843826,100
+2784,b stelzer,b stelzer,A5107852526,A5107907943,100
+2785,b stelzer,b stelzer,A5107852526,A5107921576,100
+2786,b stelzer,b stelzer,A5107852526,A5107749653,100
+2787,b stelzer,b stelzer,A5107852526,A5107912593,100
+2788,b stelzer,b stelzer,A5107852526,A5107914867,100
+2789,b stelzer,b stelzer,A5107852526,A5105178043,100
+2790,b stelzer,b stelzer,A5107852526,A5105684434,100
+2791,b stelzer,b stelzer,A5107852526,A5105639927,100
+2792,b stelzer,b stelzer,A5107852526,A5105871878,100
+2793,b stelzer,b stelzer,A5107852526,A5107913522,100
+2794,b stelzer,b stelzer,A5107852526,A5107923111,100
+2795,b stelzer,b stelzer,A5107852526,A5105576682,100
+2796,b stelzer,b stelzer,A5107852526,A5105630759,100
+2797,b stelzer,b stelzer,A5107852526,A5107367903,100
+2798,charmaine spencer,sarah spencer,A5057119454,A5113285717,73
+2799,jennifer scott,jesse scott,A5103337246,A5051895924,72
+2800,jennifer scott,jennifer shim,A5103337246,A5110681242,74
+2801,b stelzer,b stelzer,A5107926920,A5105936614,100
+2802,b stelzer,b stelzer,A5107926920,A5107903224,100
+2803,b stelzer,b stelzer,A5107926920,A5107911566,100
+2804,b stelzer,b stelzer,A5107926920,A5105285075,100
+2805,b stelzer,b stelzer,A5107926920,A5107894826,100
+2806,b stelzer,b stelzer,A5107926920,A5107843826,100
+2807,b stelzer,b stelzer,A5107926920,A5107907943,100
+2808,b stelzer,b stelzer,A5107926920,A5107921576,100
+2809,b stelzer,b stelzer,A5107926920,A5107749653,100
+2810,b stelzer,b stelzer,A5107926920,A5107912593,100
+2811,b stelzer,b stelzer,A5107926920,A5107914867,100
+2812,b stelzer,b stelzer,A5107926920,A5105178043,100
+2813,b stelzer,b stelzer,A5107926920,A5105684434,100
+2814,b stelzer,b stelzer,A5107926920,A5105639927,100
+2815,b stelzer,b stelzer,A5107926920,A5105871878,100
+2816,b stelzer,b stelzer,A5107926920,A5107913522,100
+2817,b stelzer,b stelzer,A5107926920,A5107923111,100
+2818,b stelzer,b stelzer,A5107926920,A5105576682,100
+2819,b stelzer,b stelzer,A5107926920,A5105630759,100
+2820,b stelzer,b stelzer,A5107926920,A5107367903,100
+2821,vahideh shirmohammadli,a h shirmohammadi,A5009499082,A5074222454,82
+2822,david swanlund,david sun,A5074444977,A5040538968,78
+2823,david l shen,david g schell,A5040209382,A5074921563,77
+2824,david l shen,david sun,A5040209382,A5040538968,76
+2825,victor song,victor soares,A5008590238,A5113114976,75
+2826,hossein sharifi-noghabi,hossein sharifi-noghabi,A5032352229,A5007272574,100
+2827,thushani de silva,gl thushani de silva,A5068060581,A5013022283,92
+2828,julia smith,erica smith,A5103820823,A5103590183,73
+2829,mohammad amin shabani,mohammad rajabi seraji,A5016935099,A5030896724,70
+2830,mohammad amin shabani,mohammadhadi salari,A5016935099,A5011097236,75
+2831,b stelzer,b stelzer,A5105936614,A5107903224,100
+2832,b stelzer,b stelzer,A5105936614,A5107911566,100
+2833,b stelzer,b stelzer,A5105936614,A5105285075,100
+2834,b stelzer,b stelzer,A5105936614,A5107894826,100
+2835,b stelzer,b stelzer,A5105936614,A5107843826,100
+2836,b stelzer,b stelzer,A5105936614,A5107907943,100
+2837,b stelzer,b stelzer,A5105936614,A5107921576,100
+2838,b stelzer,b stelzer,A5105936614,A5107749653,100
+2839,b stelzer,b stelzer,A5105936614,A5107912593,100
+2840,b stelzer,b stelzer,A5105936614,A5107914867,100
+2841,b stelzer,b stelzer,A5105936614,A5105178043,100
+2842,b stelzer,b stelzer,A5105936614,A5105684434,100
+2843,b stelzer,b stelzer,A5105936614,A5105639927,100
+2844,b stelzer,b stelzer,A5105936614,A5105871878,100
+2845,b stelzer,b stelzer,A5105936614,A5107913522,100
+2846,b stelzer,b stelzer,A5105936614,A5107923111,100
+2847,b stelzer,b stelzer,A5105936614,A5105576682,100
+2848,b stelzer,b stelzer,A5105936614,A5105630759,100
+2849,b stelzer,b stelzer,A5105936614,A5107367903,100
+2850,amir safari,hamida safi,A5083414674,A5078761388,73
+2851,b stelzer,b stelzer,A5107903224,A5107911566,100
+2852,b stelzer,b stelzer,A5107903224,A5105285075,100
+2853,b stelzer,b stelzer,A5107903224,A5107894826,100
+2854,b stelzer,b stelzer,A5107903224,A5107843826,100
+2855,b stelzer,b stelzer,A5107903224,A5107907943,100
+2856,b stelzer,b stelzer,A5107903224,A5107921576,100
+2857,b stelzer,b stelzer,A5107903224,A5107749653,100
+2858,b stelzer,b stelzer,A5107903224,A5107912593,100
+2859,b stelzer,b stelzer,A5107903224,A5107914867,100
+2860,b stelzer,b stelzer,A5107903224,A5105178043,100
+2861,b stelzer,b stelzer,A5107903224,A5105684434,100
+2862,b stelzer,b stelzer,A5107903224,A5105639927,100
+2863,b stelzer,b stelzer,A5107903224,A5105871878,100
+2864,b stelzer,b stelzer,A5107903224,A5107913522,100
+2865,b stelzer,b stelzer,A5107903224,A5107923111,100
+2866,b stelzer,b stelzer,A5107903224,A5105576682,100
+2867,b stelzer,b stelzer,A5107903224,A5105630759,100
+2868,b stelzer,b stelzer,A5107903224,A5107367903,100
+2869,b stelzer,b stelzer,A5107911566,A5105285075,100
+2870,b stelzer,b stelzer,A5107911566,A5107894826,100
+2871,b stelzer,b stelzer,A5107911566,A5107843826,100
+2872,b stelzer,b stelzer,A5107911566,A5107907943,100
+2873,b stelzer,b stelzer,A5107911566,A5107921576,100
+2874,b stelzer,b stelzer,A5107911566,A5107749653,100
+2875,b stelzer,b stelzer,A5107911566,A5107912593,100
+2876,b stelzer,b stelzer,A5107911566,A5107914867,100
+2877,b stelzer,b stelzer,A5107911566,A5105178043,100
+2878,b stelzer,b stelzer,A5107911566,A5105684434,100
+2879,b stelzer,b stelzer,A5107911566,A5105639927,100
+2880,b stelzer,b stelzer,A5107911566,A5105871878,100
+2881,b stelzer,b stelzer,A5107911566,A5107913522,100
+2882,b stelzer,b stelzer,A5107911566,A5107923111,100
+2883,b stelzer,b stelzer,A5107911566,A5105576682,100
+2884,b stelzer,b stelzer,A5107911566,A5105630759,100
+2885,b stelzer,b stelzer,A5107911566,A5107367903,100
+2886,andrea n smit,andrew j sixsmith,A5044014150,A5109634693,73
+2887,andrea n smit,andrew sixsmith,A5044014150,A5116298683,71
+2888,nataliya shishov,natalia sannikova,A5048572780,A5022351435,73
+2889,b stelzer,b stelzer,A5105285075,A5107894826,100
+2890,b stelzer,b stelzer,A5105285075,A5107843826,100
+2891,b stelzer,b stelzer,A5105285075,A5107907943,100
+2892,b stelzer,b stelzer,A5105285075,A5107921576,100
+2893,b stelzer,b stelzer,A5105285075,A5107749653,100
+2894,b stelzer,b stelzer,A5105285075,A5107912593,100
+2895,b stelzer,b stelzer,A5105285075,A5107914867,100
+2896,b stelzer,b stelzer,A5105285075,A5105178043,100
+2897,b stelzer,b stelzer,A5105285075,A5105684434,100
+2898,b stelzer,b stelzer,A5105285075,A5105639927,100
+2899,b stelzer,b stelzer,A5105285075,A5105871878,100
+2900,b stelzer,b stelzer,A5105285075,A5107913522,100
+2901,b stelzer,b stelzer,A5105285075,A5107923111,100
+2902,b stelzer,b stelzer,A5105285075,A5105576682,100
+2903,b stelzer,b stelzer,A5105285075,A5105630759,100
+2904,b stelzer,b stelzer,A5105285075,A5107367903,100
+2905,b stelzer,b stelzer,A5107894826,A5107843826,100
+2906,b stelzer,b stelzer,A5107894826,A5107907943,100
+2907,b stelzer,b stelzer,A5107894826,A5107921576,100
+2908,b stelzer,b stelzer,A5107894826,A5107749653,100
+2909,b stelzer,b stelzer,A5107894826,A5107912593,100
+2910,b stelzer,b stelzer,A5107894826,A5107914867,100
+2911,b stelzer,b stelzer,A5107894826,A5105178043,100
+2912,b stelzer,b stelzer,A5107894826,A5105684434,100
+2913,b stelzer,b stelzer,A5107894826,A5105639927,100
+2914,b stelzer,b stelzer,A5107894826,A5105871878,100
+2915,b stelzer,b stelzer,A5107894826,A5107913522,100
+2916,b stelzer,b stelzer,A5107894826,A5107923111,100
+2917,b stelzer,b stelzer,A5107894826,A5105576682,100
+2918,b stelzer,b stelzer,A5107894826,A5105630759,100
+2919,b stelzer,b stelzer,A5107894826,A5107367903,100
+2920,hanieh shakeri,hamide sharifi,A5032512818,A5012898139,71
+2921,neha sharma,nilesh saraf,A5101585562,A5103100176,70
+2922,neha sharma,neha shivhare,A5101585562,A5050482813,75
+2923,darren sutton,db sutton,A5002263224,A5063703351,73
+2924,cameron scott,n scott,A5030564726,A5011600617,70
+2925,victoria spartacus,victor soares,A5030836793,A5113114976,71
+2926,anand sagar,anand shah,A5037644440,A5108225499,76
+2927,amirali sharifian,hamide sharifi,A5040436347,A5012898139,71
+2928,jonas stoll,jonas stoll,A5051397053,A5078582129,100
+2929,eleanor simpson,rylen sampson,A5058492585,A5113413885,71
+2930,erica smith,ryan j smith,A5103590183,A5102649064,70
+2931,b stelzer,b stelzer,A5107843826,A5107907943,100
+2932,b stelzer,b stelzer,A5107843826,A5107921576,100
+2933,b stelzer,b stelzer,A5107843826,A5107749653,100
+2934,b stelzer,b stelzer,A5107843826,A5107912593,100
+2935,b stelzer,b stelzer,A5107843826,A5107914867,100
+2936,b stelzer,b stelzer,A5107843826,A5105178043,100
+2937,b stelzer,b stelzer,A5107843826,A5105684434,100
+2938,b stelzer,b stelzer,A5107843826,A5105639927,100
+2939,b stelzer,b stelzer,A5107843826,A5105871878,100
+2940,b stelzer,b stelzer,A5107843826,A5107913522,100
+2941,b stelzer,b stelzer,A5107843826,A5107923111,100
+2942,b stelzer,b stelzer,A5107843826,A5105576682,100
+2943,b stelzer,b stelzer,A5107843826,A5105630759,100
+2944,b stelzer,b stelzer,A5107843826,A5107367903,100
+2945,anand shah,tanay saha,A5108225499,A5102864142,70
+2946,tamara shulman,tammara somma,A5055980951,A5099474950,74
+2947,jeffrey van santen,jeffrey a van santen,A5058603439,A5106945613,95
+2948,d j sheppard,d j sheppard,A5107946472,A5105871868,100
+2949,d j sheppard,d j sheppard,A5107946472,A5105728257,100
+2950,mathew schneider,joyce schneider,A5103146504,A5079022424,71
+2951,d j sheppard,d j sheppard,A5105871868,A5105728257,100
+2952,b stelzer,b stelzer,A5107907943,A5107921576,100
+2953,b stelzer,b stelzer,A5107907943,A5107749653,100
+2954,b stelzer,b stelzer,A5107907943,A5107912593,100
+2955,b stelzer,b stelzer,A5107907943,A5107914867,100
+2956,b stelzer,b stelzer,A5107907943,A5105178043,100
+2957,b stelzer,b stelzer,A5107907943,A5105684434,100
+2958,b stelzer,b stelzer,A5107907943,A5105639927,100
+2959,b stelzer,b stelzer,A5107907943,A5105871878,100
+2960,b stelzer,b stelzer,A5107907943,A5107913522,100
+2961,b stelzer,b stelzer,A5107907943,A5107923111,100
+2962,b stelzer,b stelzer,A5107907943,A5105576682,100
+2963,b stelzer,b stelzer,A5107907943,A5105630759,100
+2964,b stelzer,b stelzer,A5107907943,A5107367903,100
+2965,b stelzer,b stelzer,A5107921576,A5107749653,100
+2966,b stelzer,b stelzer,A5107921576,A5107912593,100
+2967,b stelzer,b stelzer,A5107921576,A5107914867,100
+2968,b stelzer,b stelzer,A5107921576,A5105178043,100
+2969,b stelzer,b stelzer,A5107921576,A5105684434,100
+2970,b stelzer,b stelzer,A5107921576,A5105639927,100
+2971,b stelzer,b stelzer,A5107921576,A5105871878,100
+2972,b stelzer,b stelzer,A5107921576,A5107913522,100
+2973,b stelzer,b stelzer,A5107921576,A5107923111,100
+2974,b stelzer,b stelzer,A5107921576,A5105576682,100
+2975,b stelzer,b stelzer,A5107921576,A5105630759,100
+2976,b stelzer,b stelzer,A5107921576,A5107367903,100
+2977,aayush sharma,vaishali sharma,A5004616360,A5108336696,71
+2978,b stelzer,b stelzer,A5107749653,A5107912593,100
+2979,b stelzer,b stelzer,A5107749653,A5107914867,100
+2980,b stelzer,b stelzer,A5107749653,A5105178043,100
+2981,b stelzer,b stelzer,A5107749653,A5105684434,100
+2982,b stelzer,b stelzer,A5107749653,A5105639927,100
+2983,b stelzer,b stelzer,A5107749653,A5105871878,100
+2984,b stelzer,b stelzer,A5107749653,A5107913522,100
+2985,b stelzer,b stelzer,A5107749653,A5107923111,100
+2986,b stelzer,b stelzer,A5107749653,A5105576682,100
+2987,b stelzer,b stelzer,A5107749653,A5105630759,100
+2988,b stelzer,b stelzer,A5107749653,A5107367903,100
+2989,b stelzer,b stelzer,A5107912593,A5107914867,100
+2990,b stelzer,b stelzer,A5107912593,A5105178043,100
+2991,b stelzer,b stelzer,A5107912593,A5105684434,100
+2992,b stelzer,b stelzer,A5107912593,A5105639927,100
+2993,b stelzer,b stelzer,A5107912593,A5105871878,100
+2994,b stelzer,b stelzer,A5107912593,A5107913522,100
+2995,b stelzer,b stelzer,A5107912593,A5107923111,100
+2996,b stelzer,b stelzer,A5107912593,A5105576682,100
+2997,b stelzer,b stelzer,A5107912593,A5105630759,100
+2998,b stelzer,b stelzer,A5107912593,A5107367903,100
+2999,b stelzer,b stelzer,A5107914867,A5105178043,100
+3000,b stelzer,b stelzer,A5107914867,A5105684434,100
+3001,b stelzer,b stelzer,A5107914867,A5105639927,100
+3002,b stelzer,b stelzer,A5107914867,A5105871878,100
+3003,b stelzer,b stelzer,A5107914867,A5107913522,100
+3004,b stelzer,b stelzer,A5107914867,A5107923111,100
+3005,b stelzer,b stelzer,A5107914867,A5105576682,100
+3006,b stelzer,b stelzer,A5107914867,A5105630759,100
+3007,b stelzer,b stelzer,A5107914867,A5107367903,100
+3008,akhmedkhan shabanov,akhmedkhan ahan shabanov,A5108762255,A5108988979,88
+3009,mohamad sadri,elham sadr,A5015687690,A5091124514,70
+3010,mohamad sadri,mohammadhadi salari,A5015687690,A5011097236,75
+3011,samantha c seto,samantha e sellars,A5090207645,A5059976213,73
+3012,emma starke,emma squires,A5105083660,A5015623847,70
+3013,shuoge shen,shao yu shen,A5034841277,A5072236112,70
+3014,mohammadsadegh saberian,mohammadhadi salari,A5044786197,A5011097236,71
+3015,b stelzer,b stelzer,A5105178043,A5105684434,100
+3016,b stelzer,b stelzer,A5105178043,A5105639927,100
+3017,b stelzer,b stelzer,A5105178043,A5105871878,100
+3018,b stelzer,b stelzer,A5105178043,A5107913522,100
+3019,b stelzer,b stelzer,A5105178043,A5107923111,100
+3020,b stelzer,b stelzer,A5105178043,A5105576682,100
+3021,b stelzer,b stelzer,A5105178043,A5105630759,100
+3022,b stelzer,b stelzer,A5105178043,A5107367903,100
+3023,b stelzer,b stelzer,A5105684434,A5105639927,100
+3024,b stelzer,b stelzer,A5105684434,A5105871878,100
+3025,b stelzer,b stelzer,A5105684434,A5107913522,100
+3026,b stelzer,b stelzer,A5105684434,A5107923111,100
+3027,b stelzer,b stelzer,A5105684434,A5105576682,100
+3028,b stelzer,b stelzer,A5105684434,A5105630759,100
+3029,b stelzer,b stelzer,A5105684434,A5107367903,100
+3030,hamide sharifi,hamida safi,A5012898139,A5078761388,80
+3031,sarine sadhra,sina sadrian,A5050490727,A5078353272,72
+3032,anmol swaich,anmol swaich,A5092051999,A5092986563,100
+3033,b stelzer,b stelzer,A5105639927,A5105871878,100
+3034,b stelzer,b stelzer,A5105639927,A5107913522,100
+3035,b stelzer,b stelzer,A5105639927,A5107923111,100
+3036,b stelzer,b stelzer,A5105639927,A5105576682,100
+3037,b stelzer,b stelzer,A5105639927,A5105630759,100
+3038,b stelzer,b stelzer,A5105639927,A5107367903,100
+3039,b stelzer,b stelzer,A5105871878,A5107913522,100
+3040,b stelzer,b stelzer,A5105871878,A5107923111,100
+3041,b stelzer,b stelzer,A5105871878,A5105576682,100
+3042,b stelzer,b stelzer,A5105871878,A5105630759,100
+3043,b stelzer,b stelzer,A5105871878,A5107367903,100
+3044,b stelzer,b stelzer,A5107913522,A5107923111,100
+3045,b stelzer,b stelzer,A5107913522,A5105576682,100
+3046,b stelzer,b stelzer,A5107913522,A5105630759,100
+3047,b stelzer,b stelzer,A5107913522,A5107367903,100
+3048,b stelzer,b stelzer,A5107923111,A5105576682,100
+3049,b stelzer,b stelzer,A5107923111,A5105630759,100
+3050,b stelzer,b stelzer,A5107923111,A5107367903,100
+3051,stephanie c stelmaschuk,stephanie c stelmachuk,A5020197736,A5075274634,98
+3052,malihe saeidi,mahdi sajedi,A5049270193,A5090997593,72
+3053,a sixsmith,andrew j sixsmith,A5061578981,A5109634693,74
+3054,a sixsmith,andrew sixsmith,A5061578981,A5116298683,80
+3055,mani sadati,mahdi sajedi,A5083398015,A5090997593,70
+3056,mahdi sajedi,mahdi salehzadeh,A5090997593,A5114564446,71
+3057,b stelzer,b stelzer,A5105576682,A5105630759,100
+3058,b stelzer,b stelzer,A5105576682,A5107367903,100
+3059,b stelzer,b stelzer,A5105630759,A5107367903,100
+3060,andrew j sixsmith,andrew sixsmith,A5109634693,A5116298683,94
+3061,victor ht soares,victor soares,A5113007020,A5113114976,90
+3062,emad shams,emad shams,A5117599882,A5117599958,100
+3063,j r thompson,sarah k thompson,A5102732555,A5038186298,71
+3064,j r thompson,ker c thomson,A5102732555,A5034514284,72
+3065,j r thompson,david c thompson,A5102732555,A5083128208,71
+3066,j r thompson,brittni thompson,A5102732555,A5083662163,71
+3067,j r thompson,jenna thomson,A5102732555,A5086201180,72
+3068,sarah k thompson,steven k thompson,A5038186298,A5106034896,73
+3069,d temple,d temple,A5107856241,A5088845870,100
+3070,david c thomas,david c thompson,A5101577676,A5083128208,87
+3071,paul tupper,p tupper,A5078121912,A5025327252,84
+3072,steven k thompson,trevor j thomson,A5106034896,A5068383320,73
+3073,steven k thompson,kathleen thomson,A5106034896,A5055498983,73
+3074,kimberly thomson,ker c thomson,A5013264197,A5034514284,76
+3075,hamel n tailor,rhea tailor,A5110138646,A5093425940,72
+3076,ann travers,dan traviss,A5007322964,A5099001438,73
+3077,karen tanenbaum,howard tenenbaum,A5029100601,A5058908890,71
+3078,sian hsiang‐te tsuei,sian h tsuei,A5018575289,A5094180071,75
+3079,hung truong,elson truong,A5075259415,A5005127125,70
+3080,janine toole,joanne telfer,A5063748773,A5004513757,72
+3081,michael j trimble,michael trimble,A5059892142,A5114186388,94
+3082,shitao tang,jingtao tang,A5110510798,A5090440775,78
+3083,shitao tang,jingtao tang,A5110510798,A5032259301,78
+3084,ker c thomson,trevor j thomson,A5034514284,A5068383320,76
+3085,ker c thomson,brian s thomson,A5034514284,A5102327370,71
+3086,paige tuttösí,paige tuttosi,A5064388924,A5020759758,85
+3087,daniel tay,daniel tarnu,A5019604712,A5011155609,82
+3088,daniel tay,daniel tarnu,A5019604712,A5011329358,82
+3089,jingtao tang,jingtao tang,A5090440775,A5032259301,100
+3090,sean tok,stephanie to,A5074253286,A5110741253,70
+3091,shanwei tong,hanh t tong,A5046303550,A5054159808,70
+3092,sara taghipour,parnian taghipour,A5089099162,A5092503488,84
+3093,omnia taha,omnia m taha,A5089318544,A5055623045,91
+3094,stephanie to,nathaniel tok,A5110741253,A5092582759,72
+3095,cassidy tam,jessy tam,A5009083898,A5063288440,70
+3096,daniel tarnu,daniel tarnu,A5011155609,A5011329358,100
+3097,brittni thompson,brian s thomson,A5083662163,A5102327370,77
+3098,hoda taeb,hoda taeb,A5094130030,A5114404551,100
+3099,kamala todd,par kamala todd,A5093134137,A5111063660,85
+3100,allen tung,allen tung,A5099161400,A5099161401,100
+3101,deniz ugur,deniz g ural,A5077892929,A5117273249,82
+3102,natasha vitkin,natasha virginkar,A5032369400,A5074408591,77
+3103,yue wang,ke wang,A5100371992,A5100360129,80
+3104,yue wang,yang wang,A5100371992,A5100322922,71
+3105,yue wang,ke wang,A5100371992,A5100726478,80
+3106,yue wang,yuepeng wang,A5100371992,A5024695395,80
+3107,yue wang,j wang,A5100371992,A5064909746,71
+3108,yue wang,r wang,A5100371992,A5045307948,71
+3109,yue wang,yue wang,A5100371992,A5048572774,100
+3110,yue wang,g wang,A5100371992,A5061444400,71
+3111,yue wang,h wang,A5100371992,A5009973876,71
+3112,yue wang,c wang,A5100371992,A5030973280,71
+3113,yue wang,yi wang,A5100371992,A5071864494,80
+3114,tony d williams,vance e williams,A5068175779,A5010948237,71
+3115,tony d williams,tony d williams,A5068175779,A5107304098,100
+3116,tony d williams,erin l williams,A5068175779,A5068345285,73
+3117,tony d williams,katrina williams,A5068175779,A5053056729,71
+3118,meghan winters,m winters,A5023136423,A5112062797,78
+3119,meghan winters,megan walter,A5023136423,A5104283805,77
+3120,andrew wister,andrew g wright,A5036927304,A5040955445,71
+3121,andrew wister,andrew c wylie,A5036927304,A5071540419,74
+3122,jennifer s wong,jennifer wang,A5018101953,A5023442198,86
+3123,vance e williams,tony d williams,A5010948237,A5107304098,71
+3124,vance e williams,erin l williams,A5010948237,A5068345285,71
+3125,vance e williams,jack g williams,A5010948237,A5114230064,77
+3126,jiannan wang,jiacheng wang,A5101850961,A5100727957,72
+3127,jiannan wang,jiannan wang,A5101850961,A5101850960,100
+3128,jiannan wang,nena y wang,A5101850961,A5077705483,70
+3129,jiannan wang,xin wang,A5101850961,A5087074091,70
+3130,qi wang,ke wang,A5100341251,A5100360129,71
+3131,qi wang,ke wang,A5100341251,A5100726478,71
+3132,qi wang,bixia wang,A5100341251,A5052919764,71
+3133,qi wang,j wang,A5100341251,A5064909746,77
+3134,qi wang,r wang,A5100341251,A5045307948,77
+3135,qi wang,quincy q wang,A5100341251,A5045857676,70
+3136,qi wang,g wang,A5100341251,A5061444400,77
+3137,qi wang,h wang,A5100341251,A5009973876,77
+3138,qi wang,c wang,A5100341251,A5030973280,77
+3139,qi wang,yi wang,A5100341251,A5071864494,86
+3140,qi wang,ruiqi wang,A5100341251,A5047012415,82
+3141,qi wang,xin wang,A5100341251,A5087074091,80
+3142,qi wang,mengqin wang,A5100341251,A5109697714,74
+3143,jiacheng wang,tianzheng wang,A5100727957,A5101598171,81
+3144,jiacheng wang,yang wang,A5100727957,A5100322922,73
+3145,jiacheng wang,tianzheng wang,A5100727957,A5103765343,81
+3146,jiacheng wang,jiannan wang,A5100727957,A5101850960,72
+3147,john r welch,john r weekes,A5065777478,A5073574723,72
+3148,barbara j wilson,darryl m wilson,A5103138454,A5070478330,71
+3149,david g t whitehurst,david gt whitehirst,A5045933977,A5113131774,92
+3150,tianzheng wang,yang wang,A5101598171,A5100322922,70
+3151,tianzheng wang,tianzheng wang,A5101598171,A5103765343,100
+3152,tianzheng wang,zhengqing wang,A5101598171,A5005632299,71
+3153,matthew d white,matthea wiebe,A5101611665,A5077490163,71
+3154,k whitmore,r white,A5088713996,A5022561716,71
+3155,ke wang,ke wang,A5100360129,A5100726478,100
+3156,ke wang,j wang,A5100360129,A5064909746,77
+3157,ke wang,r wang,A5100360129,A5045307948,77
+3158,ke wang,yue wang,A5100360129,A5048572774,80
+3159,ke wang,g wang,A5100360129,A5061444400,77
+3160,ke wang,h wang,A5100360129,A5009973876,77
+3161,ke wang,c wang,A5100360129,A5030973280,77
+3162,ke wang,yi wang,A5100360129,A5071864494,71
+3163,yang wang,tianzheng wang,A5100322922,A5103765343,70
+3164,yang wang,tao wang,A5100322922,A5100453702,71
+3165,yang wang,yitong wang,A5100322922,A5118608059,80
+3166,yang wang,zhuangfei wang,A5100322922,A5018077544,70
+3167,yang wang,yuepeng wang,A5100322922,A5024695395,76
+3168,yang wang,yue wang,A5100322922,A5048572774,71
+3169,yang wang,g wang,A5100322922,A5061444400,80
+3170,yang wang,xiaoying wang,A5100322922,A5075566936,73
+3171,yang wang,xiaoying wang,A5100322922,A5031483277,73
+3172,yang wang,yi wang,A5100322922,A5071864494,75
+3173,yang wang,fangxing wang,A5100322922,A5055564425,73
+3174,yang wang,xin wang,A5100322922,A5087074091,71
+3175,ke wang,j wang,A5100726478,A5064909746,77
+3176,ke wang,r wang,A5100726478,A5045307948,77
+3177,ke wang,yue wang,A5100726478,A5048572774,80
+3178,ke wang,g wang,A5100726478,A5061444400,77
+3179,ke wang,h wang,A5100726478,A5009973876,77
+3180,ke wang,c wang,A5100726478,A5030973280,77
+3181,ke wang,yi wang,A5100726478,A5071864494,71
+3182,deirdre weymann,deirdre weymann,A5039287543,A5112366893,100
+3183,tianzheng wang,zhengqing wang,A5103765343,A5005632299,71
+3184,kyle l wilson,darryl m wilson,A5014038622,A5070478330,71
+3185,tony d williams,erin l williams,A5107304098,A5068345285,73
+3186,tony d williams,katrina williams,A5107304098,A5053056729,71
+3187,bixia wang,xiaoying wang,A5052919764,A5075566936,70
+3188,bixia wang,xiaoying wang,A5052919764,A5031483277,70
+3189,bixia wang,xiaolei wang,A5052919764,A5012106743,73
+3190,bixia wang,yi wang,A5052919764,A5071864494,71
+3191,bixia wang,ruiqi wang,A5052919764,A5047012415,70
+3192,bixia wang,xin wang,A5052919764,A5087074091,78
+3193,bixia wang,bi-xia wang,A5052919764,A5113040768,95
+3194,claire wilson,claire wilson,A5102751459,A5023990167,100
+3195,jessica wittmann,jessica whitehead,A5018971642,A5101669588,73
+3196,kenneth kin lam wong,kenneth c k wong,A5045319854,A5047375842,78
+3197,jiannan wang,nena y wang,A5101850960,A5077705483,70
+3198,jiannan wang,xin wang,A5101850960,A5087074091,70
+3199,sara williamson,katrina williams,A5062588698,A5053056729,77
+3200,g gary wang,r wang,A5007112989,A5045307948,71
+3201,g gary wang,g wang,A5007112989,A5061444400,71
+3202,tao wang,yitong wang,A5100453702,A5118608059,74
+3203,tao wang,j wang,A5100453702,A5064909746,71
+3204,tao wang,r wang,A5100453702,A5045307948,71
+3205,tao wang,g wang,A5100453702,A5061444400,71
+3206,tao wang,h wang,A5100453702,A5009973876,71
+3207,tao wang,xiaolei wang,A5100453702,A5012106743,70
+3208,tao wang,c wang,A5100453702,A5030973280,71
+3209,zezhong wang,yitong wang,A5080413518,A5118608059,70
+3210,yitong wang,yuepeng wang,A5118608059,A5024695395,70
+3211,yitong wang,g wang,A5118608059,A5061444400,71
+3212,yitong wang,xiaoying wang,A5118608059,A5075566936,75
+3213,yitong wang,xiaoying wang,A5118608059,A5031483277,75
+3214,yitong wang,yi wang,A5118608059,A5071864494,78
+3215,yitong wang,xin wang,A5118608059,A5087074091,74
+3216,erin l williams,katrina williams,A5068345285,A5053056729,77
+3217,zhengqing wang,zhuangfei wang,A5005632299,A5018077544,71
+3218,zhengqing wang,fangxing wang,A5005632299,A5055564425,74
+3219,zhengqing wang,mengqin wang,A5005632299,A5109697714,85
+3220,yuepeng wang,yue wang,A5024695395,A5048572774,80
+3221,noelle warkentin,luke warkentin,A5036298542,A5069332430,80
+3222,megan wong,mengqin wang,A5042531749,A5109697714,73
+3223,kevin wagner,kevin winther,A5043519692,A5106621638,80
+3224,amanda wallace,alannah wallace,A5083012202,A5055356925,83
+3225,lucas wu,lucas y wu,A5000594667,A5052301741,89
+3226,rachel waterworth,rachel warwick,A5061690400,A5041112834,71
+3227,j wang,r wang,A5064909746,A5045307948,83
+3228,j wang,yue wang,A5064909746,A5048572774,71
+3229,j wang,g wang,A5064909746,A5061444400,83
+3230,j wang,h wang,A5064909746,A5009973876,83
+3231,j wang,c wang,A5064909746,A5030973280,83
+3232,j wang,yi wang,A5064909746,A5071864494,77
+3233,j wang,z m wang,A5064909746,A5000634643,71
+3234,j wang,xin wang,A5064909746,A5087074091,71
+3235,a woinoski,tim woinoski,A5031293841,A5112857475,82
+3236,r wang,yue wang,A5045307948,A5048572774,71
+3237,r wang,g wang,A5045307948,A5061444400,83
+3238,r wang,h wang,A5045307948,A5009973876,83
+3239,r wang,c wang,A5045307948,A5030973280,83
+3240,r wang,yi wang,A5045307948,A5071864494,77
+3241,r wang,z m wang,A5045307948,A5000634643,71
+3242,r wang,ruiqi wang,A5045307948,A5047012415,75
+3243,r wang,robert wang,A5045307948,A5076932461,71
+3244,r wang,xin wang,A5045307948,A5087074091,71
+3245,quincy q wang,ruiqi wang,A5045857676,A5047012415,70
+3246,yue wang,g wang,A5048572774,A5061444400,71
+3247,yue wang,h wang,A5048572774,A5009973876,71
+3248,yue wang,c wang,A5048572774,A5030973280,71
+3249,yue wang,yi wang,A5048572774,A5071864494,80
+3250,g wang,h wang,A5061444400,A5009973876,83
+3251,g wang,c wang,A5061444400,A5030973280,83
+3252,g wang,yi wang,A5061444400,A5071864494,77
+3253,g wang,z m wang,A5061444400,A5000634643,71
+3254,g wang,xin wang,A5061444400,A5087074091,71
+3255,xiaoying wang,xiaoying wang,A5075566936,A5031483277,100
+3256,xiaoying wang,xiaolei wang,A5075566936,A5012106743,80
+3257,xiaoying wang,yi wang,A5075566936,A5071864494,70
+3258,xiaoying wang,xin wang,A5075566936,A5087074091,76
+3259,timothy woinoski,tim woinoski,A5112497827,A5112857475,86
+3260,nesha wright,natasha wainwright,A5114017460,A5037446812,73
+3261,h wang,c wang,A5009973876,A5030973280,83
+3262,h wang,yi wang,A5009973876,A5071864494,77
+3263,h wang,z m wang,A5009973876,A5000634643,71
+3264,h wang,xin wang,A5009973876,A5087074091,71
+3265,matthea wiebe,matthew wegener,A5077490163,A5019868813,71
+3266,tianbi wu,tiffany wun,A5077851516,A5097660125,70
+3267,tianbi wu,tianbu wu,A5077851516,A5113986242,89
+3268,xiaoying wang,xiaolei wang,A5031483277,A5012106743,80
+3269,xiaoying wang,yi wang,A5031483277,A5071864494,70
+3270,xiaoying wang,xin wang,A5031483277,A5087074091,76
+3271,xiaolei wang,xin wang,A5012106743,A5087074091,70
+3272,xiaolei wang,bi-xia wang,A5012106743,A5113040768,70
+3273,c wang,yi wang,A5030973280,A5071864494,77
+3274,c wang,z m wang,A5030973280,A5000634643,71
+3275,c wang,xin wang,A5030973280,A5087074091,71
+3276,yi wang,ruiqi wang,A5071864494,A5047012415,71
+3277,yi wang,xin wang,A5071864494,A5087074091,80
+3278,calvert woodruff,cal woodruff,A5007490784,A5058077634,86
+3279,bhairavi warke,bhairavi warke,A5020850904,A5038785402,100
+3280,rwm woodside,r woods,A5021831093,A5067831979,74
+3281,fangxing wang,xin wang,A5055564425,A5087074091,76
+3282,fangxing wang,mengqin wang,A5055564425,A5109697714,72
+3283,xin wang,mengqin wang,A5087074091,A5109697714,70
+3284,xin wang,bi-xia wang,A5087074091,A5113040768,74
+3285,tiffany wun,tianbu wu,A5097660125,A5113986242,70
+3286,min xu,xiang xu,A5100413849,A5101575687,71
+3287,min xu,gavin xu,A5100413849,A5112404203,71
+3288,hui xie,hui xie,A5035823220,A5114149146,100
+3289,hui xie,h xie,A5035823220,A5057652444,83
+3290,hui xie,h xie,A5035823220,A5083881932,83
+3291,hui xie,h xie,A5035823220,A5073379056,83
+3292,xiang xu,linwan xu,A5101575687,A5031735978,71
+3293,hui xie,h xie,A5114149146,A5057652444,83
+3294,hui xie,h xie,A5114149146,A5083881932,83
+3295,hui xie,h xie,A5114149146,A5073379056,83
+3296,h xie,h xie,A5057652444,A5083881932,100
+3297,h xie,h xie,A5057652444,A5073379056,100
+3298,h xie,h xie,A5083881932,A5073379056,100
+3299,minghao yin,ming yin,A5023555343,A5101273683,84
+3300,hua‐zhong yu,zhang yu,A5028734301,A5113746120,70
+3301,ronald c ydenberg,ron ydenberg,A5060793104,A5109944350,83
+3302,hua yang,vera yang,A5076875770,A5037286751,71
+3303,hua yang,vera yang,A5076875770,A5064894884,71
+3304,xing-dong yang,xingdong yang,A5084933066,A5111939848,96
+3305,kuo‐hsin yang,yupin yang,A5004244030,A5014233628,70
+3306,jie yang,sen yang,A5050953909,A5101842208,75
+3307,jie yang,vera yang,A5050953909,A5037286751,71
+3308,jie yang,vera yang,A5050953909,A5064894884,71
+3309,jie yang,wen yang,A5050953909,A5100592332,75
+3310,yichen yan,yupin yang,A5019810767,A5014233628,70
+3311,yichen yan,yichen yan,A5019810767,A5013869037,100
+3312,kangkang yin,zhangyang ying,A5066958130,A5099178243,77
+3313,jeffrey yip,jefferey yue,A5060169756,A5069306754,78
+3314,zhang yu,hogan yu,A5113746120,A5075818003,75
+3315,sen yang,kefan yang,A5101842208,A5076463655,78
+3316,sen yang,vera yang,A5101842208,A5037286751,71
+3317,sen yang,vera yang,A5101842208,A5064894884,71
+3318,sen yang,wen yang,A5101842208,A5100592332,88
+3319,edgar c young,erik young,A5009168143,A5001946525,70
+3320,nancy yang,diana yang,A5015559101,A5034829373,70
+3321,nancy yang,kefan yang,A5015559101,A5076463655,70
+3322,nancy yang,andy yan,A5015559101,A5050260428,78
+3323,nancy yang,dongya y yang,A5015559101,A5101882275,70
+3324,erik young,peter j young,A5001946525,A5102453986,70
+3325,andy yoon,andy yan,A5036756377,A5050260428,82
+3326,m a yakovlev,m yakovlev,A5050510999,A5085376161,91
+3327,m a yakovlev,michael yakovlev,A5050510999,A5020948201,79
+3328,minyoung yoo,byoungjoo yoo,A5001832802,A5016324092,72
+3329,yupin yang,yichen yan,A5014233628,A5013869037,70
+3330,yupin yang,diana yang,A5014233628,A5034829373,70
+3331,yupin yang,yiqiu yang,A5014233628,A5063803367,70
+3332,m yakovlev,michael yakovlev,A5085376161,A5020948201,77
+3333,nastaran yousefi,baharak yousefi,A5085862809,A5035873436,77
+3334,zhiqi yin,ziyi yan,A5012740508,A5101871054,71
+3335,diana yang,kefan yang,A5034829373,A5076463655,70
+3336,kefan yang,vera yang,A5076463655,A5037286751,74
+3337,kefan yang,vera yang,A5076463655,A5064894884,74
+3338,kefan yang,wen yang,A5076463655,A5100592332,78
+3339,mandy yip,andy yan,A5049431719,A5050260428,71
+3340,vera yang,vera yang,A5037286751,A5064894884,100
+3341,vera yang,wen yang,A5037286751,A5100592332,71
+3342,vera yang,wen yang,A5064894884,A5100592332,71
+3343,hao zhang,miao zhang,A5100397026,A5100376451,84
+3344,hao zhang,yuguo zhang,A5100397026,A5103035767,70
+3345,hao zhang,ray zhang,A5100397026,A5072911375,78
+3346,hao zhang,howard zhang,A5100397026,A5055622169,76
+3347,hao zhang,z zhang,A5100397026,A5009011522,75
+3348,hao zhang,miao zhang,A5100397026,A5092460727,84
+3349,hao zhang,n zhang,A5100397026,A5061007955,75
+3350,hao zhang,zhitian zhang,A5100397026,A5111217709,73
+3351,hao zhang,j zhang,A5100397026,A5070372260,75
+3352,di zhao,jia zhao,A5025337002,A5101724268,80
+3353,di zhao,kino zhao,A5025337002,A5038065482,75
+3354,di zhao,sida zhao,A5025337002,A5070688108,75
+3355,wen zhou,yan zhou,A5112896510,A5100735888,75
+3356,wen zhou,wenjun zhao,A5112896510,A5103291374,74
+3357,sha zhu,shiqu zhou,A5053072115,A5069692137,71
+3358,judith lynne zaichkowsky,judy zaichkowsky,A5067340182,A5015084242,80
+3359,jia zhao,kino zhao,A5101724268,A5038065482,71
+3360,jia zhao,sida zhao,A5101724268,A5070688108,82
+3361,yufei zheng,ying zeng,A5100642110,A5044392969,70
+3362,miao zhang,ray zhang,A5100376451,A5072911375,74
+3363,miao zhang,z zhang,A5100376451,A5009011522,71
+3364,miao zhang,miao zhang,A5100376451,A5092460727,100
+3365,miao zhang,n zhang,A5100376451,A5061007955,71
+3366,miao zhang,zhitian zhang,A5100376451,A5111217709,70
+3367,miao zhang,j zhang,A5100376451,A5070372260,71
+3368,yanping zhu,yan zhou,A5102789450,A5100735888,74
+3369,zhilin zhang,z zhang,A5100723116,A5009011522,74
+3370,zhilin zhang,n zhang,A5100723116,A5061007955,74
+3371,zhilin zhang,zhitian zhang,A5100723116,A5111217709,88
+3372,yan zhou,haoyuan zhao,A5100735888,A5114832292,70
+3373,yan zhou,haoxuan zhou,A5100735888,A5006253199,70
+3374,yan zhou,haobin zhou,A5100735888,A5108968499,74
+3375,yan zhou,y v zhou,A5100735888,A5031526350,75
+3376,peng zhang,yumeng zhuang,A5100364110,A5032031550,78
+3377,peng zhang,z zhang,A5100364110,A5009011522,71
+3378,peng zhang,peng zhang,A5100364110,A5101104586,100
+3379,peng zhang,liheng h zhuang,A5100364110,A5011495300,72
+3380,peng zhang,tingyu zhang,A5100364110,A5038286158,73
+3381,peng zhang,n zhang,A5100364110,A5061007955,82
+3382,peng zhang,j zhang,A5100364110,A5070372260,71
+3383,yuguo zhang,ray zhang,A5103035767,A5072911375,70
+3384,yuguo zhang,yuxuan zhang,A5103035767,A5100319892,78
+3385,yuguo zhang,yumeng zhuang,A5103035767,A5032031550,75
+3386,yuguo zhang,tingyu zhang,A5103035767,A5038286158,70
+3387,yuguo zhang,yuxuan zhang,A5103035767,A5022899819,78
+3388,ray zhang,z zhang,A5072911375,A5009011522,75
+3389,ray zhang,miao zhang,A5072911375,A5092460727,74
+3390,ray zhang,n zhang,A5072911375,A5061007955,75
+3391,ray zhang,j zhang,A5072911375,A5070372260,75
+3392,yuxuan zhang,n zhang,A5100319892,A5061007955,74
+3393,yuxuan zhang,yuxuan zhang,A5100319892,A5022899819,100
+3394,haoyuan zhao,haoxuan zhou,A5114832292,A5006253199,83
+3395,haoyuan zhao,haobin zhou,A5114832292,A5108968499,70
+3396,carson zellman,carson o zellmann-parrotta,A5114043932,A5022846536,70
+3397,haoxuan zhou,haobin zhou,A5006253199,A5108968499,78
+3398,yumeng zhuang,peng zhang,A5032031550,A5101104586,78
+3399,yumeng zhuang,liheng h zhuang,A5032031550,A5011495300,71
+3400,yumeng zhuang,n zhang,A5032031550,A5061007955,70
+3401,yumeng zhuang,yuxuan zhang,A5032031550,A5022899819,72
+3402,z zhang,peng zhang,A5009011522,A5101104586,71
+3403,z zhang,miao zhang,A5009011522,A5092460727,71
+3404,z zhang,n zhang,A5009011522,A5061007955,86
+3405,z zhang,zhitian zhang,A5009011522,A5111217709,70
+3406,z zhang,j zhang,A5009011522,A5070372260,86
+3407,a zare,navid zare,A5067310881,A5116424440,75
+3408,maryam zarei,maryiam zahoor,A5038141267,A5115672254,77
+3409,vanja zdjelar,ivana zdjelar,A5025292022,A5114472761,92
+3410,peng zhang,liheng h zhuang,A5101104586,A5011495300,72
+3411,peng zhang,tingyu zhang,A5101104586,A5038286158,73
+3412,peng zhang,n zhang,A5101104586,A5061007955,82
+3413,peng zhang,j zhang,A5101104586,A5070372260,71
+3414,miao zhang,n zhang,A5092460727,A5061007955,71
+3415,miao zhang,zhitian zhang,A5092460727,A5111217709,70
+3416,miao zhang,j zhang,A5092460727,A5070372260,71
+3417,tingyu zhang,n zhang,A5038286158,A5061007955,74
+3418,tingyu zhang,zhitian zhang,A5038286158,A5111217709,72
+3419,n zhang,zhitian zhang,A5061007955,A5111217709,70
+3420,n zhang,yuxuan zhang,A5061007955,A5022899819,74
+3421,n zhang,j zhang,A5061007955,A5070372260,86
+3422,john zhijia zhang,zhitian zhang,A5081942907,A5111217709,73
